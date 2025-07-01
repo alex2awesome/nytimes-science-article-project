@@ -1,0 +1,2602 @@
+Journal of Mammalian Evolution (2025) 32:1
+https://doi.org/10.1007/s10914-024-09743-2
+
+RESEARCH
+
+®
+
+Check for
+updates
+
+Metabolic skinflint or spendthrift? Insights into ground sloth
+integument and thermophysiology revealed by biophysical modeling
+and clumped isotope paleothermometry
+
+Michael D. Deak’ - Warren P. Porter? - Paul D. Mathewson? - David M. Lovelace? - Randon J. Flores*-
+Aradhna K. Tripati* - Robert A. Eagle’ - Darin M. Schwartz® - Michael T. Butcher’
+
+Accepted: 17 December 2024 / Published online: 14 January 2025
+©The Author(s) 2024, corrected publication 2025
+
+Abstract
+
+Remains of megatheres have been known since the 18th -century and were among the first megafaunal vertebrates to be
+studied. While several examples of preserved integument show a thick coverage of fur for smaller ground sloths living in
+cold climates such as Mylodon and Nothrotheriops, comparatively very little is known about megathere skin. Assuming a
+typical placental mammal metabolism, it was previously hypothesized that megatheres would have had little-to-no fur as
+they achieved giant body sizes. Here the “hairless model of integument” is tested using geochemical analyses to estimate
+body temperature to generate novel models of ground sloth metabolism, fur coverage, and paleoclimate with Niche Map-
+per software. The simulations assuming metabolic activity akin to those of modern xenarthrans suggest that sparse fur
+coverage would have resulted in cold stress across most latitudinal ranges inhabited by extinct ground sloths. Specifically,
+Eremotherium predominantly required dense 10 mm fur with implications for seasonal changes of coat depth in north-
+ernmost latitudes and sparse fur in the tropics; Megatherium required dense 30 mm fur year-round in its exclusive range
+of cooler, drier climates; Mylodon and Nothrotheriops required dense 10-50 mm fur to avoid thermal stress, matching
+the integument remains of both genera, and further implying the use of behavioral thermoregulation. Moreover, clumped
+isotope paleothermometry data from the preserved teeth of four genera of ground sloth yielded reconstructed body tem-
+peratures lower than those previously reported for large terrestrial mammals (29+2°-32+3° C). This combination of low
+metabolisms and thick fur allowed ground sloths to inhabit various environments.
+
+Keywords Body temperature - Fur - Geochemistry - Metabolism - Paleoclimate - Paleontology - Skin - Xenarthra
+
+Introduction
+
+DX Michael T. Butcher
+
+mtbutcher@ysu.edu
+
+Department of Chemical and Biological Sciences,
+Youngstown State University, Youngstown, OH, USA
+
+Department of Integrative Biology, University of Wisconsin -
+Madison, Madison, WI, USA
+
+Department of Geosciences, University of Wisconsin -
+Madison, Madison, WI, USA
+
+Department of Earth and Space Sciences, University of
+California - Los Angeles, Los Angeles, CA, USA
+
+Department of Atmospheric and Oceanic Sciences, Institute
+of the Environment and Sustainability, Center for Diverse
+Leadership in Science, University of California - Los
+Angeles, Los Angeles, CA, USA
+
+Department of Geosciences, Boise State University, Boisie,
+ID, USA
+
+Xenarthrans have a rich and diverse history preserved in the
+fossil record dating back 60 million years ago (MYA) to the
+Eocene Epoch. The Xenarthra consists of the clades Cingu-
+lata, comprising living armadillos and the extinct pampa-
+theres and glyptodonts, and Pilosa, which contains anteaters
+and sloths. While the genera Choloepus (two-toed sloths)
+and Bradypus (three-toed sloths) are the only extant linages
+of (tree) sloths, numerous extinct genera of sloths (i.e., arbo-
+real, terrestrial, and aquatic) once occupied various niches
+during the Oligocene and persisted until the Late Pleisto-
+cene. Ground sloths thrived throughout South America and
+dispersed north to eventually colonize North America dur-
+ing the late Cenozoic Great American Biotic Interchange
+(GABI) (Feldhamer et al. 2007). Several extinct ground
+
+ay Springer
+
+1 Page 2 of 24
+
+sloth taxa such as Eremotherium and Megatherium became
+the largest xenarthrans ever in existence, reaching sizes
+comparable to or exceeding that of modern African savanna
+elephants.
+
+To date, preserved integument that is definitively
+attributed to the largest ground sloths Eremotherium and
+Megatherium has yet to be found. The only specimen
+of Megatherium having a sample of skin was lost before
+it could be inventoried (Pujos and Salas 2004). Nonethe-
+less, both taxa have been historically reconstructed as
+having a thick coat of long, shaggy fur similar to that of
+smaller ground sloths (e.g., Mylodon and Nothrotheriops)
+and extant tree sloths. This appearance, however, was
+challenged on the basis of thermal energetics suggesting
+a largely hairless integument in the largest ground sloths
+(McNab 1985; Farifia 2002). These analyses utilized the
+following thermal conductivity equation: (Pong = (Kgyin/S)
+X (Tinner~ Tekin)» Where ®,,,4 is the heat flow density of the
+skin, ky j, is the thermal conductivity of the skin, s is the
+skin thickness, and core body temperature and ambient
+temperature is represented by T;,,,., and T,jin, respectively.
+Farifia (2002) hypothesized that given their massive sizes,
+the large-bodied ground sloths would not have been ther-
+mally neutral if they were covered in thick fur. However,
+if the integument of Megatherium closely mirrored that of
+the largest extant terrestrial mammals (i.e., elephants, hip-
+popotamuses, and rhinoceroses), then it would be in a ther-
+moneutral zone even if the surrounding temperatures were
+nearly — 17° C on average. A thermoneutral zone is defined
+as a range of ambient temperatures where an endotherm can
+remain in heat balance without metabolic heat production
+or requiring evaporative heat loss. While it is tempting to
+make comparisons to extensively furry megafauna such as
+the woolly mammoth, it should be noted that these compari-
+sons are not applicable to megatheres. Woolly mammoths
+had a suite of adaptations for living in the frigid Siberia tun-
+dra such as reduced ear and tail sizes and an insulating layer
+of fat (Boeskorov et al. 2016), as well as hemoglobin that
+prevented their blood from freezing (Campbell et al. 2010).
+
+The “hairless model of integument” was again recently
+evoked by Lindsey et al. (2020) regarding a mass assem-
+blage of Eremotherium remains recovered from Tanque
+Loma in Ecuador. The cause of death of these animals was
+believed to be disease (or drought) from fecal matter con-
+tamination of the marsh. Lindsey et al. (2020) postulated
+that wallowing behavior would be advantageous if E. /auril-
+lardi had a hairless integument, as it would offer protection
+against the sun and tropical insects, and thus would be simi-
+lar to a protective strategy used by the largest-bodied extant
+terrestrial mammals.
+
+Despite evidence in favor of a hairless (or nearly hairless)
+model of integument in the largest ground sloths that ever
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+lived, there were critical assumptions applied to the previous
+methodologies that may not be tenable. First, the thermal
+conductivity equation used by Farifia (2002) only accounts
+for core body temperatures and the effects of ambient tem-
+peratures alone on thermoneutrality without accounting for
+other environmental factors. While this calculation is useful
+in determining heat conduction flux, other environmental
+factors that could impact thermoneutrality such as relative
+humidity and wind speed, in addition to variations in ambi-
+ent temperature across the broad geographic distribution of
+the ground sloth genera should have been considered. Sec-
+ond, the previous model (Farifia 2002) did not accurately
+account for the basal metabolism of extant xenarthrans for
+calculations of heat flux, or the thick skin of living sloths
+that would affect heat loss. Instead, the basal metabolic rate
+of a naked human was isometrically scaled up to the size
+of Megatherium assuming similar core body temperature
+and skin thickness to that of hominids (Farifia 2002). Third,
+determinations of the basal metabolic rate of Megatherium
+americanum were made by halving the estimated metabolic
+rate, thus leading to the conclusions that it could still be fur-
+less and that temperatures as low as -10° C would be within
+its thermoneutral zone. Fourth, thermoneutral zone esti-
+mates derived from the previous model for smaller ground
+sloth taxa are inconsistent with known paleoclimate data
+and preserved integument. Temperatures of -4° C and —28°
+C, respectively, have also been calculated as being within
+the thermoneutral zone for a completely furless Mylodon
+darwinii versus a conspecific with a fur coat 4 cm long, but
+with each having an equivalent mass of 2,000 kg. (Farifia
+2002).
+
+The fossil evidence known for Mylodon, however, indi-
+cates that it was extensively covered in fur, which was as
+long as 6.5—10 cm in some regions of its body (Collins 1933;
+Santos et al. 2024). Stable isotopes found in contemporary
+samples of Notiomastodon enamel dating to 33,661—10,239
+years ago have also produced mean annual temperature esti-
+mates ranging between 9° C and 21° C (Gonzalez-Guarda et
+al. 2017). Moreover, the relationship between body mass and
+body temperature in mammals is complex and purported to
+be mediated primarily through ecology (Clarke and Rothery
+2008). Recent data on large extant mammal energetics indi-
+cate that the thermoneutral zone only accounts for favor-
+able ambient temperature ranges where little energy needs
+to be expended beyond the basal metabolic rate, and not
+the full extent of the normal functions associated with daily
+activity such as foraging. Thus, prescriptive zones, toler-
+ance zones, and survival zones have been adopted by other
+authors (Mitchell et al. 2018; Boyles et al. 2019; Levesque
+and Marshall 2021), which encompass temperatures where
+an endotherm can function normally, temperatures where
+
+Journal of Mammalian Evolution (2025) 32:1
+
+thermal stress occurs, and temperatures where death by
+thermal stress occurs, respectively.
+
+Recently, Varela et al. (2024) attempted to estimate the
+metabolic rates of several extinct xenarthrans by measuring
+the diameter of the femoral nutrient foramina. Estimates of
+blood flow obtained from an equation developed by Sey-
+mour et al. (2019) resulted in metabolic rates in fossil xen-
+arthrans comparable to non-xenarthran placental mammals
+of similar size. While these findings lend support to specula-
+tion that ground sloths possessed a typical placental metab-
+olism due to increased skeletal muscle mass compared to
+living tree sloths (Farifia 2002), and faced environmental
+conditions below proposed thermal neutrality (Tejada et al.
+2021), other data suggests a more xenarthran-like metab-
+olism. For example, estimates of the body temperature in
+Nothrotheriops (based on amino acids preserved in bone
+collagen) showed that it had a range of body temperature
+values akin to extant xenarthrans (Ho 1967). Similar esti-
+mates of the metabolic rates and thermal conductivity for
+both Mylodon and Nothrotheriops suggest that each had low
+basal metabolic rate and relatively poor insulation compared
+with other mammals of similar size (McNab 1985). Ground
+sloths plausibly may have had lower metabolic rates than
+other mammals of their size, although this tentative conclu-
+sion does not imply that they were as slow-moving as living
+tree sloths. Using step length from a fossilized trackway at
+Pehuén Co, Argentina attributed to Megatherium, Blanco
+and Czerwonogora (2003) predicted that its average walking
+speed was ~ 1.21 ms !, which is 10 times faster than extant
+Bradypus suspensory walking below-branch (Gorvet et al.
+2020; McKamy et al. 2023). A maximum speed of nearly
+2.2 ms!, which is still considerably slower than the top
+velocity of 5-6 ms"! measured for elephants (Hutchinson
+et al. 2006), also has been estimated for Megatherium (Bil-
+let et al. 2013). Despite ground sloths, elephants, and tree
+sloths having different modes of locomotion, their reported
+speeds emphasize the general principle that animals with
+low metabolic rates tend to move more slowly than those
+with higher metabolic rates.
+
+The objective of this research is to further test the hairless
+model of integument for the largest ground sloths, Eremoth-
+erium and Megatherium, and to place novel constraints on
+their thermoregulation. To rigorously test the model through
+quantitative means, numerous climatic and physiological
+factors were input, for example core body temperature,
+metabolic rate, and estimates of paleoclimate. Simultane-
+ously, integrating these variables will provide more insight
+into the reconstruction of large ground sloth integument
+until skin and/or fur samples are discovered. In addition to
+physiological and ecological constraints on integument, a
+better understanding of the evolution of core body tempera-
+ture and/or metabolic rate across various extinct and extant
+
+Page 3 of 24 1
+
+phylogenetic branches of the Folivora is an expected out-
+come of this study.
+
+Materials and methods
+Fossil specimens and sample preparation
+
+Tooth samples from Eremotherium (N=2), Megatherium
+(N= 1), Promegatherium (N= 1), and Nothrotheriops (N= 1)
+were used in a series of geochemical analyses (Table 1).
+Cortical bone samples from either the same specimen or
+from another in the same general locality were also used to
+determine the degree of diagenesis via an analysis of rare
+earth element (REE) uptake in both cortical bone and tooth
+samples. The specimens obtained were from the collec-
+tions of the Field Museum of Natural History in Chicago,
+IL (FMNH) and the University of Florida in Gainesville,
+FL (UF). No permits were required for the present study,
+which complied with all relevant legal regulations. While
+no samples of Mylodon were obtained for this study, body
+temperature estimates for this genus were extrapolated from
+values obtained from Promegatherium given that both gen-
+era were similar in body size. This comparison based on
+body size rather than phylogeny is justifiable given that
+Bradypus and Choloepus are similar in size and metabolic
+capabilities despite being distantly related (McNab 1985;
+Cliffe et al. 2023). The sampling strategy accounted for a
+wide collective geographic distribution of these genera from
+the southernmost extreme of their range in Argentina to the
+northernmost extreme of their range in Florida.
+
+Given that the outer dentin of fossil xenarthran teeth are
+susceptible to large quantities of rare earth element uptake
+(MacFadden et al. 2010), inner orthodentine was preferen-
+tially sampled, as a recent study (Larmon et al. 2019) using
+cathodoluminescence revealed that this dental material is
+the most resistant tissue to diagenesis and exhibits the least
+amount of mineral impregnation compared to other dentine
+layers. Approximately 300-400 mg of powderized inter-
+nal orthodentine (and cortical bone) were harvested with a
+power hand drill fit with a 0.7 mm diamond-tipped drill bit.
+Drilled samples of inner orthodentine were taken from sev-
+eral random sites along the entire length of the tooth starting
+at the apex to the root (Fig. 1a). To remove any organic con-
+taminants, the samples were washed with 5.0+0.5 ml of 3%
+H,O, for 3 h in 15 ml conicals. The tubes remained open so
+that CO, could be released during purification. The samples
+were then pelleted in a centrifuge at 10k rpm (centrifuga-
+tion radius= 12 cm; centrifugal force= 13,416 g) for 10 min.
+Specifically, all samples were centrifuged at a constant tem-
+perature of 25° C, followed by 3 rinses in room temperature
+ddH,O water. Any remaining liquid was decanted before
+
+ay Springer
+
+1 Page 4 of 24
+
+Journal of Mammalian Evolution (2025) 32:1
+
+Table 1 Body temperature estimates from clumped isotopic analyses and diagenesis ratios from rare earth element (REE) analyses. Abbreviations:
+
+SD, standard deviation; SE, standard error
+
+Genus/ Locality Depositional N° REE>  83C (%po, 35'80 (%oV- — Agz (%0) ESE — Tagz 580, (%o,
+Sample ID environment V-PDB)+SD PDB)+SD cecy —v-SMowy!
++SE +SD
+
+Eremotherium Inglis 1 A, Sinkhole 5 042 -9.01+0.02 -1.1140.08 0.58240.009 2942 2.541.7
+UF 95869 Citrus County,
+
+Florida, USA
+Nothrotheriops Leisey 1 A, Estuary 4 0.86  -9.48+40.26 0.9040.29  0.57340.008 3243 5441.3
+UF 87131 Hillsborough
+
+County, Florida,
+
+USA
+Megatherium Tarija Valley, Fluvial 4 0.12  -3.6540.04 -4.3940.19 0.57740.003 3141 -0.340.7
+FMNH P13725 Argentina
+Eremotherium Halie 7G, Lacustrine/ 4 0.02  -4.2840.27 -1.6541.64 0.69440.031 -347 -8.146.6
+UF 312730 Alachua County, karst
+
+Florida, USA
+Promegatherium Puerta de Cor-  Terrestrialindet. 3 36.6 -6.49+0.05 -3.3940.19 0.60240.014 2345 -1.742.4
+
+FMNH 14404 ral Quemado,
+
+Argentina
+
+* Number of replica stable isotope measurements from the same sample
+
+> Rare earth element ratio between dentin and cortical bone (see Methods)
+
+© Aq temperature (Anderson et al. 2021)
+
+4 §'8Ow (where “w” signifies mineral formation waters; Lécuyer et al. 2010)
+
+drying overnight in an oven at 50° C. Extra drying time in
+the oven was necessary for some of the samples to ensure
+complete desiccation of contaminants so that the samples
+were dried to a concentrated mass.
+
+Geochemical alteration analysis
+
+To assess the amount of diagenesis present in the samples,
+REE analyses were performed on subsamples (5—10 mg) of
+prepared inner orthodentine and cortical bone (MacFadden
+et al. 2010). For analysis, samples were weighed by micro-
+balance and digested in a mixture of 0.1 mL 29 M HF and 0.3
+mL 16 M HNO; ona hotplate at 150 °C. Samples were dried
+down and redissolved in 0.5 ml of 16 M HNO, three times
+prior to diluting gravimetrically to 2% HNO; for analysis.
+Samples were prepared along-side a suite of geologic and
+bone standard powders and total procedural blank following
+the same dissolution procedure, for use as calibration and
+external reference materials. Analyses were performed on a
+Thermo Scientific, iCAP-RQ, single quadrupole mass spec-
+trometer using a PFA micromist nebulizer; peltier-cooled
+quartz, cyclonic spray chamber, 2.5 mm quartz injector and
+quartz torch; Ni cones, high matrix (3.5 mm) skimmer insert.
+Samples were uptaken using an ESI SC 4DX FAST autos-
+ampler using the FAST 2.0 mL method, with a stabilization
+time of 30s and dual rinse (4 s each) in 4% HNO3 + trace
+HF following each analysis. Samples were mixed in real-
+time with a 2 ppb In solution using the FAST autosampler,
+which was used as an internal standard for the experiment.
+Reported analyses are the mean of 5 measurements, which
+
+ay Springer
+
+consist of 25 sweeps on 4Ca, So, 885r, 8°y, In, 37Ba,
+La, 49Ce, 4Ipr, 49nd, 478m, Eu, 57Ga, Tb, Dy,
+16519, Er Tm, '2Vb, Lu, Spb, 38U, for 10 ms
+each. Raw counts were normalized to a uniform intensity
+over the run by normalizing against In. Concentrations were
+converted from normalized counts using Thermo Scientific
+Qtegra software (eQuant) by linear regression of the calibra-
+tion standards (BHVO-2, BCR-2, BIR-1, AGV-2; Jochum et
+al. 2016), anchored to the total procedural blank. Accuracy
+and precision were monitored using whole rock powder
+W2 (Jochum et al. 2016), NIST1400 bone ash, NIST1486
+bone meal and NOCS fossil bone material (Chavagnac et
+al. 2007) and multiple dilutions of a mixed 100 ppm REE
+standard solution (BDH82025-926) diluted to similar con-
+centrations as the unknowns.
+
+All measurements were normalized against Post-
+Archean Australian Shale (PAAS; Nance and Taylor 1976)
+to compensate for the effects of the Oddo-Harkins even-odd
+abundance effect. While MacFadden et al. (2010) reported
+a significant increase in REE uptake in fossils compared to
+modern bone and dental tissues, an REE index was estab-
+lished to assess the degree of diagenesis in fossil xenarthran
+teeth compared to enamel samples from similar localities.
+The sum of all normalized REE (REEj) present in ortho-
+dentine were divided by the sum of all normalized REE
+found in cortical bone and expressed as a ratio (REE, sam-
+ple/REE, cortical bone). Ratios>1.0 indicate significant
+geochemical alteration signifying that isotopic geochemical
+data should be treated with caution, whereas sample ratios
+between 0.5 and 1.0 indicate mild to moderately altered
+
+Journal of Mammalian Evolution (2025) 32:1
+
+35" Oco3 - 8° Opoy (%0, VSMOW)
+
+Agr LCDESog (%o)
+
+Fig. 1 a. The tooth of Megatherium FMNH P13725 with sampled
+regions indicated by yellow arrows; scale bar equals 30 mm. b. Per-
+centage of phosphate 5'%0 in the sampled ground sloth teeth compared
+to the ranges reported for extant placental mammal bioapatite; blue
+and gray shaded areas indicate 95th and 99th percentile, respectively;
+
+samples, and ratios>0.35 (akin to most samples of fossil
+enamel from non-xenarthrans) indicates a sample with little
+to no geochemical alteration (MacFadden et al. 2010).
+Samples were prepared for phosphate 5!%O analysis fol-
+lowing the rapid silver phosphate precipitation protocol
+outlined in Mine et al. (2017) and detailed in Conte et al.
+(2024). In brief, approximately 1.0 mg of sample material
+was weighed out in 2 mL microcentrifuge tubes and dis-
+solved overnight in 2.0 M nitric acid (HNO;). Calcium
+fluoride (CaF) was then precipitated with the addition of
+2.9 M hydrofluoric acid (HF) and 2.0 M sodium hydroxide
+(NaOH). Samples were centrifuged to pellet CaF, and the
+phosphate ion containing supernatant was transferred to a
+new clean microcentrifuge tube. The CaF, pellet was rinsed
+with 0.1 M sodium fluoride (NaF) to recover residual phos-
+phate, and the resulting supernatant aliquot was combined
+
+Page 5 0f 24 1
+
+13
+FMNH 14404
+FMNH P13725
+12 UF 312730
+UF 87131
+UF 95869
+11
+10
+9
+8
+7
+6
+0.80
+FMNH 14404
+FMNH P13725 4
+UF 312730
+Os UF 87131 g
+UF 95869 or
+=
+0.71 S
+3
+a
+Fe]
+0.6: S
+&
+2
+0.60 w
+J
+8
+0.55
+0.1 0.2 0.3 0.4 0.5 0.6
+Ags (%0, CDESgo)
+
+mammal bone and enamel data from Eagle et al. (2011). e. Scatter plot
+of the relationships between A47, A48, and estimated temperatures of
+the sampled teeth; symbols with light outlines represent individual
+samples, and symbols with bold outlines and error bars represent the
+mean and standard deviations of the samples
+
+with the first aliquot. Sample phosphate was precipitated as
+silver phosphate (Ag;PO,) with a silver amine solution con-
+taining 1.09 M ammonium hydroxide (NH,OH) and 0.37 M
+silver nitrate (AgNO;) at a pH range of 5.5 to 7.5. Adjust-
+ments to pH were made with the addition of small aliquots
+of 2M HNO, or 2 M NaOH and samples were allowed to
+react for 10 min. Samples were centrifuged to pellet Ag;PO,
+crystals and following the removal of supernatant fluid
+were rinsed five times with distilled water and dried over-
+night in a 50° C oven. Dried samples were weighed out to
+~ 150-200 pg in packed silver capsules and analyzed in trip-
+licate using a ThermoFisher Thermal Conversion Elemental
+Analyzer (TC/EA) paired with a Delta V plus Continuous
+Flow Isotope Ratio Mass Spectrometer in the Stable Isotope
+Ecosystem Laboratory of UC Merced (SIELO). Reference
+material NIST SRM 120 C was precipitated and analyzed
+
+D Springer
+
+1 Page 6 of 24
+
+alongside sample unknowns as a preparation standard and
+yielded a 8!80 value of 21.7+0.05 (N=3). Reference mate-
+rials USGS 80 (6'8O = 13.1+0.3; N=15) and USGS 81
+(5'80 = 35.4+0.3; N=15) were used for linearity and drift
+corrections and standardization.
+
+Bioapatite stable isotope geochemistry and body
+temperature estimates
+
+Carbonate clumped isotope thermometry is an approach to
+determine mineral formation temperatures based on mea-
+surements (which are reported as A,7 values) of the abun-
+dance of '3C-'8O bonds in carbonate moieties (Ghosh et al.
+2006). The Ay; values found in tooth bioapatite reflect the
+body temperature of the organism that formed them (Eagle
+et al. 2010). Furthermore, Ay; measurements of vertebrate
+biominerals are able to distinguish between endothermic and
+ectothermic physiology (Eagle et al. 2011, 2015; Griffiths
+et al. 2023), as well as between endotherms with different
+metabolic rates. For example, these techniques have played
+a crucial role in resolving body temperature differences
+between regionally endothermic sharks, large terrestrial and
+marine mammals, and between mammals and birds. Mea-
+surements from fossils also yielded plausible body temper-
+atures for extinct vertebrates across of a range of epochs
+(Eagle et al. 2010, 2011, 2015; Griffiths et al. 2023).
+
+All samples were analyzed via stable isotope ratio mass
+spectrometry. Specifically, samples of ground sloth inner
+orthodentine were digested in a common acid bath contain-
+ing 105 wt% phosphoric acid reacted at 90° C followed by
+multiple steps of cryogenic purification and passage through
+either a gas chromatograph column (MAT 253 mass spec-
+trometer, Thermo Fisher Scientific, USA) or adsorption trap
+(Nu Perspective mass spectrometer, Nu Instruments-AME-
+TEK, UK) packed with Porapak Type-QTM 50/80. Follow-
+ing sample purification, CO, gas was then introduced into
+the isotope ratio mass spectrometer (IRMS) systems via an
+automated changeover block, thus allowing for continu-
+ous alternating measurements of sample and reference CO,
+gas on detectors configured to measure isotopologues of
+masses 44 to 49. Measurements performed on the Thermo
+MAT 253 mass spectrometer (~ 60-80 mg of sample mate-
+rial) consisted of nine blocks of 10 cycles totaling 720 s of
+integration time at a signal of 16—15.7 V over the course of
+a block with pressure adjustments between each block to
+return to a beam of 16 V at the start of each new block. Mea-
+surements taken with the Nu Perspective mass spectrometer
+(~7-10 mg of sample material) consisted of three blocks
+of 20 cycles totaling in 1,200 s of integration at a signal
+which ranged from 80 to 30 nA on mass 44 over the course
+of each acquisition. Carbonate standards ETH-1 and ETH-2
+were used to perform a nonlinearity correction on sample
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+unknowns. These nonlinearity corrected values were then
+projected into an I-CDES reference frame (Bernasconi et al.
+2021) using ETH-1-2, and ETH-3 along with three in-house
+standards. ETH-4 was not included in the corrections and
+was instead used as a check for data quality. Corrections
+were applied to tooth samples and standard data over a mov-
+ing average of 10 standards on either side of a given sample
+and were calculated using Easotope software (John and
+Bowen 2016). Reconstructed temperatures were derived
+from a A,7-temperature calibration method (Anderson et al.
+2021) that has recently demonstrated that using the latest
+I-CDES reference frame a bioapatite calibration was statis-
+tically indistinguishable from the calibration used in these
+analyses (Anderson et al. 2021; Griffiths et al. 2023). Equa-
+tions used to estimate the formation of waters during min-
+eralization are published elsewhere (Lécuyer et al. 2010).
+
+An accepted limitation in the application of clumped
+isotope thermometry for assessing vertebrate physiology is
+the preservation of original isotope signatures and the pos-
+sibility of post-depositional diagenesis, and how these fac-
+tor influence the accuracy of the estimates. While precisely
+constraining diagenesis can be complex, the following two
+approaches were employed: (1) determining the REE con-
+centration of fossil ground sloth teeth and (2) comparing
+measurements of 8!80 of both the carbonate and phosphate
+moieties of fossil bioapatite. As the carbonate moiety may
+be more susceptible to chemical alteration than the phos-
+phate moiety deviation, the offset between the range of
+carbonate and phosphate seen in extant organisms has been
+used to indicate preferential diagenesis of the carbonate
+moiety (Eagle et al. 2011). Rare earth elements can be taken
+up by bioapatite during the fossilization process and very
+high REE content may be indicative of recrystallization of
+the fossil apatite (McFadden et al. 2010).
+
+Modeling of animals and paleoclimate
+
+Body temperature estimates obtained from the literature for
+extant xenarthrans (McNab 1985; Cliffe et al. 2018; Seitz
+and Puig 2018) were evaluated via linear regression to
+determine the relationship between core body temperature
+and body size for all initial simulations. Temperature (in
+°C) was log-transformed and plotted against the log of mass
+(in kg) to establish an expected relationship. These data
+showed no relationship among extant xenarthrans (Fig. 2);
+however, extant xenarthran body masses range between 0.2
+and 45.2 kg, thus none of the taxa used for this scaling rela-
+tionship approximate the body size of extinct ground sloths.
+Nonetheless, modeling simulations were meant to represent
+an average adult-sized animal at any given point in geologic
+time, but are not meant to be based on a specific specimen
+such as those used in the clumped isotope analyses. Body
+
+Journal of Mammalian Evolution (2025) 32:1
+
+Fig. 2 Regression of extant xen- 40
+arthran body mass against body
+temperature (y=34.908x °°!; 39
+
+R?=0.1833). The data include
+three sloth species (V=4), eight
+armadillo species (V=11), and
+three anteater species (V=3) and
+were obtained from the literature
+(McNab 1985; Cliffe et al. 2018;
+Seitz and Puig 2018)
+
+Body Temperature (°C)
+
+temperature estimates, derived from clumped isotope paleo-
+thermometer analyses among various other environmental
+and physiological variables were input into the broadly
+tested biophysiological modeling software, Niche Mapper.
+The microclimate sub-model of Niche Mapper converts
+inputs of macroclimate values into the warmest (minimum
+shade) and coolest (maximum shade) microclimates simul-
+taneously from 2 m above ground to 2 m below ground.
+The animal sub-model then uses the hourly results in order
+to find a microenvironment suitable for optimal thermal
+comfort, while allowing the user to define various mor-
+phological, behavioral, and physiological inputs, including
+animal body geometry, user defined metabolic rate, denning
+and burrowing behaviors, etc. Both sub-models solve for
+heat and mass balances of the local substrates and the ani-
+mal, respectively, in addition to finding the best available
+microclimate for each hour of a simulated day to keep the
+simulated animal within the closest possible range of the
+thermoneutral zone.
+
+Recent work with Niche Mapper has been used to predict
+both environmental and physiological constraints on vari-
+ous extinct taxa, including mammoths (Wang et al. 2018,
+2020) and Triassic dinosaurs (Lovelace et al. 2020). Basal
+metabolic rate was estimated using a published metabolic
+scaling relationship derived from 15 extant xenarthran spe-
+cies (3.14 M°;White and Seymour 2004), where M is
+body mass in grams, and the resulting basal metabolic rate
+in ml O,/hr | was converted into the unit of watts. An activ-
+ity multiplier of 2 was used to estimate values of field meta-
+bolic rate. The scaling relationship (3.3 M°’°; Farifia 2002),
+where M is body mass in kg, was originally derived from
+Kleiber (1932) and it was used to compare metabolic rates
+derived from a mammal of similar body size with the typical
+placental metabolism.
+
+Page 7 of 24 1
+
+@Sloths
+
+= Armadillos Anteaters
+
+log, Body Mass (kg)
+
+Three-dimensional computer models for both Eremoth-
+erium and Mylodon were fitted with non-uniform rational
+basis spline (NURBS) curves and used to estimate body vol-
+umes, surface areas, and rate of heat dissipation, and these
+data further served as proxies for the same computed param-
+eters in metabolic models for Megatherium and Nothrothe-
+riops, respectively. The models were constructed in ZBrush
+by paleoartists, and we’re used in this study with permis-
+sion. While distantly related phylogenetically, the 3D model
+of Mylodon was specifically used as a proxy for Nothroth-
+eriops given that both taxa were more similar in body size
+than either were to the megatheres. Mass estimates for Ere-
+motherium (4,490 kg; Barbosa et al. 2023), Megatherium
+(3,706 kg; Brassey and Gardiner 2015), Mylodon (1,986 kg;
+Christiansen and Farifia 2003), and Nothrotheriops (463 kg;
+McDonald 2005) were input into these simulations. While
+higher mass estimates have been reported in the literature
+for both Eremotherium and Megatherium (6,550 kg; Dantas
+et al. 2017; 6,000 kg; Farifia et al. 1998), these were treated
+as high-end estimates herein, and more conservative body
+masses were used instead. Models of full body fur cover-
+age were tested at coat thicknesses of 10, 30, and 50 mm
+for all four taxa. Fur densities that were tested specifically
+consisted of “dense” fur of 2,000 hairs/em* (Lovelace et
+al. 2020) and 1,300 hairs/cm? (e.g., horse flank fur density;
+Tregear 1965), in addition to “sparse” fur of 8.5 hairs/em
+(e.g., pig flank fur density; Tregear 1965) and 0.07 hairs/
+cm? (maximum elephant fur density; Myhrvold et al. 2012).
+
+Metabolic chamber simulations for each taxon were
+used to estimate approximate thermoneutral zone, as well
+as lower critical temperature and upper critical tempera-
+tures. The final core body temperature ranges used were
+derived from those determined by the clumped isotope
+paleothermometry analysis, as well as published core body
+temperatures from extant xenarthrans (McNab 1985; Cliffe
+
+ay Springer
+
+1 Page 8 of 24
+
+et al. 2018; Seitz and Puig 2018). Output thermoneutral
+zones were determined within a target range of 5% + basal
+metabolic rate with the animal modeled as standing still
+with no exposure to sunlight. Constant wind speeds of 0.1
+ms ! were also assumed for the metabolic chamber simula-
+tions. The upper critical temperature was determined when
+the metabolic rate fell below 5% of the target basal meta-
+bolic rate range, while the lower critical temperature was
+determined when the metabolic rate was above 5% of the
+target basal metabolic rate range as per previous analyses
+(Lovelace et al. 2020). This process was repeated for each
+proposed integument model.
+
+To account for environmental conditions of the fossil
+localities (beyond ambient temperatures) during the Pleis-
+tocene, the Paleobiology Database (https://paleobiodb.org)
+was used to determine the northernmost and southernmost
+ranges, in addition to a mid-latitude species range to test
+for a variety of climatic conditions for each taxon. Aver-
+age yearly temperatures corresponding to the approximate
+stratigraphical ages of the simulated localities were obtained
+from previously published PALEO-PGEM v1.0 simulations
+of various global mean annual temperatures over a span of
+5 million years with a total of 5,001 measurements in 1,000-
+year increments (Holden et al. 2019). The global climate
+extractor in Niche Mapper was then used to determine the
+factored difference from modern climate values of monthly
+maximum and minimum temperature for the estimated
+stratigraphical age of the locality. Relative humidity, cloud
+cover, and wind speed were approximated from modern val-
+ues measured by global climate extractor database in Niche
+Mapper for similar regions. The microclimate model in
+Niche Mapper converts these user-specified monthly max/
+min climate data into hourly values using sinusoidal func-
+tions that assume the same weather conditions for each day
+of a given month. The model then solves for heat and water
+mass balance for the ground surface and the temperatures,
+wind speeds, and humidity (2 m above and below ground
+level). Solar radiation is computed from an embedded solar
+radiation algorithm (McCullough and Porter 1971). Sky
+thermal radiation was computed from an empirical regres-
+sion based on the input for the 2 m above ground air tem-
+perature (Idso and Jackson 1969).
+
+Finally, for the Niche Mapper simulations of ground
+sloths in their respective environments, a thermal comfort
+zone was determined for the estimated daily metabolic rate
+requirements for each taxon based on likely upper and lower
+bounds of daily metabolic activity. Total daily metabolic
+expenditure was calculated using a trapezoidal integration
+of hourly metabolic rate predictions. The lower bound of the
+target zone was determined by multiplying estimated basal
+metabolic rate in kJ/hr ! by 24, while the upper bound was
+determined by multiplying estimated field metabolic rate
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+(i.e., basal metabolic rate multiplied by a factor of 2 con-
+verted to kJ/hr') by the same factor. Within this zone, the
+simulated animals could function at normal metabolic lev-
+els as long as resources were readily available. For simplic-
+ity, zones of tolerance and survival above the upper bounds
+of the upper limits of the modeled thermal comfort zone
+are referred to herein as “cold stress” since the simulated
+animal would be expending additional metabolic energy
+to prevent hypothermia. Likewise, zones of tolerance and
+survival below the lower bounds of the thermal comfort
+zone are referred to as “heat stress” as the simulated animal
+would have to lower its metabolic rate below its estimated
+basal metabolic rate to prevent hyperthermia. The results
+of Farifia (2002) provided a sensitivity analysis to compare
+the thermal tolerances of ground sloths with metabolic rates
+more akin to large placental mammals, as opposed to a xen-
+arthran-like metabolism.
+
+Statistical analysis
+
+Predictions of daily metabolic rate (in kJ day”') that were
+generated by the climate simulations of each integument
+(fur coverage) model were plotted as a series of curves to
+determine which model best fit the estimated minimum and
+maximum daily metabolic rate expenditures, or the hours
+per day where basal metabolic rate can be maintained with-
+out the need for seeking shade, for each taxon. Once the
+integument models with the least amount of thermal stress
+were established, estimates of maximum hours of meta-
+bolic activity beyond levels of basal metabolic rate were
+compared across the geographic distribution of each taxon
+along with those of extant placental mammals of similar
+size ranges. Daily food consumption averages in kg/day !
+extrapolated from integument models with the least amount
+of thermal stress for each simulated environment were fitted
+with a second-order polynomial regression curve to indicate
+possible differences in food intake among taxa. Nutritional
+value of leaves, grasses, and woody plants were derived
+from the DairyOne feed composition library (https://apps.
+dairyone.com/feedcomposition/; see Online Resource | for
+full list of climate and physiology parameters), and the wet
+mass in kg of forage consumed was additionally estimated
+from these simulations. The consumed food data were also
+fitted with second order polynomial regressions to statisti-
+cally evaluate patterns of monthly food consumption in the
+respective predicted habitats of the sampled fossil taxa.
+
+Journal of Mammalian Evolution (2025) 32:1
+
+Results
+Clumped isotope paleothermometry and REE ratios
+
+Calculated REE index ratios for a majority of specimens
+analyzed here fell below a value of 1.0 indicating little dia-
+genetic alteration in the samples (Table 1). An exception
+was the Promegatherium specimen (FMNH P 14511), which
+yielded a REE index value of 36.6 and was considered to be
+likely diagenetically altered or an impure sample. The Ere-
+motherium specimen (UF 312730) had the lowest REE ratio
+(0.02) that is consistent with both dentine to cortical bone
+REE index values determined for other individuals found
+at Halie 7G (range; 0.004—0.01; MacFadden et al. 2010;
+Online Resource 2). Both the Eremotherium (REE ratio;
+0.42) and Nothrotheriops (REE ratio; 0.86) tooth speci-
+mens recovered from Inglis 1 A and Leisey | A, respec-
+tively, also fell within the known variation of REE index
+values recorded for fossils from individuals at both locali-
+ties (range; 0.33—-0.72; MacFadden et al. 2010). The cor-
+responding clumped isotope data from the Promegatherium
+specimen FMNH P14511 resulted in a mean temperature
+estimate of 23+5° C and was determined to be too low for
+a realistic body temperature of a large mammal, being more
+similar to the lower end of body temperature estimates of
+ectotherms determined by similar previous analyses (Eagle
+et al. 2011, 2015; Griffiths et al. 2023). It is noted that the
+carbonate-phosphate 5!°O offset was within the bounds of
+most extant vertebrates, indicating that alteration of the car-
+bonate moiety may be subtle rather than extensive (Fig. 1b).
+
+@ Eremotherium @ Megatherium
+
+35 @ Mylodon B Nothrotheriops
+30 7
+25 4
+S 20
+2
+=}
+& 154
+oO
+a
+5 104
+5
+°
+°
+0
+5
+
+Fig. 3 Box and whisker plot of ambient temperature estimates for the
+environments inhabited by the four extinct ground sloth taxa sampled
+
+Page 9 of 24 1
+
+Despite its low REE index, the Eremotherium specimen
+UF 312730 exhibited poor replication between analyses
+(high standard error; Table 1) and yielded clumped isotopic
+temperature estimates which are implausible to be in a phys-
+iologic range. This was likely the consequence of organic
+contamination that had not successfully been removed by
+pre-cleaning of the tooth specimen and/or incomplete CO,
+cleanup stages of sample purification, as neither phosphate
+5'80 and REE indicated diagenesis (Table 1; Fig. 1b). This
+hypothesis is supported by the observed abnormally high
+A4g values (Fig. 1c; Online Resource 2) in this sample
+indicative of the presence contamination creating isobaric
+interferences for clumped isotope measurements. The three
+remaining teeth specimens of Eremotherium, Nothroth-
+eriops, and Megatherium that had low REE and carbonate-
+phosphate 6!8O offsets in the range of extant mammals
+(Table 1; Fig. 1b) yielded clumped isotope temperatures of
+29+2° C, 32+3° C, and 31+1° C, respectively, with good
+agreement between replicate analyses and relatively low A4g
+values (Fig. lc). As per established criteria, there is no rea-
+son to suspect that these samples are compromised by dia-
+genesis or analytical artifacts, thus the resulting estimates
+are likely to represent the core body temperatures of extinct
+ground sloths.
+
+Estimates of paleoclimate and physiological
+parameters
+
+A wide range of ambient temperatures were modeled for the
+four genera of ground sloths analyzed (Fig. 3). The largest,
+Eremotherium, was predicted to have experienced variable
+ambient temperatures (range: 1.89-30.1° C) throughout its
+extensive geographic range, though the lowest values were
+determined by outliers. The predicted ambient temperature
+differences for Nothrotheriops were similar in absolute val-
+ues to Eremotherium, but colder minimum ambient tem-
+peratures were estimated for this taxon (range: -3.2—25.4°
+C). Both Megatherium and Mylodon, however, were pre-
+dicted to primarily have inhabited cold-to-temperate envi-
+ronments with minimum and maximum temperature values
+overlapping with the temperature ranges for Eremotherium
+and Nothrotheriops (Fig. 4). Estimated basal metabolic rate
+values for all four taxa sampled did not exceed 1,000 W
+(Fig. 4); all metabolic rate estimates were 59-66% less than
+those approximated by previous analysis of Farifia (2002).
+
+Metabolic chamber simulations and thermoneutral
+zone ranges
+
+Metabolic chamber analyses revealed broad thermoneutral
+
+zones for dense fur (1,300-2,000 hairs/cm7) across all four
+genera that decreased with an increase in coat thickness
+
+ay Springer
+
+1 Page 10 of 24
+
+Fig. 4 Bar chart of estimated
+
+basal metabolic rate (BMR) and 4500
+field metabolic rate (FMR) in
+ground sloths. Values in unit
+watts (W) calculated from the 4000
+xenarthran metabolic scaling
+equation (White and Seymour
+2004) are compared to those
+(right) based on a ‘typical placen- 3500
+tal’ metabolism (Kleiber 1932;
+Farifia 2002)
+= 3000
+=
+o
+oO
+= 2500
+&
+xe)
+3
+£ 2000
+=]
+1500
+1000
+500
+0
+
+Eremotherium Megatherium
+
+(Fig. 5). Both Eremotherium and Megatherium had similar
+thermoneutral zones with coat thicknesses of 10 mm (range;
+4.5—22.6° C, combined for both taxa), which overlap with
+the estimated ambient temperature values that both genera
+would have experienced throughout their geographic dis-
+tribution (Fig. 3). Surprisingly, Megatherium with a dense
+fur and a coat thickness of 50 mm had the lowest lower
+critical temperature among the four genera (-27° C) that is
+equivalent to previous estimates for a densely furred Mylo-
+don within its thermoneutral zone (Farifia, 2002), but lower
+than lower critical temperature estimates of Eremotherium
+with the same integument features applied herein (-18° C).
+Dense fur conditions for Mylodon and Nothrotheriops with
+coat thicknesses of 10-50 mm also have thermoneutral
+zones that overlap with likely ambient temperature ranges
+that each taxon would have experienced, as well as ambi-
+ent temperatures well beyond the lowest estimates modeled
+here (-12—24° C and —6~26.7° C, respectively). Consistent
+trends of narrow thermoneutral zones resulting from sparse
+fur (0.07-8.5 hairs/em?) with lower critical temperature
+estimates higher than 10° C and upper critical temperature
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+= Xenarthran BMR (W)
+m= Xenarthran FMR (W)
+='Typical Placental’ BMR (W)
+
+= 'Typical Placental’ FMR (W)
+
+Mylodon  Nothrotheriops
+
+estimates ranging from 27—30° C were determined for all
+four taxa analyzed.
+
+Microclimate simulations and integument thermal
+tolerances
+
+Similar outcomes favoring dense fur coverages were gener-
+ally observed when multiple climatic variables, including
+relative humidity, precipitation, wind speed, and ambient
+temperature were input in the refined paleoclimate models.
+Notably, Eremotherium was estimated to have no thermal
+stress in all environments with dense, 10 mm fur insula-
+tion (1,300-2,000 hairs/em?), but would have experienced
+prominent cold stress in the northernmost range of its distri-
+bution, although no thermal stress occurring in the southern-
+most latitudes during the coldest months of the year in both
+localities sampled (Fig. 6). This result contrasts with the
+resolved trends that sparse fur coverage indicated in north-
+ernmost and southernmost latitudes, which consistently
+showed no thermal stress during only the warmest months
+of the year. Dense 30-50 mm fur insulation for Eremoth-
+erium was determined to be mostly detrimental by resulting
+
+Journal of Mammalian Evolution (2025) 32:1
+
+a 10 mm 30 mm 50 mm
+
+Temperature (°C)
+s&s ak. ' = -— NYO ND W
+aooaoun1»ononaao
+
+-20 1 Eremotherium
+
+10mm 30 mm 50 mm
+
+an Ee
+20
+
+Temperature (°C)
+oO
+
+Mylodon
+
+10 mm
+b 30
+
+Page 11 of 24 1
+
+30 mm 50 mm
+
+30mm 50mm
+
+25
+20
+15
+
+10
+5
++5 4
+
+Megatherium
+
+Temperature (°C)
+oO
+
+10 mm
+
+25 lok
+20
+
+Qa
+wo
+o
+
+Temperature (°C)
+oO
+4
+
+2,000 hairs/cm?
+
+Bf 1,300 hairs/cm2
+-30 4 8.5 hairs/cm?
+© (0.07 hairs/cm2
+
+Nothrotheriops
+
+Fig.5 Thermoneutral zones of a. Eremotherium; b. Megatherium; ¢. Mylodon; and d. Nothrotheriops. Estimated thermoneutral zones were derived
+from metabolic chamber simulations with different fur densities and coat thicknesses
+
+in overall heat stress, except for during the winter months in
+only the northernmost latitudes and year-round in the south-
+ernmost latitudes. Conversely, Eremotherium additionally
+was modeled to have no thermal stress with sparse 50 mm
+fur, but with more dense fur coverage resulting in constant
+heat stress in neotropical regions (Fig. 6).
+
+The refined paleoclimate models showed that Megath-
+erium would have avoided thermal stress year-round with
+full body, dense 30 mm fur insulation in all three of the
+simulated environments, whereas full body, sparse fur (both
+depths and densities) resulted in cold stress throughout the
+year (Fig. 6). Both Mylodon and Nothrotheriops would also
+have avoided any thermal stress with dense fur insulation
+(density; 1,300-2,000 hairs/em?). In particular, Mylodon
+
+was modeled to have no thermal stress with 10 mm fur dur-
+ing the warmest months of the year and also with 30 mm
+fur during the coldest months at northern and mid latitudes
+(Fig. 6). Both Mylodon at the southernmost extent of its
+range and Nothrotheriops across its entire geographic range
+were determined to have no heat stress with dense fur with
+a coat thickness of 50 mm.
+
+Daily hours of active metabolic expenditure
+Estimates of hours per day where basal metabolic rate can
+be maintained without seeking shade for the integument
+
+conditions resulting in the least thermal stress (by fur cov-
+erage, depth, and density) across the known geographic
+
+ay Springer
+
+1 Page 12 of 24
+
+Northernmost
+165000 Range 165000
+132000 132000
+Eremotherium 99000
+66000
+33000
+0
+175000 + 175000
+140000 locee®” “tees 140000
+Megatherium 105000 }°=-* “== 108000
+70000 Je —<_—_ 70000
+35000 | ps2 ttre 35000
+oJ 0
+150000 + 150000
+Mylodon 120000 120000
+90000 | santana 90000
+60000 fs. 60000
+30000 “ttn, 30000
+oJ 0
+100000 100000
+Nothrotheriops 80000 80000
+60000 60000
+40000 _.. 40000
+20000 Lorre] 20000
+0 0
+
+---- 10 mm coat depth
+— 30mm coat depth
+—@ 50 mm coat depth
+
+Fig. 6 Modeled trends of ground sloth daily metabolic activity (kJ
+day”!; y-axis) in response to climatic factors over the course of a year
+(month; x-axis) across the northernmost, middle, and southernmost
+range of each genus. Eremotherium target metabolic rate=58,646—
+
+distributions of each taxon analyzed averaged approxi-
+mately 15 h day! (Fig. 7). While the megatheres were
+modeled to have large metabolic expenditure in cold cli-
+mates (e.g., northern geographic ranges of Eremotherium;
+
+ay Springer
+
+—— 2,000 hairs/cm2
+— 1,300 hairs/cm?
+
+8.5 hairs/cm?2
+0.07 hairs/cm?
+
+Journal of Mammalian Evolution (2025) 32:1
+
+Middle Southernmost
+Range 465000 Range
+132000
+99000
+"-- 66000
+; 33000
+0
+
+175000
+eco Rane, 140000
+
+oa => 105000
+70000
+35000
+0
+90000
+60000
+30000
+
+0
+100000
+
+150000
+120000
+
+80000
+60000
+
+40000
+
+ta? 20000
+
+0
+
+Cold Stress
+
+Target Metabolic Rate
+i Heat Stress
+
+117,293 kJ day '; Megatherium target metabolic rate=51,944—
+103,887 kJ day"!; Mylodon target metabolic rate=33,765—67,530 kJ
+day~!; Nothrotheriops target metabolic rate= 12,372-24,745 kJ day"!
+
+mid-latitudinal and southern geographic ranges of Megath-
+erium), the greatest number of hours of metabolic activity
+expended per day (=16h day 1) were predicted in the south-
+ern latitudinal ranges of both Megatherium and Mylodon.
+
+Journal of Mammalian Evolution (2025) 32:1
+
+25
+
+20
+15
+
+if
+
+10
+
+Daily Hours of Metabolic Expediture
+
+Page 13 of 24 1
+
+= Northernmost Range
+= Middle Range
+= Southmost Range
+
+]
+
+= Extant
+Eremotherium Megatherium Mylodon  Nothrotheriops Bradypus Choloepus
+
+Fig. 7 Bar chart of the average number of hours per day where meta-
+bolic rate can surpass basal levels in the northernmost middle, and
+southernmost range of each ground sloth genus compared to extant
+placental mammals of similar body sizes and extant tree sloths. Shown
+as silhouettes are the body size analogues in order left-to-right: A fri-
+can savanna elephant (Loxodonta africana; for Eremotherium), Asian
+elephant (Elephas maximus; for Megatherium), Indian rhinoceros
+
+Nothrotheriops showed a consistent maximum metabolic
+activity value of 15 h day! throughout its geographic range
+(Fig. 7). Comparative data on daily energetic expenditures
+indicate that extant body size analogues of Eremotherium,
+Megatherium, and Mylodon (e.g., African elephant, Indian
+elephant, and Indian rhinoceros, respectively) all have val-
+ues of 22 h day”! (Deka and Sarma 2015; Gravett et al.
+2017) while that for much smaller Nothrotheriops, a brown
+bear (Ursus arctos) analog, was measured at 20 h day"!
+(Stelmock and Dean, 1986). In sum, all ground sloth taxa
+were predicted to have 36.4-31.9% less metabolic activ-
+ity than modern placental mammalian analogues of similar
+body masses, but are far more active than extant tree sloths
+(e.g., 3.48-6.48 h day !; Cliffe et al. 2023).
+
+Monthly dietary intake
+
+The estimated distributions of energy intake across all
+four genera indicated no statistically significant trends in
+monthly food consumption with a change in environment
+(Fig. 8). While a general increase in food consumption was
+demonstrated for the large-bodied megatheres, Eremoth-
+erium was modeled to experience little-to-no increase in
+
+(Rhinoceros unicornis; for Mylodon), brown bear (Ursus arctos; for
+Nothrotheriops), Bradypus and Choloepus. Silhouettes were obtained
+from PhyloPic.org (Michaud M, Taylor J, Keesey M, Morrow C, Jen-
+kins X) and are under public domain (Total hours of activity for extant
+analogues were based on daily hours of sleep reported in the literature
+(Stelmock and Dean 1986; Deka and Sarma 2015; Gravett et al. 2017;
+Cliffe et al. 2023)
+
+food consumption (R?=0.009) throughout its wide geo-
+graphic distribution. The genus Megatherium was modeled
+to experience a moderate increase in monthly food intake in
+the southernmost latitudes (R’=0.53), whereas the simula-
+tions of Mylodon predicted a similar increase in food intake
+in southern latitudes (R?=0.51), notably overlapping with
+that of Megatherium. Finally, the data trends for Nothrothei-
+rops showed a moderately strong decrease in monthly food
+intake in the southern latitudes (R?=0.67) during the sum-
+mer months.
+
+Discussion
+
+Geochemistry of fossil teeth and interpretations of
+physiology
+
+The similarities in clumped isotope temperatures from teeth
+recovered from different locations, coupled with the low
+REE index values, provides confidence that these estimates
+may reflect the actual core body temperatures of extinct
+ground sloths. These temperatures are notably lower than
+the clumped isotope derived temperatures of other large
+
+ay Springer
+
+1 Page 14 of 24
+
+Fig. 8 Scatter plot of kilograms
+
+for each integument model
+exhibiting minimal thermal
+stress for northernmost (blue),
+middle (green), and southern-
+most ranges (red). Data for each
+genus of ground sloth are fit 260
+with second order polynomial
+regressions: Eremotherium (y
+
+310
+
+Journal of Mammalian Evolution (2025) 32:1
+
+e @ — Eremotherium
+| Megatherium
+
+A— Mylodon
+¢ ~— Nothrotheriops
+
+of wet food mass consumed 360
+per day throughout the year e
+= 1.6186 x 2-21.704x+271.31, ze
+R? = 0.097); Megatherium (y = Q 210
+-1.4345 x 2+ 18.586x + 123.05, 2
+R? = 0.535); Mylodon (y = >
+-2.0172+27.553x+52.53, R? 8 160
+= 0.513); Nothrotheriops (y=0. ue
+7428 x 2-10.255x + 68.247, R? = o
+0.669) =
+110
+60
+10 ——
+012 3
+
+mammals including values of approximately 37-39° C
+for an Indian elephant and extinct mammoths (Eagle et al.
+2010), and ~34° C for a baleen whale (Griffiths et al. 2023).
+Tooth material from ground sloth specimens showing little
+diagenetic alteration were obtained from three different dep-
+ositional environments and produced temperature estimates
+within the range of extant xenarthran body temperatures.
+Given that the estimates for Nothrotheriops were derived
+from a single tooth sample with a relatively high REE ratio
+(0.86), some degree of caution should be given to the inter-
+pretation of the results from this specimen. Measurements
+obtained from the Eremotherium sample UF 312730 yield
+higher values in both A47 and A48 which could indicate con-
+tamination of the samples resulting in isobaric interference
+and a subsequent overestimation of A47 and unrealistically
+cold A47 derived temperatures (Fig. 1c). This aside, these
+novel data suggest that extinct ground sloths may have been
+heterothermic, and likely fluctuated their core body temper-
+atures as a main means of thermoregulation. The core body
+temperature estimates derived from the clumped isotope
+analyses are indeed within the range of error of known body
+temperatures for extant xenarthrans (30.2—36.6° C), further
+verifying body temperature values determined for the Niche
+Mapper simulations and suggesting that the observed ubiq-
+uitous similarities in thermophysiology are an ancestral trait
+in this clade.
+
+ay Springer
+
+5 6 7 8
+Month
+
+od
+
+10 11 12
+
+Clumped isotope estimates of body temperature, how-
+ever, are on the lower end of Niche Mapper simulations for
+the mean estimate of 29+2° C determined for UF 95869.
+This could be explained by the measurements taken from
+specific tooth loci reflecting potential periods of torpor akin
+to what has been proposed for troodontids (Tagliaventoor et
+al. 2023), estimates from teeth might may also reflect slight
+differences in core body temperature and the temperature
+of tooth mineralization as has been explored in interpreting
+clumped isotope values derived from regionally endother-
+mic sharks (Griffiths et al. 2023). These hypotheses should
+be explored in future analyses focusing on taking samples
+from specific regions of internal orthodentine to determine
+if core body temperatures were fluctuating throughout the
+life of the animals. Such methods were previously applied
+to teeth from Eremotherium to infer the environmental con-
+ditions during the life of a single individual, specifically
+using 8'°C and 5!8O measurements (Larmon et al. 2019).
+Analyses of more specimens spanning a broader range of
+climate conditions similar to the approaches that have been
+used on non-avian dinosaur remains (Fricke and Rodgers
+2000; Amoit et al. 2006) may also be informative. Never-
+theless, the clumped isotope measurements along with the
+results of the physiological modeling analyses herein col-
+lectively indicate that extinct ground sloths had lower body
+temperatures and basal metabolic rates than most large ter-
+restrial placental mammals.
+
+Journal of Mammalian Evolution (2025) 32:1
+
+Comparisons with previous analyses
+
+The low body temperature estimates obtained from fossil
+ground sloth teeth suggest lower metabolic rates akin to
+extant xenarthrans and contradict the higher values of meta-
+bolic rates based on estimated blood flow rate (Varela et al.
+2024). Varela et al. (2024) hypothesized that small nutrient
+foramen diameters of the femur, and thus restricted blood
+flow rates, along with the fossorial and arboreal habits of
+extant xenarthrans all correlated with low metabolic rates.
+However, raw data from that study shows overlap between
+femoral nutrient foramen diameters and blood flow rates of
+extant xenarthrans and placental mammals with elevated
+metabolic rates. For example, the nutrient foramina of both
+the giant anteater (Myrmecophaga tridactyla) and the leop-
+ard seal (Hydrurga leptonyx) have a measured diameter of
+0.9 mm despite their extremely different functional habits
+and ecology. Given these types of discrepancies in their
+analysis, we caution that using measured nutrient foramen
+diameter alone is not a reliable predictor of metabolic rate,
+and it could likely reflect an artifact of similar body size. The
+core body temperature estimates obtained from the estab-
+lished clumped isotope analyses used herein potentially
+offer a more direct estimation of core body temperature and
+expand our understanding of the physiological limitations
+potentially experienced by extinct ground sloths.
+
+The paleoclimate simulations also yielded metabolic rate
+values drastically different values from those of the Farifia
+(2002) study on ground sloth thermal energetics. In addi-
+tion to refined estimates of clade specific basal metabolic
+rates for ground sloths, numerous other environmental fac-
+tors beyond ambient temperatures were input and modeled
+across the geographic distributions of each genus to deter-
+mine more exact boundaries of thermal neutrality. The basal
+metabolic rate estimates derived from the xenarthran scal-
+ing equation (White and Seymour 2004) produced meta-
+bolic rates representing only 34-41% of those for mammals
+with typical placental metabolism as determined by the
+relationship of Kleiber (1932) (Farifia 2002). Substantially
+lower basal metabolic rates were predicted in the present
+study, thus producing markedly different results for thermal
+tolerance ranges across the various integument conditions
+tested compared with those already reported. The main pre-
+vious study (Farifia 2002) proposed that a sparsely furred
+Megatherium with a body mass of 4,000 kg and metabolism
+that was 50% that of a typical placental mammal would be
+within its thermoneutral zone at ambient temperatures of
+10° C versus the results from the present climate simula-
+tions, which suggest that Megatherium under similar condi-
+tions would have been cold stressed.
+
+Traditional determinations of thermoneutral zones
+using the xenarthran metabolism as a proxy suggest
+
+Page 15 of 24 1
+
+Eremotherium and Megatherium with dense fur and a coat
+depth of 10 mm would be akin to those of sparsely furred
+models (see Fig. 5). However, the microclimate models
+employed herein demonstrated that environmental factors
+aside from ambient temperature (i.e., relative humidity,
+wind speed, etc.) and metabolic activity (i.e., locomotion,
+foraging, etc.) accounted for the predicted outcome that
+dense 10 mm thicknesses would benefit Eremotherium only
+during the warmest months of the year at its northernmost
+and southernmost ranges year-round. The novel microcli-
+mate models also showed that having dense fur at a coat
+thickness of 10 mm would result in constant heat stress for
+Eremotherium in the neotropics, yet constant cold stress
+for Megatherium throughout its geographic distribution
+(Fig. 6). Despite heat stress modeled to be present in the
+tropical populations of Eremotherium having a full body fur
+coverage at a depth of 30-50 mm, the condition of dense
+10 mm fur depths would allow it to exhibit no intense ther-
+mal stress year-round, even during the hottest months of
+the year throughout its entire geographic range. The find-
+ings for southernmost region for Mylodon and those data
+for Nothrotheriops throughout its entire range with dense
+50 mm fur depths, suggest nearly complete yearly protec-
+tion from thermal stress in their respective environments,
+with mild cold stress for the three coldest months of the year
+(predicted temperatures; -3.26—0.9° C). These results also
+contrast with previous estimates (Farifia 2002) that thermal
+neutrality for Mylodon having a basal metabolic rate half of
+the typical placental metabolism and dense fur 40 mm deep
+would be at an ambient temperature of -28° C.
+
+Megathere thermal neutrality and geographic
+distribution
+
+The data from the paleoclimate analyses revealed criti-
+cal insight into the thermoregulatory thresholds of extinct
+ground sloths and how these would have impacted their life
+appearance by condition of their integument. In particular,
+the results for Eremotherium suggest that a wide range of
+integument models could be plausible depending on ambi-
+ent temperatures of their past environments. Given that
+Eremotherium had a geographic distribution spanning as far
+north as Virginia in North America and as far south as Brazil
+in South America, it is plausible that this genus had vary-
+ing degrees of fur coverage throughout its geographic range.
+Sparse, full body fur coverage would have been beneficial at
+mid-ranges with no thermal stress experienced year-round.
+Changes in fur depth would also have been beneficial dur-
+ing warmer months for Eremotherium at the most northern
+extent of its range, although there is no evidence of coat
+shedding in extant xenarthrans. Nonetheless, dense 10 mm
+fur could have prevented thermal stress at average ambient
+
+ay Springer
+
+1 Page 16 of 24
+
+@ Nothrotheriops
+4 Eremotherium
+© Megatherium
+
+® Mylodon
+
+(1) Ice extent 21 ka
+
+Fig. 9 a. Map of geographic distribution for Pleistocene-aged sites of
+fossil remains of ground sloths Eremotherium, Megatherium, Mylo-
+don, and Nothrotheriops spanning from 2.5 MYA to 11,000 years
+ago. Areas shaded blue represent the extent of glaciers during the last
+glacial maximum 21,000 years ago and red and green circles indicate
+locations where the paleo art is depicted. Data: political boundary
+base map was generated using QGIS3’s ‘World Map’; hand-drawn ice
+sheet overlay informed and modified after published data (Ehlers and
+Hughes 2018); spatial data for species distributions was retrieved from
+
+temperature ranges of 5.9-22.6° C that Eremotherium was
+expected to have experienced (Fig. 6). Moreover, because
+Eremotherium crossed the Isthmus of Panama into North
+America but subsequently retreated to South America during
+the last glacial maximum (McDonald and Lundelius 2009) it
+is possible for it to have undergone migrations during times
+of extreme seasonality. Due to the modeled presence of mild
+cold stress with dense 10 mm fur and no thermal neutrality
+with a 50 mm fur depth in the southernmost ranges, it is
+therefore suggested that Eremotherium was well-adapted to
+the neotropical conditions expected to be prevalent in the
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+the Paleobiology Database (paleobiodb.org). b. Reconstruction of an
+adult and infant Eremotherium going through seasonal fur shedding
+while wallowing in a mudhole outside the cave den of an emerging
+Nothrotheriops in the early spring of Florida during the Pleistocene
+(location indicated by green circle in panel 9a). e. Reconstruction of
+Megatherium enduring the cool, windy Pampas of Argentina with a
+thick fur coat (location indicated by red circle in panel 9a). Paleoart
+by Haider Syed Jaffri
+
+southernmost extent of its range (Fig. 9a). This hypothesis
+notably agrees with the absence of Eremotherium in North
+America during the last glacial maximum.
+
+Despite being similar in body size to Eremotherium, the
+genus Megatherium is expected to have exhibited constant
+cold stress with only sparse fur coverage throughout its
+geographic range. This can be explained by Megatherium
+being known to have inhabited cooler, dry environments in
+the pampas of Argentina and Chile. Using similar modeling
+approaches to physiology as presented herein, previous sen-
+sitivity analyses (Lovelace et al. 2020) revealed that ambient
+
+Journal of Mammalian Evolution (2025) 32:1
+
+temperature and wind speed values were the two climatic
+factors that most strongly influence predicted values of field
+metabolic rate, whereas the variables of relative humidity
+and cloud coverage had little effect on simulated metabo-
+lism. Thus, dense fur for Megatherium might have been
+needed to counteract greater exposure to the elements (e.g.,
+wind, rain, or snow) in more open environments (Fig. 9c).
+This integument condition is reflected in the present climate
+simulation results which indicate that with a full body cov-
+erage of fur at depths of 10 mm, Megatherium would have
+been constantly cold-stressed regardless of fur density, but
+it would have complete thermal neutrality in all latitudinal
+distributions with dense (1,300—2,000 hairs/cm?) fur with a
+coat depth of 30 mm. Conversely, by having dense 50 mm
+fur, Megatherium would have been constantly heat-stressed
+by over insulation (Fig. 6). Furthermore, considering that
+fur depths of 30-50 mm resulted in predicted heat stress
+for similarly-sized Eremotherium (with the exception of the
+coldest months at northern extents of its range), it is reason-
+able to speculate that neotropical conditions may have acted
+as a thermal gradient restricting Megatherium to southern
+latitudes and occupation of the westernmost regions of Peru
+and Ecuador (Fig. 9a; Pujos and Salas 2004). This hypoth-
+esis is supported by models of environmental distributions
+of various Pleistocene xenarthrans by Varela et al. (2018)
+which demonstrate little-to-no overlap between the geo-
+graphic ranges of Eremotherium and Megatherium suggest-
+ing distinct differences in habitat preference.
+
+Thermoregulation in Mylodon and Nothrotheriops
+
+Both Mylodon and Nothrotheriops were modeled to require
+dense 10-50 mm fur depths across their respective ranges
+of predicted ambient temperature exposure, which is
+directly observed in the preserved pelts from both genera
+(Ridgewood 1901; Hausman 1929). Nevertheless, given
+that Mylodon was known to inhabit the Andes Mountains
+in South America, and Nothrotheriops would have experi-
+enced paleoclimate temperatures as low as -3.3° C (Fig. 3),
+behavioral thermoregulation would have been expected
+in cold climates in addition to having thick fur coverage.
+One supposition is that thermal neutrality could have been
+maintained by taking shelter in caves during periods of ther-
+mal stress. Mean annual temperature estimates of caves in
+the American southwest where remains of Nothrotheriops
+have been documented reveal stable temperature ranges that
+would have provided protection against periods of thermal
+stress (6.6—17° C; McDonald 2022; Fig. 9b). Localities for
+Mylodon in Chile such as Chica cave exhibit a similar range
+of stable temperatures (4.83—17.4° C; Nehme et al. 2022).
+A second hypothesis is that both taxa may have undergone
+
+Page 17 of 24 1
+
+periods of torpor and/or hibernation as a behavioral means
+of cold tolerance.
+
+Isotopic and taphonomic studies on the extinct Patago-
+nian ‘panther’ (Panthera onca mesembrina) revealed that
+bite marks attributed to this extinct predator have been found
+on the bones of juvenile and adult individuals of Mylodon
+in Cueva del Milod6n (Prevosti and Martin 2013; Martin
+2018). While Mylodon was smaller than the megatheres, an
+adult individual was still much larger than a jaguar, which
+suggests that individuals found with bite marks in caves
+were preyed upon while they were undergoing torpor, when
+they would have been most vulnerable to attack. Additional
+support for the above hypotheses proposed herein can also
+be linked to the behavioral thermoregulation strategies
+observed in modern armadillos. For example, the nine-
+banded armadillo (Dasypus novemcinctus) is known to seek
+shelter during periods of extreme cold and employ a combi-
+nation of torpor with episodic foraging (McBee and Baker
+1982; Knight et al. 2020). Regular torpor also has been doc-
+umented in the pichi armadillo (Zaedyus pichiy) (Superina
+and Boily 2007; Superina and Abba 2014), and it is the only
+known extant xenarthran to undergo true hibernation.
+
+It is also possible that Mylodon and Nothrotheriops may
+have had higher activity levels than those estimated in the
+present analysis. However, higher metabolic demands in the
+smaller ground sloths would only be useful in temperatures
+well below the range of ambient temperatures predicted
+for both taxa. Accordingly, another potential explanation
+for their thermal energetics involves having a diet richer in
+energy than their megathere conspecifics. A recent analysis
+of amino acids (Tejada et al. 2021) suggested that the diet
+of Mylodon could have consisted of animal protein due to
+the nitrogen signatures found in their fossilized bone mate-
+rial. Though the exact timings of nitrogen signatures indica-
+tive of omnivory could not be determined, animal protein
+consumption would have had thermoregulatory benefits for
+Mylodon. A protein-rich diet provides some flexibility to
+thermal neutrality in cold climates, and it is possible that
+Mylodon consumed animal matter sporadically during the
+coldest months, in addition to foraging on grasses (Varela
+et al. 2023). Conversely, nitrogen isotopes recovered from
+Nothrotheriops fossil remains definitively did not show evi-
+dence for an omnivorous diet, but instead, this genus was
+eating carbohydrate-rich desert plants such as globemallow
+and casava root (Poinar et al. 1998).
+
+Mylodontids also possessed dermal ossicles of vary-
+ing shapes and sizes which may have provided protection
+against predators (Collins 1933; McDonald 2018; Toledo et
+al. 2021). Given the vascularized nature of these structures
+in ground sloths as a whole, Cartelle and Bohérquez (1986)
+hypothesized that the dermal ossicles may have played a role
+in thermoregulation as well. Yet, histological examinations
+
+ay Springer
+
+1 Page 18 of 24
+
+of Mylodon ossicles by Toledo et al. (2021) show no fea-
+tures indicating the storage of adipose tissue akin to those
+in extant armadillos (Krmpotic et al. 2009). While measure-
+ments of the thermal conductance have yet to be performed,
+Toledo et al. (2021) implied that the fur of mylodontids such
+as Mylodon would have provided a greater amount of insu-
+lation compared to vascularized osteoderms.
+
+Integument and behavioral factors
+
+Giant ground sloths have historically been reconstructed as
+being densely furred taxa and the novel data provided by the
+Niche Mapper simulations do little to challenge this integu-
+ment appearance. In contrast, the modeling results dis-
+agree with more sparsely furred, elephant-like integument
+reconstructions of Eremotherium and Megatherium (Farifia
+2002). Despite the obvious discrepancies between studies
+on thermal neutrality and its effects on ground sloth integu-
+ment, several critical behavioral and ecological preferences
+can now be inferred. For example, dental microstructure
+and microware patterns (Green and Kalthoff 2015), in addi-
+tion to isotopic analyses (Dantas et al. 2021), suggest a
+completely herbivorous diet for Eremotherium and Megath-
+erium despite previous speculation that they were possibly
+omnivorous and/or engaged in scavenging behavior (Farifia
+and Blanco 1996). Indeed, the diets of both taxa would have
+primarily consisted of leaves and other high-growing veg-
+etation (Bargo et al. 2006; Green and Kalthoff 2015; Boche-
+rens et al. 2017), which overlap with those of their closest
+extant relatives Bradypus spp. (Cliffe et al. 2015; Pauli et al.
+2016; Preslee et al. 2019; Delsuc et al. 2019; Tejada et al.
+2024). Leaves are poor in nutritional value correlating with
+the extremely low metabolic rates observed in Bradypus
+variegatus (Cliffe et al. 2015; Pauli et al. 2016) and may be
+a primary factor for why megatheres would have had low
+metabolic rates for mammals of their massive body size.
+One of the main outcomes of our is that megatheres
+are predicted to have a basal metabolic rate more similar
+to modern xenarthrans than other placental mammals. Yet,
+they also could have exhibited a number of behaviors similar
+to large extant mammals with the typical placental metab-
+olism. Notably, the bone bed of Eremotherium at Tanque
+Loma in southwest Ecuador was found to contain multiple
+individuals that died in a stagnant marsh or swamp. The
+assemblage was interpreted as evidence of herding behavior
+in megatheres (Lindsey et al. 2020). It was further suggested
+that Eremotherium engaged in wallowing behavior for ther-
+moregulatory purposes akin to that observed in a modern
+hippopotamus (Stears et al. 2018). The modeled variation
+in both the density and depth of fur across the geographic
+range of Eremotherium is arguably more broadly correlated
+with a similar thermoregulatory strategy. Large migratory
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+ungulates such as the American bison (Bison bison) shed
+their dense winter coat to a lighter, patchy coat that coin-
+cides with wallowing behavior (McMillan et al. 2000).
+Large Megatherium also could have engaged in wallowing
+but would not have required shedding due to its year-round
+thermal neutrality when having a dense, deep 30 mm fur
+coat (Figs. 5 and 6).
+
+Social behavior dynamics of the extinct megatheres and
+large mylodonts (e.g., Lestodon) are further proposed to
+be consistent with those observed in large extant placental
+mammals (Tomassini et al. 2020; Lindsey et al. 2020), yet
+differ greatly from the solitary lifestyles of extant tree sloths
+(Taube et al. 1999). One advantage to more complex social
+behavior could have been shared parental care (also inferred
+from the bonebed of Eremotherium at Tonque Loma; Lind-
+sey et al. 2020) with multiple adults protecting juveniles that
+are most susceptible to predation. Conversely, a sole female
+Bradypus spp. raises her single offspring, and if it falls from
+the tree during lactation/weaning, then she does not invest
+the metabolic energy to retrieve it (Taube et al. 1999).
+
+Again, the present findings predict densely furred integu-
+ment for Mylodon and Nothrotheriops as demonstrated by
+their mummified pelts (Ridgewood 1901; Hausman 1929).
+Given that there is a lack of fossil bonebeds consisting of
+multiple individuals, it is suggested that both genera poten-
+tially lived solitary lifestyles similar to extant tree sloths
+and armadillos (Naples et al. 1990). Mylodontids also pos-
+sess robust limb bones that were resistant to bending forces
+akin to extant armadillos (Copploe et al. 2015), suggesting
+that some genera were capable of digging their own dens
+or burrows (Bargo et al. 2000). Solitary denning behavior
+as seen in modern brown bears (Gonzalez-Bernardo et al.
+2020), a body size analog of both smaller ground sloth taxa,
+also may have been typical of Mylodon and Nothrotheriops
+in cave dwellings. Moreover, an ecological preference that
+could have overlapped with ursids is diet. A modern species
+of two-toed sloth, Choloepus hoffmanni, is a close relative
+to Mylodon (Preslee etc. al. 2019; Delsuc et al. 2019; Tejada
+et al. 2024), and has been known to occasionally consume
+meat in captivity (Hayssen 2011). Species of the genus Cho-
+loepus are also more active compared to Bradypus variega-
+tus (Sunquist and Montgomery 1973), which specializes in
+a diet of leaves presumably akin to its megathere relatives.
+
+Last, while it is tempting to focus on phylogenetic con-
+straint as the singular reason for the predicted low basal
+metabolic rates of extinct ground sloths, it should be noted
+that traits can be secondarily lost or acquired throughout
+the evolutionary history of a clade. Prior to GABI, the very
+large herbivore guild of South America was dominated by
+notoungulates and astrapotheres that were mixed grazers
+and browsers that went extinct by the end of the Miocene
+prior to the earliest occurrences of the exceptionally large
+
+Journal of Mammalian Evolution (2025) 32:1
+
+megatherines such as Eremotherium and Megatherium
+(Croft et al. 2020). The largest of the notoungulates were
+members of the families Toxodontidae, Leontiniidae, and
+Homalodotheriidae. While toxodontids and macraucheni-
+ids lived alongside megatherines through the late Pleisto-
+cene (and reached body masses of 1,000—1,200 kg; Croft
+et al. 2020; Nelson et al. 2023), astraoptheres, leontinids,
+and homalodotheres ranging in body masses from 375 to
+3,000 kg (Croft et al. 2020; Nelson et al. 2023) went extinct
+by the end of the middle to late Miocene. By contrast, most
+South American Miocene ground sloth genera were much
+smaller in size compared to contemporary notoungulates
+and astrapotheres, and larger ground sloths that would
+evolve in the Pliocene and Pleistocene (6— 1,025 kg; Pant et
+al. 2014: table s1). A lower metabolic rate in ground sloths
+would have reduced resource demands and potentially lim-
+ited competition with notoungulates and astrapotheres. This
+in turn could be understood as an “ecological stepping-
+stone” towards occupying the vacant browser niche with-
+out requiring as many calories as a similarly-sized mammal
+with a typical placental metabolism. The observed trends in
+daily food intake in Eremotherium and Megatherium sup-
+port this notion by suggesting little change in the amount
+of food consumed across their various geographic regions
+(Fig. 7). This major ecological factor also could have lim-
+ited intraspecific competition for resources in megatheres,
+but notably reduced the pressure of interspecific competi-
+tion with herds of proboscideans (e.g., mammoths and mast-
+odons) with much greater energetic demands that entered
+South America following GABI.
+
+Limitations
+
+While use of REE index values in the present study pro-
+duced values within acceptable limits as reported by Mac-
+Fadden et al. (2010), there are inconsistencies between
+this method and the phosphate 5!8O data. Namely, FANH
+P14511 has an abnormally high REE index of 36.6 and
+acceptable phosphate 5!8O measurements within the range
+of extant placental mammals. The REE index is the first
+technique used to assess the degree of diagenesis in fossil
+xenarthran teeth, and this method has yet to be tested on
+specimens outside of the Pliocene and Pleistocene locali-
+ties of Florida. The high REE concentration in the inner
+orthodentine of FMNH P14511 could be explained by it
+being found in older Miocene deposits, although this is
+inconsistent with the phosphate 5'°O measurements which
+indicate that it is well-preserved. Moreover, a specimen of
+Bradypus (UF 25980) reported in the supplementary mate-
+rials of MacFadden et al. (2010) has a dentine/bone index
+value of 30.6, which is comparable to the index value of
+FMNH P 14511. That said, the criteria set by MacFadden et
+
+Page 19 of 24 1
+
+al. (2010) of acceptable REE index values>0.35 are based
+on measurements of enamel-bearing mammals from the
+same localities as fossil xenarthrans rather than from mod-
+ern bone, dentine, and enamel. We were unable to procure
+enamel samples from non-xenarthran placental mammals
+from the same localities, which would have aided in deter-
+mining the relative degree of diagenesis in the ground sloth
+teeth used in this study. Clumped isotope temperatures are
+also based on CO; being substituted into the PO, and OH
+sites of hydroxylapatite, while REE concentrations occur
+on the Ca?" site of hydroxylapatite (Kohn et al. 1999), sug-
+gesting that geochemical alteration may not be the same at
+either bonding site. Based on these factors, and the REE
+index not accounting for the carbonate contamination of UF
+312730 (Fig. 1c; Online Resource 2), we argue that use of
+the REE index alone does not always provide a robust indi-
+cator of diagenesis or lack thereof.
+
+Suarez and Passey (2014) showed that clumped iso-
+tope temperatures found in fossil bone can be intermediate
+between ambient temperatures during the time of fossiliza-
+tion and body temperature. However, predominantly bone
+was used in their analysis, which is more prone to diage-
+netic alteration compared to dental tissues such as enamel
+and dentine (MacFadden et al. 2010). Their dataset also did
+not include internal orthodentine from fossil xenarthrans,
+which is less prone to diagenesis than external dentine but
+not as resistant as enamel. Cathodoluminescence performed
+by Larmon et al. (2019) demonstrated that internal ortho-
+dentine in an Eremotherium tooth exhibits very few cracks
+where mineral impregnation can occur and they concluded
+that little diagenesis had occurred. Moreover, Suarez and
+Passey (2014) did not compare phosphate concentrations of
+their samples compared to extant mammalian bone, whereas
+our previous studies (Eagle et al. 2010, 2011) have shown
+that the temperatures obtained from the teeth of extinct ver-
+tebrates using clumped isotope mass spectrometry reflect
+the core body temperature of the organism, and not an inter-
+mediate between the body temperature and the temperature
+of the environment.
+
+The novel data generated herein offer several intrigu-
+ing implications for ground sloth integument, thermal
+energetics, ecology, and behavior. However, it is acknowl-
+edged that the results may not be definitive. The presence
+of low body temperatures determined by clumped isotope
+paleothermometry is suggestive that ground sloths were
+heterothermic, akin to their closest living relatives. How-
+ever, further analyses with a larger sample size consisting
+of specimens from various depositional environments are
+needed to verify this hypothesis. Given that some of the cor-
+tical bone samples did not come from the same individuals
+as the respective tooth samples, this could impact the values
+of REE ratios due to potential differences in REE uptake
+
+ay Springer
+
+1 Page 20 of 24
+
+during fossilization. While samples were taken from other
+sections of the fossil teeth used for the geochemical analy-
+ses, these were not used due to restrictions of time and fund-
+ing for this study. Further analyses of these samples could
+better indicate evidence of a past heterothermic condition as
+the inner orthodentine could have recorded different isoto-
+pic signals, and thus different body temperature estimates.
+
+The modeling simulations presented here assumed con-
+sistent fur depth and density across the entire body, whereas
+these parameters can vary about the body surface area and
+this factor should be taken into account when considering
+the full implications of the results. Other factors such as skin
+thickness, hair shaft thickness, underfur, and the presence/
+absence of hollow hair shafts should additionally be taken
+into account with future analyses. Admittedly, we tested
+only average adult body masses, and our results could vary
+if tested while accounting for intraspecific variations in body
+masses. Pliocene climates were excluded from this analysis
+due to Pleistocene climate variables being easier to use for
+extrapolation of reasonable monthly values from modern
+climate data. The inclusion of Pliocene Epoch climate data
+would give more insight into how integument and associ-
+ated fur coverage could have varied in earlier populations of
+both Eremotherium and Megatherium. Lastly, geologic ages
+of localities sampled for the microclimate simulations cover
+a broad range of geologic time encompassing the entire span
+of the Pleistocene from 2,500,000-11,500 years ago, and
+more precise dates were not available in the Paleobiology
+Database (Online Resource 1). More precise estimates of
+paleoclimate and dating of ground sloth localities could
+have greatly improved the microclimate simulations.
+
+Conclusions
+
+Clumped isotope palaeothermometry of inner orthoden-
+tine provides convincing evidence for extinct ground sloths
+having body temperatures akin to extant xenarthrans and
+potentially being heterothermic, regardless of absolute dif-
+ferences in body sizes. These findings combined with novel
+biophysical modeling results in Niche Mapper demonstrate
+that lower body temperatures and basal metabolisms, in
+addition to environmental variables, impacted ground sloth
+geographical distribution, thermoregulation ability, and
+integument form. The “hairless model of integument” pre-
+viously proposed for Megatherium is untenable when more
+accurate estimates of xenarthran basal metabolism, while
+the closely related Eremotherium has been suggested to be
+sparsely furred in neotropical climates. Giant ground sloths
+likely had a variety of integument appearances from dense,
+thinner fur coverage in the neotropics to dense, thicker fur
+coverage in cold environments. Smaller ground sloths would
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+have needed dense, thick fur supplemented with behavioral
+thermoregulation to endure cold climates throughout the
+year. The modeling data also point to surprising adaptabil-
+ity of xenarthran physiology in both the largest and smaller
+ground sloths. Moreover, the predicted integument models
+for the largest taxa are believed to be reliable unless refuted
+by a future specimen with extensive preserved integument.
+Prospective future models must examine other taxa (e.g.,
+Megalonyx, Thalassocnus, Lestodon, etc.) and include his-
+tological studies to help determine how low the basal meta-
+bolic rates of ground sloths could have been beneficial,
+therefore providing further insight into the physiology of
+these and other fossil xenarthrans and how their metabolic
+rates impacted their integument appearance, growth rates,
+ecology, and behavior.
+
+Supplementary information The online version _ contains
+supplementary material available at https://doi.org/10.1007/s10914-0
+24-09743-2.
+
+Acknowledgements We immensely thank V. Sinkonen, Y. Kutucu,
+and Universidad de la Republica for supplying us with 3D ground sloth
+models for this research and adding curves to them. We also thank W.
+Simpson (Field Museum of Chicago) and B. MacFadden and R. Hul-
+bert (University of Florida) for providing fossil samples for geochemi-
+cal analyses. R.J. Flores was supported by a Basic Energy Sciences
+grant DE-FG02-8361ER16402 and A.K. Tripati was supported by a
+grant from the Heising-Simons Foundation 2022-3314. Funding for
+the analytical infrastructure of the Boise State Isotope Geology Labo-
+ratory used for measuring trace elements by LA-ICPMS in this study
+was provided by National Science Foundation grants EAR-1735889
+and EAR-1920336. Thanks to M. Kohn (Boise State University) for
+feedback on interpreting the rare earth element data. In addition, H.G.
+McDonald, J. Tejada, R. McAfee, M. Curiel, and S. Lee are thanked
+for their insight, feedback and critical comments.
+
+Author contributions M.D.D. developed the concepts and approach,
+collected and analyzed data, prepared figures, and drafted and revised
+the manuscript; W.P.P. developed code and facilitated data analysis;
+P.D.M. developed code and facilitated data analysis; D.M.L. per-
+formed data mapping; R.J.F. analyzed data; A.K.T. analyzed data;
+R.A.E. developed analysis approach and interpreted data; D.M.S. de-
+veloped analysis approach and interpreted data; M.T.B. developed the
+concepts and approach, and drafted and revised the manuscript.
+
+Funding Basic Energy Sciences grant DE-FG02-8361ER16402; Heis-
+ing-Simons Foundation grant 2022-3314; National Science Founda-
+tion grants EAR-1735889 and EAR-1920336.
+
+Data availability All data collected and analyzed for this study are
+included in this published article in adherence with disclosure policy
+of the journal. The authors are sharing new data alongside the results
+of this report; Niche Mapper input has been reposited to Zenodo (htt
+ps://doi.org/10.5281/zenodo. 10626431) and clumped isotope data has
+been reposited to EarthChem (https://doi.org/10.60520/IEDA/11312
+7).
+
+Declarations
+
+Competing interests The authors declare no competing interests.
+
+Journal of Mammalian Evolution (2025) 32:1
+
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format,
+as long as you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons licence, and indicate
+if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless
+indicated otherwise in a credit line to the material. If material is not
+included in the article’s Creative Commons licence and your intended
+use is not permitted by statutory regulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyright
+holder. To view a copy of this licence, visit http://creativecommons.o
+rg/licenses/by/4.0/.
+
+References
+
+Amiot R, Lécuyer C, Buffetaut E, Escarguel G, Fluteau F, Martineau
+F (2006) Oxygen isotopes from biogenic apatites suggest wide-
+spread endothermy in Cretaceous dinosaurs. Earth Planet Sci Lett
+246(1-2):41—54. https://doi.org/10.1016/j.epsl.2006.04.018
+
+Anderson NT, Kelson JR, Kele S, Daéron M, Bonifacie M, Horita J,
+et al (2021) A unified clumped isotope thermometer calibration
+(0.5—1,100° C) using carbonate-based standardization. Geophy
+Res Lett 48(7):e2020GL092069. https://doi.org/10.1029/2020G
+L092069
+
+Barbosa FHDS, Alves-Silva L, Liparini A, Porpino KDO (2023)
+Reviewing the body size of some extinct Brazilian Quaternary
+xenarthrans. J Quat Sci https://doi.org/10.1002/jqs.3560
+
+Bargo MS, Vizcaino SF, Archuby FM, Blanco RE (2000) Limb bone
+proportions, strength and digging in some Lujanian (Late Pleis-
+tocene-Early Holocene) mylodontid ground sloths (Mammalia,
+Xenarthra). J Vertebr Paleontol 20(3):601—610. https://doi.org/10
+-1671/0272-4634(2000)020[0601:LBPSAD]2.0.CO;2
+
+Bargo MS, De luliis G, Vizcaino SF (2006) Hypsodonty in Pleistocene
+ground sloths. Acta Paleontol Pol 51(1):53-61.
+
+Bernasconi SM, Daéron M, Bergmann KD, Bonifacie M, Meckler AN,
+Affek HP et al (2021) InterCarb: A community effort to improve
+interlaboratory standardization of the carbonate clumped isotope
+thermometer using carbonate standards. Geochem Geophys Geo-
+syst 22(5):e2020GC009588 https://doi.org/10.1029/2020GC009
+588.
+
+Billet G, Germain D, Ruf I, de Muizon C, Hautier L (2013) The inner
+ear of Megatherium and the evolution of the vestibular system in
+sloths. J Anat 223(6):557—-567. https://doi.org/10.1111/joa.12114
+
+Blanco RE, Czerwonogora A (2003) The gait of Megatherium Cuvier
+1796. Senckenb Biol 83: 61-68.
+
+Bocherens H, Cotte M, Bonini RA, Straccia P, Scian D, Soibelzon L,
+Prevosti FJ (2017). Isotopic insight on paleodiet of extinct Pleis-
+tocene megafaunal xenarthrans from Argentina. Gondwana Res
+48:7-14. https://doi.org/10.1016/j.gr.2017.04.003
+
+Boeskorov GG, Mashchenko EN, Plotnikov VV, Shchelchkova MV,
+Protopopov AV, Solomonov NG (2016). Adaptation of the woolly
+mammoth Mammuthus primigenius (Blumenbach, 1799) to habi-
+tat conditions in the glacial period. Contemp Probl Ecol 9:544—
+53. https://doi.org/10.1134/S19954255 16050024
+
+Boyles JG, Levesque DL, Nowack J, Wojciechowski MS, Stawski
+C, Fuller A, et al (2019) An oversimplification of physiological
+principles leads to flawed macroecological analyses. Ecol Evol
+9(21):12020-12025. https://doi.org/10.1002/ece3.5721
+
+Brassey CA, Gardiner JD (2015) An advanced shape-fitting algorithm
+applied to quadrupedal mammals: improving volumetric mass
+estimates. R Soc Open Sci 2(8):150302. https://doi.org/10.1098
+/rsos.150302
+
+Page 21 of 24 1
+
+Campbell KL, Roberts JE, Watson LN, Stetefeld J, Sloan AM, Signore
+AV, Howatt JW, Tame JR, Rohland N, Shen TJ, Austin JJ (2010).
+Substitutions in woolly mammoth hemoglobin confer biochemi-
+cal properties adaptive for cold tolerance. Nat Genet 42(6):536—
+40. https://doi.org/10.1038/ng.574
+
+Cartelle C, Bohérquez GA (1986). Presenga de ossiculos dérmicos
+em Eremotherium laurillardi (Lund) Cartelle & Bohérquez 1982
+(Edentanta, Megatheriidae). Iheringia Ser Geol 11:9-14.
+
+Chavagnac V, Milton JA, Green DRH, Breuer J, Bruguier O, Jacob
+DE, et al. (2007). Towards the development of a fossil bone geo-
+chemical standard: An inter-laboratory study. Anal Chim Acta
+599(2):177-190
+
+Christiansen P, Farifia RA (2003) Mass estimation of two fossil ground
+sloths (Mammalia, Xenarthra, Mylodontidae). Senckenberg Biol
+83(1):95-101
+
+Clarke A, Rothery P (2008) Scaling of body temperature in mammals
+and birds. Funct Ecol 22(1):58—-67. https://doi.org/10.1111/j.136
+5-2435.2007.01341.x.
+
+Cliffe RN, Haupt RJ, Avey-Arroyo JA, Wilson RP (2015) Sloths like
+it hot: ambient temperature modulates food intake in the brown-
+throated sloth (Bradypus variegatus). PeerJ 3:e875. https://doi.o
+rg/10.7717/peerj.875
+
+Cliffe RN, Scantlebury DM, Kennedy SJ, Avey-Arroyo J, Mindich D,
+Wilson RP (2018) The metabolic response of the Bradypus sloth
+to temperature. PeerJ 6:e5600. https://doi.org/10.7717/peerj.5600
+
+Cliffe RN, Haupt RJ, Kennedy S, Felton C, Williams HJ, Avey-Arroyo
+J, Wilson R (2023) The behaviour and activity budgets of two
+sympatric sloths; Bradypus variegatus and Choloepus hoffmanni.
+PeerJ 11:e15430. https://doi.org/10.7717/peerj.15430
+
+Collins RL (1933) Mylodont (ground sloth) dermal ossicles from
+Colombia, South America. J Wash Acad Sci 23(9):426-429.
+
+Conte GL, Lopes Le, Mine AH, Trayler RB, Kim SL (2024) SPORA,
+a new silver phosphate precipitation protocol for oxygen isotope
+analysis of small, organic-rich bioappatite samples. Chem Geol
+65:122000. https://doi.org/10.1016/.chemgeo.2024.122000
+
+Copploe JV II, Blob RW, Parrish JHA, Butcher MT (2015) Jn vivo
+strains in the femur of the nine-banded armadillo (Dasypus
+novemcinctus). J Morphol 276:889-899. https://doi.org/10.1002
+/jmor.20387
+
+Croft DA, Gelfo JN, Lopez GM (2020) Splendid innovation: the
+extinct South American native ungulates. Ann Rev Earth Planet
+Sci 48:259-290.
+
+Dantas, MAT, Omena EC, da Silva JLL, Sial A (2021) Could Eremoth-
+erium laurillardi (Lund, 1842) (Megatheriidae, Xenarthra) be an
+omnivore species? Anu Inst Geocienc 44:1—5. https://doi.org/10.
+11137/1982-3908_2021_ 44 36492
+
+Dantas MAT, Cherkinsky A, Bocherens H, Drefahl M, Bernardes C,
+de Melo Franga L (2017) Isotopic paleoecology of the Pleisto-
+cene megamammals from the Brazilian Intertropical Region:
+Feeding ecology (5!°C), niche breadth and overlap. Quat Sci Rev
+170:152-163. https://doi.org/10.1016/j.quascirev.2017.06.030
+
+Deka RJ, Sarma NK (2015) Studies on feeding behaviour and daily
+activities of Rhinoceros unicornis in natural and captive condition
+of Assam. Indiana J Anim Res 49(4):542-545.
+
+Delsuc, F, Kuch M, Gibb GC, Karpinski, E, Hackenberger D, Szpak
+P, Billet G (2019) Ancient mitogenomes reveal the evolutionary
+history and biogeography of sloths. Curr Biol 29(12):203 1—2042.
+https://doi.org/10.1016/j.cub.2019.05.043
+
+Eagle RA, Schauble EA, Tripati AK, Tiitken T, Hulbert RC, Eiler JM
+(2010) Body temperatures of modern and extinct vertebrates from
+3C-!80 bond abundances in bioapatite. Proc Natl Acad Sci USA
+107(23):10377—-10382. https://doi.org/10.1073/pnas.0911115107
+
+Eagle RA, Tiitken T, Martin TS, Tripati AK, Fricke HC, Connely M, et
+al (2011) Dinosaur body temperatures determined from isotopic
+(3c-!80) ordering in fossil biominerals. Science 333(6041):443—
+445. https://doi.org/10.1126/science.1206196
+
+ay Springer
+
+1 Page 22 of 24
+
+Eagle RA, Enriquez M, Grellet-Tinner G, Pérez-Huerta A, Hu D, Tiit-
+ken T, et al (2015) Isotopic ordering in eggshells reflects body
+temperatures and suggests differing thermophysiology in two
+Cretaceous dinosaurs. Nat Commun 6(1):8296. https://doi.org/1
+0.1038/ncomms9296
+
+Ehlers J, Gibbard PL, Hughes PD (2018) Quaternary glaciations and
+chronology. In: Menzies J, van der Meer JJM (eds) Past Glacial
+Environments. Elsevier, Amsterdam, pp 77-101.
+
+Farifia RA (2002) Megatherium, the hairless: appearance of the
+great Quaternary sloths (Mammalia; Xenarthra). Ameghiniana
+39:241-244.
+
+Farifia RA, Blanco RE (1996) Megatherium, the stabber. Proc R Soc
+B263(1377):1725-1729.
+
+Farifia RA, Vizcaino SF, Bargo MS (1998) Body mass estimations
+in Lujanian (late Pleistocene-early Holocene of South America)
+mammal megafauna. Mastozool Neotrop 5(2):87-108.
+
+Feldhamer GA, Drickamer LC, Vessey SH, Merritt JF, Krajewski C
+(2007) Mammalogy: Adaptation, Diversity, and Ecology. John
+Hopkins University Press, Baltimore.
+
+Fricke HC, Rogers R (2000) Multiple taxa and multiple locality
+approach to providing oxygen isotope evidence for endothermic
+homeothermy in theropod dinosaurs. Geology 28(9):799-802.
+
+Ghosh P, Adkins J, Affek H, Balta B, Guo W, Schauble EA, et al (2006)
+'3¢_!8© bonds in carbonate minerals: a new kind of paleother-
+mometer. Geochim Cosmochim Acta 70(6):1439-1456. https://d
+oi.org/10.1016/j.gca.2005.11.014
+
+Gonzalez-Bernardo E, Russo LF, Valderrabano E, Fernandez A, Pente-
+riani V (2020) Denning in brown bears. Ecol Evol 10(13):6844—
+6862. https://doi.org/10.1002/ece3.6372
+
+Gonzalez-Guarda E, Domingo L, Tornero C, Pino M, Fernandez MH,
+Sevilla P, et al (2017). Late Pleistocene ecological, environmental
+and climatic reconstruction based on megafauna stable isotopes
+from northwestern Chilean Patagonia. Quat Sci Rev 170:188—
+202. https://doi.org/10.1016/j.quascirev.2017.06.035
+
+Gorvet MA, Wakeling JM, Morgan DM, Segura DH, Avey-Arroyo J,
+Butcher MT (2020) Keep calm and hang on: EMG activation in
+the forelimb musculature of three-toed sloths (Bradypus varie-
+gatus). J Exp Biol 223(14):jeb218370. https://doi.org/10.1242/j
+eb.218370
+
+Gravett N, Bhagwandin A, Sutcliffe R, Landen K, Chase MJ, Lyamin
+OI, et al (2017) Inactivity/sleep in two wild free-roaming A fri-
+can elephant matriarchs—Does large body size make elephants the
+shortest mammalian sleepers? PL oS ONE 12(3):e0171903. https
+://doi.org/10.1371/journal.pone.0171903
+
+Green, JL, Kalthoff, DC (2015) Xenarthran dental microstructure and
+dental microwear analyses, with new data for Megatherium amer-
+icanum (Megatheriidae). J Mammal 96(4):645—657. https://doi.o
+rg/10.1093/mammal/gyv045
+
+Griffiths ML, Eagle RA, Kim SL, Flores R, Becker MA, Maisch
+IV HM, et al (2023) Thermal physiology of extinct megatooth
+sharks. Proc Natl Acad Sci USA 120(27):e2218153120. https://d
+oi.org/10.1073/pnas.2218153120
+
+Hausman LA (1929) The ovate bodies of the hair of Nothrotherium
+shastense. Am J Sci 106:331-333.
+
+Hayssen V (2011) Choloepus hoffmanni (Pilosa: Megalonychidae).
+Mammal Species 43(873):37—55. https://doi.org/10.1644/873.1
+
+Ho TY (1967) Relationship between amino acid contents of mamma-
+lian bone collagen and body temperature as a basis for estimation
+of body temperature of prehistoric mammals. Comp Biochem
+Physiol 22:113-119.
+
+Holden PB, Edwards NR, Rangel TF, Pereira EB, Tran GT, Wilkinson
+RD (2019) PALEO-PGEM vl. 0: a statistical emulator of Plio-
+cene—Pleistocene climate. Geosci Model Dev 12(12):5137-5155.
+https://doi.org/10.5194/gmd-12-5137-2019
+
+Hutchinson JR, Schwerda D, Famini DJ, Dale RH, Fischer MS, Kram R
+(2006) The locomotor kinematics of Asian and African elephants:
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+changes with speed and size. J Exp Biol 209(19):3812-3827. http
+s://doi.org/10.1242/jeb.02443
+
+Idso SB, Jackson RD (1969) Thermal radiation from the atmosphere. J
+Geophys Res 74(23):5397-5403.
+
+Jochum KP, Weis U, Schwager B, Stoll B, Wilson SA, Haug GH, et
+al. (2016). Reference values following ISO guidelines for fre-
+quently requested rock reference materials. Geostands Geoanal
+Res 40(3):333-350.
+
+John CM, Bowen D (2016) Community software for challenging iso-
+tope analysis: First applications of ‘Easotope’ to clumped iso-
+topes. Rapid Commun Mass Spectrom 30:2285—2300. https://doi
+-org/10.1002/rem.7720
+
+Kleiber M (1932) Body size and metabolism. Hilgardia 6(11):315-353.
+
+Knight F, Connor C, Venkataramanan R, Asher R (2020) Body temper-
+atures, life history, and skeletal morphology in the nine-banded
+armadillo (Dasypus novemcinctus). PCI Ecol. https://doi.org/10
+-17863/CAM.50971
+
+Kohn MJ, Schoeninger MJ, Barker WW (1999) Altered states: effects
+of diagenesis on fossil tooth chemistry. Geochim Cosmochim
+Acta 63(18):2737-47. https://doi.org/10.1016/S0016-7037(99)0
+0208-2
+
+Krmpotic CM, Carlini AA, Galliari FC, Favaron P, Miglino MA,
+Scarano AC, Barbeito CG (2014). Ontogenetic variation in the
+stratum granulosum of the epidermis of Chaetophractus vellero-
+sus (Xenarthra, Dasypodidae) in relation to the development of
+cornified scales. Zoology 117(6):392-397 https://doi.org/10.101
+6/j.zool.2014.06.003.
+
+Larmon JT, McDonald HG, Ambrose S, DeSantis LR, Lucero LJ
+(2019) A year in the life of a giant ground sloth during the Last
+Glacial Maximum in Belize. Sci Adv 5(2): 1-9. https://doi.org/1
+0.1126/sciadv.aaul 200
+
+Lécuyer C, Balter V, Martineau F, Fourel F, Bernard A, Amiot R, Gar-
+dien V, Otero O, Legendre S, Panczer G, Simon L, Martini, R
+(2010) Oxygen isotope fractionation between apatite-bound car-
+bonate and water determined from controlled experiments with
+synthetic apatites precipitated at 10-37° C. Geochim Cosmochim
+Acta 74(7):2072-2081. https://doi.org/10.1016/j.gca.2009.12.02
+4
+
+Levesque DL, Marshall KE (2021) Do endotherms have thermal per-
+formance curves? J Exp Biol 224(3):jeb141309. https://doi.org/1
+0.1242/jeb.141309
+
+Lindsey EL, Reyes EXL, Matzke GE, Rice KA, McDonald HG (2020)
+A monodominant late-Pleistocene megafauna locality from Santa
+Elena, Ecuador: Insight on the biology and behavior of giant
+ground sloths. Paleogeogr Paleoclimatol Paleoecol 544:109599.
+https://doi.org/10.1016/j.palaeo.2020.109599
+
+Lovelace DM, Hartman SA, Mathewson PD, Linzmeier BJ, Porter WP
+(2020) Modeling Dragons: Using linked mechanistic physiologi-
+cal and microclimate models to explore environmental, physi-
+ological, and morphological constraints on the early evolution of
+dinosaurs. PLS ONE 15(5):e0223872. https://doi.org/10.17026/d
+ans-238-9pjs
+
+MacFadden BJ, DeSantis LR, Hochstein JL Kamenov GD (2010)
+Physical properties, geochemistry, and diagenesis of xenarthran
+teeth: prospects for interpreting the paleoecology of extinct spe-
+cies. Paleogeogr Paleoclimatol Paleoecol 291(3—4):180-189. http
+s://doi.org/10.1016/j.palaeo.2010.02.021
+
+Martin FM (2018) Cueva del Milod6n. The hunting grounds of the
+Patagonian panther. Quat Int 466:212-222. https://doi.org/10.101
+6/j.quaint.2016.05.005
+
+McBee K, Baker RJ (1982) Dasypus novemcinctus. Mammal Species
+162:1-9.
+
+McCullough EC, Porter WP (1971) Computing clear day solar radia-
+tion spectra for the terrestrial ecological environment. Ecology
+52:1008-1015.
+
+Journal of Mammalian Evolution (2025) 32:1
+
+McDonald HG (2005) Paleoecology of extinct xenarthrans and the
+Great American Biotic Interchange. Bull Fla State Mus Nat Hist
+45(4):313-333.
+
+McDonald HG (2022) Paleoecology of the Eextinct Shasta Ground
+Sloth, Nothrotheriops shastensis (Xenarthra, Nothrotheridae):
+The Physical environment. N M Mus Nat Sci Bull 88:33-43
+
+McDonald HG, Lundelius Jr EL (2009) The giant ground sloth Ere-
+motherium laurillardi (Xenarthra. Megatheriidae) in Texas. Bull
+Mus North Ariz 65:407-421.
+
+McKamy AJ, Young MW, Mossor AM, Young, JW, Avey-Arroyo
+JA, Granatosky MC, Butcher MT (2023) Pump the Brakes! The
+hindlimbs of three-toed sloths control suspensory locomotion. J
+Exp Biol 226(8):jeb245622. https://doi.org/10.1242/jeb.245622
+
+McMillan BR, Cottam MR, Kaufman DW (2000) Wallowing behavior
+of American bison (Bison bison) in tallgrass prairie: an examina-
+tion of alternate explanations. Am Mid Nat 144(1):159-167.
+
+McNab, BK (1985) Energetics, population biology, and distribution
+of xenarthrans, living and extinct. In: Montgomery GG (ed) The
+Evolution and Ecology of Armadillos, Sloths, and Vermilinguas.
+Smithsonian Institution Press, Washington, D.C. pp 219-232.
+
+Mine AH, Waldeck A, Olack G, Hoerner ME, Alex S, Colman AS
+(2017) Microprecipitation and 5!8O analysis of phosphate for
+paleoclimate and biogeochemistry research. Chem Geol 460:1—4
+https://doi.org/10.1016/j.chemgeo.2017.03.032.
+
+Mitchell D, Snelling EP, Hetem RS, Maloney SK, Strauss WM,
+Fuller A (2018) Revisiting concepts of thermal physiology: pre-
+dicting responses of mammals to climate change. J Anim Ecol
+87(4):956-973. https://doi.org/10.1111/1365-2656.12818
+
+Myhrvold CL, Stone HA, Bou-Zeid E (2012) What is the use of ele-
+phant hair? PL oS ONE 7:e47018. https://doi.org/10.1371/journa
+L.pone.0047018
+
+Nance WB, Taylor SR (1976) Rare earth element patterns and crustal
+evolution-I. Australian post-Archean sedimentary rocks. Geo-
+chim Cosmochim Acta 40:1539-1551.
+
+Naples VL (1990) Morphological changes in the facial region and a
+model of dental growth and wear pattern development in Noth-
+rotheriops shastensis. J Vert Paleontol 10(3):372-389.
+
+Nehme C, Todisco D, Breitenbach SF, Couchoud I, Marchegiano M,
+Peral M, et al (2022) Holocene hydroclimate variability along the
+Southern Patagonian margin (Chile) reconstructed from Cueva
+Chica speleothems. Glob Planet Change 222:104050. https://do
+iorg/10.1016/j.gloplacha.2023.104050
+
+Nelson A, Engelman RK, Croft DA (2023) How to weigh a fossil mam-
+mal? South American notoungulates as a case study for estimat-
+ing body mass in extinct clades. J Mammal Evol 30(3):773-809 h
+ttps://doi.org/10.1007/s10914-023-09669-1
+
+Pant SRA, Goswami A, Finarelli JA (2014) Complex body size trends
+in the evolution of sloths (Xenarthra: Pilosa). BMC Evol Biol
+14:184. https://doi.org/10.1186/s12862-014-0184-1
+
+Pauli JN, Peery MZ, Fountain ED, Karasov WH (2016) Arboreal foli-
+vores limit their energetic output, all the way to slothfulness. Am
+Nat 188(2):196-204.
+
+Poinar HN, Hofreiter M, Spaulding WG, Martin PS, Stankiewicz BA,
+Bland H, Evershed RP, Possnert G, Paabo S (1998) Molecular
+coproscopy: dung and diet of the extinct ground sloth Nothroth-
+eriops shastensis. Science 128(5375):402-406.
+
+Presslee S, Slater GJ, Pujos F, Forasiepi AM, Fischer R, Molloy K,
+et al. (2019). Palaeoproteomics resolves sloth relationships. Nat
+Ecol Evol 3(7):1121—1130. https://doi.org/10.1038/s41559-019-0
+909-z
+
+Prevosti FJ, Martin FM (2013) Paleoecology of the mammalian preda-
+tor guild of Southern Patagonia during the latest Pleistocene: eco-
+morphology, stable isotopes, and taphonomy. Quat Int 305:74-84.
+https://doi.org/10.1016/j.quaint.2012.12.039
+
+Page 23 of 24 1
+
+Pujos F, Salas R (2004) A systematic reassessment and paleogeo-
+graphic review of fossil Xenarthra from Peru. Bull Inst Fr Et
+Andines 33:33 1-377.
+
+Ridewood WG (1901). On the structure of the hairs of Mylodon listai
+and other South American Edentata. J Cell Sci 2(175):393-411. h
+ttps://doi.org/10.1242/jcs.s2-44.175.393
+
+Santos LE, Ajala-Batista L, Carlini AA, de Araujo Monteiro-Filho EL
+(2024) Mylodon darwinii (Owen, 1840): hair morphology of an
+extinct sloth. Zoomorphology 2024:1-9.
+
+Seitz VP, Puig S (2018) Aboveground activity, reproduction, body
+temperature and weight of armadillos (Xenarthra, Chlamyphori-
+dae) according to atmospheric conditions in the central Monte
+(Argentina). Mammal Biol 88:43-51.
+
+Seymour R S, Hu Q, Snelling E P, White C R (2019). Interspecific
+scaling of blood flow rates and arterial sizes in mammals. J Exp
+Biol 222(7):jeb199554. https://doi.org/10.1242/Jen.199554
+
+Stears K, McCauley DJ, Finlay JC, Mpemba J, Warrington IT, Mutay-
+oba BM, et al (2018) Effects of the hippopotamus on the chemis-
+try and ecology of a changing watershed. Proc Nat Acad Sci USA
+115(22):E5028-E5037. https://doi.org/10.1073/pnas. 1800407115
+
+Stelmock J, Dean FC (1986) Brown bear activity and habitat use,
+Denali National Park—1980. Int Conf Bear Res Manag 6: 155-167.
+
+Suarez MB, Passey BH (2014) Assessment of the clumped isotope
+composition of fossil bone carbonate as a recorder of subsurface
+temperatures. Geochim Cosmochim Acta 140:142-159. https:/
+dol.org/10.1016|)- gca.2014.05.026
+
+Sunquist ME, Montgomery GG (1973) Activity patterns and rates of
+movement of two-toed and three-toed sloths (Choloepus hoff-
+manni and Bradypus infuscatus). J Mammal 54(4):946-954.
+
+Superina M, Abba AM (2014) Zaedyus pichiy (Cingulata: Dasypodi-
+dae). Mammal Species 46(905):1—10. https://doi.org/10.1644/90
+5.1
+
+Superina M, Boily P (2007) Hibernation and daily torpor in an arma-
+dillo, the pichi (Zaedyus pichiy). Comp Biochem Physiol A Mol
+Int Physiol 148(4):893-898. https://doi.org/10.1016/j.cbpa.2007
+-09.005
+
+Tagliavento M, Davies AJ, Bernecker M, Staudigel PT, Dawson RR,
+Dietzel M, et al (2023) Evidence for heterothermic endothermy
+and reptile-like eggshell mineralization in Troodon, a non-avian
+maniraptoran theropod. Proc Natl Acad Sci 120(15):e2213987120.
+https://doi.org/10.1073/pnas.22 13987120
+
+Taube E, Vié JC, Fournier P, Genty C, Duplantier JM (1999) Distribu-
+tion of two sympatric species of sloths (Choloepus didactylus and
+Bradypus tridactylus) along the Sinnamary River, French Guiana
+1. Biotropica 31(4):686-691.
+
+Tejada JV, Flynn JJ, MacPhee R, O’Connell TC, Cerling TE, Bermu-
+dez L, et al (2021) Isotope data from amino acids indicate Dar-
+win’s ground sloth was not an herbivore. Sci Reports 11(1):1—10.
+https://doi.org/10.1038/s41598-021-97996-9
+
+Tejada JV, Antoine PO, Miinch P, Billet G, Hautier L, Delsuc F, Con-
+damine FL (2024) Bayesian total-evidence dating revisits sloth
+phylogeny and biogeography: a cautionary tale on morphological
+clock analyses. Syst Biol 73(1):125—139. https://doi.org/10.1093
+/sysbio/syad069
+
+Toledo N, Boscaini A, Pérez LM (2021) The dermal armor of mylo-
+dontid sloths (Mammalia, Xenarthra) from Cueva del Milodon
+(Ultima Esperanza, Chile). J Morphol 282(4):612-627. https://do
+i.org/10.1002/jmor.21333
+
+Tomassini RL, Montalvo C I, Garrone MC, Domingo L, Ferigolo J,
+Cruz LE, et al (2020) Gregariousness in the giant sloth Lestodon
+(Xenarthra): multi-proxy approach of a bonebed from the Last
+Maximum Glacial of Argentine Pampas. Sci Reports 10(1):19055.
+https://doi.org/10.1038/s41598-020-67863-0
+
+Tregear RT (1965) Hair density, wind speed, and heat loss in mam-
+mals. J Appl Physiol 20(4):796-801.
+
+ay Springer
+
+1 Page 24 of 24
+
+Varela L, Tambusso PS, Patifio SJ, Di Giacomo M, & Farifia RA
+(2018) Potential distribution of fossil xenarthrans in South Amer-
+ica during the late Pleistocene: co-occurrence and provincialism.
+J Mamm Evol 25:539-550. https://doi.org/10.1007/s10914-017-9
+406-9
+
+Varela L, Clavijo L, Tambusso PS, Farifia RA (2023). A window into
+a late Pleistocene megafauna community: Stable isotopes show
+niche partitioning among herbivorous taxa at the Arroyo del Viz-
+caino site (Uruguay). Quat Sci Rev 317:108286. https://doi.org/1
+0.1016/j.quascirev.2023.108286
+
+Varela L, Tambusso §, Farifia R. (2024). Femora nutrient foramina and
+aerobic capacity in giant extinct xenarthrans. PeerJ 12:e17815. ht
+tps://doi.org/10.7717/peerj.17815
+
+Wang Y, Porter WP, Mathewson PD, Miller PA, Graham RW, Williams
+JW (2018) Mechanistic modeling of environmental drivers of
+
+ay Springer
+
+Journal of Mammalian Evolution (2025) 32:1
+
+woolly mammoth carrying capacity declines on St. Paul Island.
+Ecology 99(12):2721—2730. https://doi.org/10.1002/ecy.2524
+
+Wang Y, Widga C, Graham RW, McGuire JL, Porter WP, D. Warlind,
+D, Williams JW (2020) Caught in a bottleneck: Habitat loss for
+woolly mammoths in central North America and the ice-free cor-
+ridor during the last deglaciation. Glob Ecol Biogeogr 30(2):527—
+542. https://doi.org/10.1111/geb.13238
+
+White CR, Seymour RS (2004) Does basal metabolic rate contain a
+useful signal? Mammalian BMR allometry and correlations with
+a selection of physiological, ecological, and life-history variables.
+Physiol Biochem Zool 77(6):929-941.
+
+Publisher's note Springer Nature remains neutral with regard to juris-
+dictional claims in published maps and institutional affiliations.

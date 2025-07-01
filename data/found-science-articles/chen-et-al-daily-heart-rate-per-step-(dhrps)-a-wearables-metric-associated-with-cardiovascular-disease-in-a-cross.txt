@@ -1,0 +1,972 @@
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+® Check for updates
+
+Daily Heart Rate Per Step (DHRPS): A Wearables Metric Associated with
+Cardiovascular Disease in a Cross-Sectional Study of the All of Us Research
+
+Program
+
+Zhanlin Chen, MS!; Charles T. Wang, BA!; Carolyn J. Hu, BS!; Kendra Ward, MD,
+
+MSCP; Abel Kho, MD?; Gregory Webster, MD, MPH?
+
+Feinberg School of Medicine, Northwestern University, Chicago, IL 60611, USA.
+Division of Cardiology, Department of Pediatrics, Ann & Robert H. Lurie Children's
+Hospital of Chicago, Northwestern University Feinberg School of Medicine, Chicago,
+IL, 60611, USA.
+
+Center for Health Information Partnerships, Northwestern University Feinberg School
+
+of Medicine, Chicago, IL, USA
+
+Correspondence: Gregory Webster, MD, MPH, Division of Cardiology, Department of
+Pediatrics, Ann & Robert H. Lurie Children's Hospital of Chicago, Northwestern University
+Feinberg School of Medicine, 225 E Chicago Avenue, Chicago, IL 60611, Telephone: (312) 227-
+
+4397, Email: rgwebster@luriechildrens.org
+
+Subject Terms: Biomarkers; Risk Factors; Digital Health
+
+This article has been accepted for publication and undergone full peer review but has not
+been through the copyediting, typesetting, pagination and proofreading process, which may
+lead to differences between this version and the Version of Record. Please cite this article as
+doi: 10.1161/JAHA.124.036801
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Footnote: Presented at the American College of Cardiology Scientific Sessions in Chicago,
+
+Illinois, March 29-31, 2025.
+
+Footnote: This manuscript was sent to Tazeen H. Jafar, MD, MPH, Associate Editor, for review
+
+by expert referees, editorial decision, and final disposition.
+
+Abstract
+
+Background: Simple biometrics such as peak heart rate and exercise duration remain core
+predictors of cardiovascular disease (CVD). Commercial wearable devices track physical and
+cardiac electrical activity. Detailed, longitudinal data collection from wearables presents a valuable
+
+opportunity to identify new factors associated with CVD.
+
+Methods: This cross-sectional study analyzed 6,947 participants in the Fitbit Bring-Your-Own-
+Device Project, a subset of the All of Us Research Program. The primary exposure Daily Heart
+Rate Per Step (DHRPS) was defined as the average daily heart rate divided by steps per day. Our
+analysis correlated DHRPS with established CVD factors (type 2 diabetes, hypertension, stroke,
+heart failure, coronary atherosclerosis, myocardial infarction) as primary outcomes. We also
+performed a DHRPS-based phenome-wide association study (Phe WAS) on the spectrum of human
+disease traits for all 1,789 disease codes across 17 disease categories. Secondary outcomes
+included maximum metabolic equivalents (METs) achieved on cardiovascular treadmill exercise
+stress testing.
+
+Results: We examined 5.8 million person-days and 51 billion total steps of individual-level Fitbit
+
+data paired with electronic health record data. Elevated DHRPS was associated with type 2
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+diabetes (OR 2.03 [95% CI 1.70-2.42]), hypertension (OR 1.63 [95% CI 1.32-2.02]), heart failure
+(OR 1.77 [95% CI 1.00-3.14]), and coronary atherosclerosis (OR 1.44 [95% CI 1.14-1.82]), even
+after adjusting for daily heart rate and step count. DHRPS also had stronger correlations with max
+METs achieved on exercise stress testing compared to steps per day (Ap=0.04, p<0.001) and heart
+rate (Ap=0.31, p<0.001). Lastly, DHRPS-based PheWAS demonstrated stronger associations with
+
+CVD factors (p<1x10>) compared to daily heart rate or step count.
+
+Conclusions: In the All of Us Research Program Fitbit Bring- Your-Own-Device Project, DHRPS
+was an easy-to-calculate wearables metric and was more strongly associated with cardiovascular
+
+fitness and CVD outcomes than daily heart rate and step count.
+
+Key Words: Wearables, Heart Rate, Step Count, Cardiovascular Disease, Biomarkers, Physical
+
+Activity
+
+Clinical Perspective
+What is new?
+
+e We introduce Daily Heart Rate Per Step (DHRPS) as a new wearable-derived biomarker
+
+for cardiovascular disease that combines heart rate and step count
+
+e DHRPS showed stronger correlations with cardiovascular fitness, disease outcomes, and
+
+patient self-reported fitness than either metric alone.
+
+What are the clinical implications?
+
+e DHRPS may identify individuals at higher risk of cardiovascular morbidity and mortality,
+
+facilitating early detection using data from widely available wearable devices.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Non-standard Abbreviations and Acronyms
+All of Us — All of Us Research Program
+C-index — concordance index, or area under the ROC curve (AUC)
+CVD -— Cardiovascular Disease
+DHRPS -— Daily Heart Rate Per Step
+EHR - Electronic Health Record
+IQR — Interquartile Range
+MACEs — Major Adverse Cardiovascular Events
+METs — Metabolic Equivalents
+OR — Odds Ratio
+PheWAS — Phenome-wide Association Study
+PR — Prevalence Ratio
+
+SD — Standard Deviation
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Introduction
+
+Wearable devices, such as the Fitbit and Apple Watch, are widely used to monitor and track
+physical activity and cardiac metrics!*. Consumer devices have become increasingly popular for
+their ability to provide real-time feedback on health-related behaviors’. These features have raised
+public awareness about the importance of physical activity; however, the mechanisms underlying
+the relationship between daily steps and cardiovascular health remain unclear. Specifically, daily
+step count reflects motor activity driven by conscious effort, serving as a proxy for exercise
+duration and an indirect measure of exercise capacity. Understanding these relationships are
+
+essential for improving how wearable data can be used to assess and manage cardiovascular health.
+
+Cardiac stress tests directly evaluate the heart’s response to external stress in a controlled clinical
+environment*. Low cardiorespiratory fitness on a cardiac stress test predicts increased CVD
+incidence and mortality’. Previous studies have advocated for more widespread use of exercise
+capacity in clinical medicine given the strong correlations between cardiovascular and all-cause
+mortality®°. However, adherence to prescriptions for outpatient cardiac stress tests in the U.S. has
+been less than 60%!" In contrast, consumers spend money to manage their well-being with Fitbit
+devices, which track physical activity, heart rate, sleep patterns, and other health metrics. Wearable
+devices have been voluntarily adopted by the public, and the availability of granular data from
+wearable devices on the scale of minutes and hours presents an opportunity to identify new
+biomarkers associated with an increase in cardiovascular disease (CVD), potentially improving on
+
+the rough estimate of step count, and with better compliance than intermittent cardiac stress tests!.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+The purpose of this study was to use a cross-sectional dataset to examine the association between
+Daily Heart Rate Per Step (DHRPS) and CVD, then to compare these to previously-studied metrics
+like average daily heart rate and step count!*"!>. In total, we analyzed individual-level Fitbit device
+data paired with electronic health records (EHR) through the All of Us Research Program Fitbit
+Bring-Your-Own-Device Project. Based on previous literature, we hypothesized that an elevated
+DHRPS could be associated with increased CVD prevalence'*'’. This new wearable biomarker
+could potentially provide better individual stratification for CVD as an effective, low-cost, high-
+
+compliance screening tool.
+
+Methods
+
+The All of Us Research Program is a comprehensive health data repository supported by the
+National Institutes of Health. Details of the All of Us recruitment methods have been described
+separately!*. Briefly, health provider organizations and community partners recruited participants,
+with more than 75% of participants from groups historically underrepresented in biomedical
+research. All of Us gathered self-reported surveys, physical measurements, and encoded electronic
+health records, with ethics approval from the All of Us IRB to ensure ethical compliance in
+
+recruitment, data collection, and utilization.
+
+The data is available in the All of Us Research Program public repository, accessible after
+completing the required training (https://workbench researchallofus.org/). Informed consent was
+obtained from each participant by the All of Us _ Research Program
+
+(https://allofus nih.gov/article/all-us-consent-process).
+
+Study Design and Eligibility Criteria
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Data from the All of Us version 7 (C2022Q4R9 CDR) Fitbit Bring- Your-Own-Device Project was
+used to establish a cross-sectional, observational study population with recruitment dates from
+summer 2017 to July 1*, 2022. The study utilizes wearable data to derive metrics that serve as
+exposures, linking them to modifiable cardiovascular risk factors (e.g., hypertension, type 2
+diabetes) and specific major adverse cardiovascular events (e.g., myocardial infarction, stroke).
+The primary cohort included participants with a minimum of 10 days of Fitbit device data,
+excluding individuals missing data on age, sex at birth, BMI, enrollment survey responses, or
+EHR-linkage. Additionally, a subgroup analysis was conducted on participants with Fitbit data
+and cardiovascular treadmill exercise testing to compare wearable-derived metrics with
+
+established clinical measures of cardiovascular fitness.
+
+Wearable Data Sampling and Exposure Variables
+
+Wearable data included minute-by-minute physical activity and heart rate measurements. The data
+were obtained from participants with a minimum of 10 days of recording, with most extending
+beyond this period; however, the wearable data were retrospective and cross-sectional in nature.
+For each participant, average daily heart rate was calculated by averaging the heart rate across all
+minutes in a day (midnight-to-midnight). Steps per day were also counted. A derived metric,
+DHRPS (daily heart rate per step), was calculated by dividing daily heart rate by steps per day for
+each available day, then averaging across all days with data. Three wearable-derived metrics were
+
+analyzed as exposures: daily heart rate, steps per day, and DHRPS.
+
+Outcomes of Interest
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Disease phecodes were mapped from ICD-9-CM and ICD-10-CM billing codes!*. We tested
+associations of our exposure variable (DHRPS) against two types of outcome variables. The first
+was the prevalence of modifiable cardiovascular risk factors: hypertension (401.1), type 2 diabetes
+(250.2), and coronary atherosclerosis (411.4). The second was a subset of major adverse
+cardiovascular events (MACEs): myocardial infarction (411.2), stroke (433.3), and heart failure
+(428.2). The cross-sectional data structure implies that relationships between exposure and
+
+outcome variables establish associations, not causality.
+
+Data Analysis
+
+Primary Analysis
+
+To evaluate the clinical association between DHRPS and CVD, a baseline model was constructed
+using six logistic regressions. These regression models estimated odds ratios (OR) and 95%
+confidence intervals (CI) for the association between DHRPS and each of the six primary
+outcomes, adjusting for age, sex, race/ethnicity, and BMI. We then created an adjusted multivariate
+model to demonstrate the incremental discriminative value of DHRPS beyond existing wearable-
+derived metrics. The adjusted model included the same six logistic regressions, but with two
+additional independent variables—steps per day and daily heart rate—added to the baseline
+independent variables. The change in odds ratios before and after adjusting for these metrics
+quantified the incremental discriminative information contributed by DHRPS. The prevalence
+ratio (PR) was calculated by dividing the prevalence of a condition in the exposed group by its
+
+prevalence in the unexposed group, with a corresponding 95% CI.
+
+Additionally, the C-index was used to assess the improvement in model discrimination provided
+
+by including DHRPS. Two models were constructed for this purpose: Model | included age, sex,
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+race/ethnicity, BMI, steps per day, and daily heart rate. Model 2 incorporated the same variables
+as Model | along with DHRPS. The 95% confidence intervals for each C-index were calculated
+using bootstrapping with 10,000 resamples, and the incremental improvements in discrimination
+between the two models were tested using the Wilcoxon signed-rank test across the bootstrapped
+
+samples.
+
+PheWAS Analysis
+
+For the Phenome-wide association study (PheWAS), multivariate regression models were
+constructed to estimate the associations between wearable-derived factors versus all 1,789 disease
+phecodes across 17 disease categories while adjusting for age, sex, race/ethnicity, and BMI. To
+prevent false positives due to one-time miscoding, a case was counted if a participant had been
+coded for the same phecode in two or more encounters, occuring on separate dates, according to
+standard methodology”’. Multiple testing was adjusted with Bonferroni correction. The z-score
+
+and p-value of the regression coefficient for wearable-derived factors were used for comparison.
+
+Subgroup Analyses
+
+For the subgroup of participants with exercise stress test data available, we used Spearman’s rank
+correlation to correlate wearable-derived factors with maximum metabolic equivalents (METs)
+achieved. The difference in correlation values (DHRPS vs. steps per day, DHRPS vs. heart rate)
+were compared using Wilcoxon signed-ranked test on 10,000 bootstrapped samples drawn with
+replacement. As a participant-reported measure, we also examined the correlation between
+wearable-derived factors and self-reported physical health quality from the All of Us enrollment
+health survey. Likert-based self-reported physical health (1 “Poor” through 5 “Excellent”) was
+
+extracted from the survey question “In general, how would you rate your physical health?”
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+The participants were also divided into three groups based on DHRPS quartiles: low quartile (<25
+percentile or raw DHRPS value <0.0081), medium group (>25 percentile and <75 percentile), high
+quartile (275 percentile or raw DHRPS value 20.0147). Polynomial regression was used to
+estimate potentially non-linear central tendency and uncertainty of CVD as it pertains to age as a
+continuous variable. According to our hypothesis, a high DHRPS value should be associated with
+elevated disease associations, having a higher ratio of average heart rate over lower number of
+steps. In contrast, a lower DHRPS should be associated with decreased disease associations, with
+the cardioprotective effects from a lower average heart rate over higher number of steps. After
+dividing participants into three DHRPS groups (low, medium, high), a second order polynomial
+regression model estimated the effects of each DHRPS group on primary outcome associations
+across the age spectrum, with the goal of uncovering curvilinear relationships that may exist and
+
+shedding light on critical age thresholds in CVD associations.
+
+All analyses were performed on the All of Us Research Workbench in Python using the statsmodels
+
+package.
+
+Results
+
+A total of 6,947 individuals (mean [+SD] age, 54.6 [+15.1] years) were included in analysis,
+including 5.8 million person-days and 50 billion total steps of individual-level Fitbit device data.
+The median number of days with Fitbit data available was 795 days (IQR 365-1342), ranging from
+
+10 to 2710 days. The characteristics of the participants in each group are shown in Table 1.
+
+High DHRPS was associated with increased prevalence of CVD
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Overall, participants in the high DHRPS quartile group experienced at least a 34% increase in the
+prevalence ratio for all six primary outcomes compared to the medium DHRPS group (Table 2
+p<0.001 for each among type II diabetes, hypertension, heart failure, stroke, coronary
+atherosclerosis, and myocardial infarction). Further, the high DHRPS quartile, with a high ratio of
+daily heart rate to steps, was associated with at least a 56% increase in the prevalence ratio for all
+six primary outcomes compared to the low DHRPS quartile, a larger disparity compared to the
+
+medium DHRPS group.
+
+High DHRPS values were also associated with individual risk factors in multivariate regression.
+When including DHRPS in statistical models with both modifiable clinical risk factors and
+MACEs, multivariate logistic regression showed that higher DHRPS values (achieved through
+increasing of daily heart rate, decreasing of steps per day, or a combination of both) were
+associated with >40% increases in odds for all primary outcomes (p<0.001) while controlling for
+age, sex, race/ethnicity, and BMI (Figure 1). To ensure that DHRPS has discriminative value
+above the isolated wearable data components of steps per day and daily heart rate, we evaluated
+DHRPS in an additional multivariable model which included steps per day and average heart rate
+as co-variates. In this model, DHRPS was still associated with a statistically significant increased
+OR in type 2 diabetes (OR 2.03 [95% CI 1.70-2.42] p<0.001), hypertension (OR 1.63 [95% CI
+1.32-2.02] p<0.001), heart failure (OR 1.77 [95% CI 1.00-3.14] p=0.05), and coronary
+atherosclerosis (OR 1.44 [95% CI 1.14-1.82] p<0.001). As further evidence that DHRPS provides
+incremental discriminative value, we calculated the C-index for the two sets of logistic regression
+models established above. Compared to Model 1 with demographic and wearable factors,
+
+incorporating DHRPS in Model 2 showed a statistically significant increase in the C-index for
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+primary outcomes, indicating that DHRPS added incremental information to CVD _ risk
+
+discrimination (Table $1).
+
+DHRPS was relevant across the lifespan
+
+We also evaluated the relationship between DHRPS and CVD across the age spectrum (Figure
+$1). As expected, for all six primary outcomes, low DHRPS scores were protective for primary
+outcomes across the age spectrum; however, the effects were non-linear. In middle aged and older
+participants (starting at age 35), high DHRPS had a statistically significant increase in CVD in
+type 2 diabetes, hypertension, stroke, and coronary atherosclerosis, compared to middle and low
+scores. The difference in the prevalence of heart failure between high DHRPS group versus other
+
+groups also increased with age.
+
+DHRPS-based PheW AS
+
+We then assessed the association between DHRPS and all EHR-coded diagnoses. DHRPS-based
+PheWAS identified 518 statistically significant phecodes, including previously established CVD
+risk factors such as obesity, type 2 diabetes, sleep apnea, and hypertension (Figure 2, Table S2).
+PheWAS based on DHRPS had higher statistical significance and at least 1.3 times higher
+regression coefficient z-score for primary outcomes, indicating stronger associations with disease
+status”). In particular, the coefficient z-scores for DHRPS were stronger than daily heart rate and
+step count combined, suggesting that DHRPS encodes additional clinical information beyond daily
+
+heart rate and step count (Figure 3).
+
+Exercise Stress Test Sub-group Analysis
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+In the small subgroup with Fitbit data and exercise stress testing (n=21), DHRPS showed stronger
+correlations with max METs achieved on exercise stress testing (p=0.47 [95% CI 0.37-0.56])
+compared to steps per day (Ap=0.04, p<0.001) and heart rate (Ap=0.31, p<0.001). Additionally,
+data from enrollment surveys for participants with Fitbit data revealed that DHRPS showed
+
+stronger correlations with self-reported physical health than steps per day or heart rate (Figure 4).
+
+Discussion
+
+We report the development and initial validation of a novel wearables biomarker, DHRPS, for
+CVD risk discrimination. In this cross-sectional study, we demonstrated that DHRPS was strongly
+associated with EHR coding for modifiable cardiovascular risk factors and MACEs. These data
+were supported by the phenome-wide association study (PheWAS), which evaluated the entire
+spectrum of clinical diagnoses associated with a continuous variable without selecting candidate
+variables for the model a priori. In the PheWAS, we found that the strongest association with
+DHRPS occurred in established CVD risk factors, including obesity, type 2 diabetes, sleep apnea,
+and hypertension. Thus, our data establish a relationship between elevated DHRPS and
+cardiovascular disease both when we pre-specify cardiovascular risk factors and adverse outcomes
+
+and when we use a hypothesis-free PheWAS approach.
+
+Further supporting the central link between elevated DHRPS and cardiovascular disease, in a 21-
+participant subgroup, DHRPS had stronger correlations than steps per day or daily heart rate with
+established clinical measures of cardiovascular fitness on cardiovascular treadmill stress tests. The
+significance of these findings is that a favorable DHRPS score is a sensitive marker of overall
+health in the population. Equally important, DHRPS is a better model discriminator of CVD risk
+
+than either heart rate or steps-per-day.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+To put these data in context, the component metrics of DHRPS are strong independent predictors
+of CVD risk. More steps per day is strongly associated with decreased risk of CVD and all-cause
+mortality'*!>??, The measurement of steps per day is a practical and accessible proxy for assessing
+an individual's physical activity level, reflecting lower-level ambulatory activity and sedentary
+time”®. Separately, elevated resting heart rate has been positively associated with increased
+
+2425 coronary atherosclerosis”°?’, and heart failure’®. The
+
+incidence of hypertension
+parasympathetic nervous system also plays a key role in coordinating exercise capacity, with
+
+higher exercise capacity associated with lower resting heart rate through increased cardiac vagal
+
+activity’.
+
+Given the pathogenic mechanism behind these behavioral biomarkers, we sought to develop
+DHRPS, a new wearables metric that quantifies the average heart rate per step taken throughout
+the day, by integrating both the frequency of physical activity (steps) and the cardiovascular
+response (heart rate) into a single measure. As an individual’s activity levels vary naturally
+throughout the day, the heart rate also varies according to physiological demand and in response
+to the patient’s underlying fitness level and autonomic state. DHRPS may offer insights into the
+heart's responsiveness to increased activity demands, reflecting its capacity to adjust under stress
+or exertion through established physiological mechanisms such as coronary flow reserve, which
+represents the heart's ability to increase blood flow to meet heightened oxygen demands”. In this
+study, DHRPS had stronger associations with CVD than either heart rate or steps per day alone
+and was correlated with self-reported physical health, suggesting that this easy-to-calculate metric
+
+may be a superior exposure variable in population health studies.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+If validated in future studies, DHRPS may serve as a useful complement to clinical risk scores for
+CVD risk prediction. Additional prospective research, including studies that incorporate
+cardiopulmonary exercise testing with detailed metabolic data, will be needed to verify which
+components of the cardiovascular and autonomic system are being evaluated by DHRPS, and to
+delineate the physiologic mechanisms that provide incremental value above steps-per-day and
+daily heart rate. With the expanding availability of commercially available wearable devices, this
+new biomarker is a potential source of high-quality data that encodes both activity and
+
+cardiovascular fitness.
+
+The cross-sectional nature of All of Us is the most important limitation of this study. The design
+prevents establishment of causation or inference of longitudinal relationships. Although we have
+many days of DHRPS data for each participant, these are still fundamentally cross-sectional data,
+gathered as a convenience sample in a population-health protocol. Therefore, the wearable metrics
+were defined as exposure variables for disease prevalence and not chronological risk factors.
+Further, the subset of population who choose to participate in the All of Us Fitbit Bring-Your-
+Own-Device Project likely introduces selection bias by including a predominance of women, self-
+reported white race, and individuals who are interested in tracking their health status in the study
+population. While Fitbit devices provide convenient and non-invasive data collection, factors such
+as device calibration, sensor accuracy, and participant compliance can influence the precision of
+data collected!. Strengths of this study include the large number of participants with wearable
+
+device as well as the paired EHR.
+
+Conclusions
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+In the All of Us Research Program Fitbit Bring-Your-Own-Device Project, Daily Heart Rate Per
+Step (DHRPS) had strong associations with CVD and provided stronger clinical associations with
+exercise capacity and aerobic fitness than isolated measures of heart rate or steps per day. With the
+expanding availability of commercially available wearable devices, this new biomarker could
+
+potentially enable clinicians to identify individuals at higher risk for poor CVD outcomes.
+
+Sources of Funding
+
+Partial support for this work was provided by NIH RO1 HL164773.
+
+The All of Us Research Program is supported by the National Institutes of Health, Office of the
+Director: Regional Medical Centers: | OT2 0D026549; 1 OT2 OD026554; 1 OT2 OD026557; 1
+OT2 0D026556; 1 OT2 OD026550; 1 OT2 OD 026552; 1 OT2 ODN26553; 1 OT2 ODN26548; 1
+OT2 OD026551; 1 OT2 OD026555; IAA #: AOD 16037; Federally Qualified Health Centers:
+HHSN 263201600085U; Data and Research Center: 5 U2C OD023196; Biobank: 1 U24
+0D023121; The Participant Center: U24 0D023176; Participant Technology Systems Center: 1
+U24 0D023163; Communications and Engagement: 3 OT2 O0D023205; 3 OT2 OD023206; and
+Community Partners: | OT2 0D025277; 3 OT2 OD025315; 1 OT2 OD025337; 1 OT2 OD025276.
+In addition, the All of Us Research Program would not be possible without the partnership of its
+
+participants.
+
+Disclosures
+
+Authors declare that they have no competing interests.
+
+Supplemental Material
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Tables S1-S2, Figure $1
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+References
+
+1. Feehan LM, Geldman J, Sayre EC, Park C, Ezzat AM, Yoo JY, Hamilton CB, Li LC.
+Accuracy of Fitbit devices: systematic review and narrative syntheses of quantitative data. JMIR
+
+MHealth UHealth. 2018;6:e10527.
+
+2. Strain T, Wijndaele K, Dempsey PC, Sharp SJ, Pearce M, Jeon J, Lindsay T, Wareham N,
+Brage S. Wearable-device-measured physical activity and future health risk. Nat Med.
+
+2020;26:1385-1391.
+
+3. Diaz KM, Krupka DJ, Chang MJ, Peacock J, Ma Y, Goldsmith J, Schwartz JE, Davidson KW.
+Fitbit®: An accurate and reliable device for wireless physical activity tracking. Int J Cardiol.
+
+2015;185:138-140.
+
+4. Ladapo JA, Blecker S, Douglas PS. Physician decision making and trends in the use of cardiac
+stress testing in the United States: an analysis of repeated cross-sectional data. Ann Intern Med.
+
+2014;161:482-490.
+
+5. Carnethon MR, Gulati M, Greenland P. Prevalence and cardiovascular disease correlates of
+
+low cardiorespiratory fitness in adolescents and adults. Jama. 2005;294:2981—2988.
+
+6. Salokari E, Laukkanen JA, Lehtimaki T, Kurl S, Kunutsor S, Zaccardi F, Viik J, Lehtinen R,
+Nikus K, K66bi T, others. The Duke treadmill score with bicycle ergometer: Exercise capacity is
+
+the most important predictor of cardiovascular mortality. Eur J Prev Cardiol. 2019;26: 199-207.
+
+7. Ross R, Blair SN, Arena R, Church TS, Després J-P, Franklin BA, Haskell WL, Kaminsky
+
+LA, Levine BD, Lavie CJ, others. Importance of assessing cardiorespiratory fitness in clinical
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+practice: a case for fitness as a clinical vital sign: a scientific statement from the American Heart
+
+Association. Circulation. 2016;134:e653-e699.
+
+8. Mora S, Redberg RF, Cui Y, Whiteman MK, Flaws JA, Sharrett AR, Blumenthal RS. Ability
+of exercise testing to predict cardiovascular and all-cause death in asymptomatic women: a 20-
+
+year follow-up of the lipid research clinics prevalence study. Jama. 2003;290:1600-—1607.
+
+9. Lauer M, Froelicher ES, Williams M, Kligfield P. Exercise testing in asymptomatic adults: a
+statement for professionals from the American Heart Association Council on Clinical
+
+Cardiology, Subcommittee on Exercise, Cardiac Rehabilitation, and Prevention. Circulation.
+
+2005;112:771-776.
+
+10. Baugh CW, Blankstein R, Ganguli I, Januzzi JL, Morrow DA, Joseph JW, Jordan C,
+Donohoe G, Fofi J, McKinley K, others. Frequency, compliance, and yield of cardiac testing
+after high-sensitivity troponin accelerated diagnostic protocol implementation. Am J Emerg Med.
+
+2023.
+
+11. Milano P, Carden DL, Jackman KM, Rongkavilit A, Groves K, Tyndall J, Moll J.
+Compliance with outpatient stress testing in low-risk patients presenting to the emergency
+
+department with chest pain. Crit Pathw Cardiol. 2011;10:35—40.
+
+12. Xu Z, Zahradka N, Ip S, Koneshloo A, Roemmich RT, Sehgal S, Highland KB, Searson PC.
+Evaluation of physical health status beyond daily step count using a wearable activity sensor. Npj
+
+Digit Med. 2022;5:164.
+
+13. Hall KS, Hyde ET, Bassett DR, Carlson SA, Carnethon MR, Ekelund U, Evenson KR,
+
+Galuska DA, Kraus WE, Lee I-M, others. Systematic review of the prospective association of
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+daily step counts with risk of mortality, cardiovascular disease, and dysglycemia. Int J Behav
+
+Nutr Phys Act. 2020;17:1-14.
+
+14. Ayabe M, Brubaker PH, Dobrosielski D, Miller HS, Kiyonaga A, Shindo M, Tanaka H.
+Target step count for the secondary prevention of cardiovascular disease. Circ J. 2008;72:299—
+
+303.
+
+15. Sheng M, Yang J, Bao M, Chen T, Cai R, Zhang N, Chen H, Liu M, Wu X, Zhang B, others.
+The relationships between step count and all-cause mortality and cardiovascular events: A dose—
+
+response meta-analysis. J Sport Health Sci. 2021;10:620-628.
+
+16. Rossen JD, Winniford MD. Effect of increases in heart rate and arterial pressure on coronary
+
+flow reserve in humans. J Am Coll Cardiol. 1993;21:343-348.
+
+17. McGinn AL, White CW, Wilson RF. Interstudy variability of coronary flow reserve.
+Influence of heart rate, arterial pressure, and ventricular preload. Circulation. 1990;81:1319—
+
+1330.
+
+18. Ramirez AH, Sulieman L, Schlueter DJ, Halvorson A, Qian J, Ratsimbazafy F, Loperena R,
+Mayo K, Basford M, Deflaux N, et al. The All of Us Research Program: data quality, utility, and
+
+diversity. Patterns. 2022;3.
+
+19. Wu P, Gifford A, Meng X, Li X, Campbell H, Varley T, Zhao J, Carroll R, Bastarache L,
+Denny JC, others. Mapping ICD-10 and ICD-10-CM codes to phecodes: workflow development
+
+and initial evaluation. JMIR Med Inform. 2019;7:e14325.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+20. Verma A, Ritchie MD. Current scope and challenges in phenome-wide association studies.
+
+Curr Epidemiol Rep. 2017;4:321-329.
+
+21. Master H, Annis J, Huang S, Beckman JA, Ratsimbazafy F, Marginean K, Carroll R,
+Natarajan K, Harrell FE, Roden DM, others. Association of step counts over time with the risk of
+
+chronic disease in the All of Us Research Program. Nat Med. 2022;28:2301-2308.
+
+22. Paluch AE, Bajpai S, Ballin M, Bassett DR, Buford TW, Carnethon MR, Chernofsky A,
+Dooley EE, Ekelund U, Evenson KR, others. Prospective association of daily steps with
+
+cardiovascular disease: a harmonized meta-analysis. Circulation. 2023;147:122-131.
+
+23. Nayor M, Chernofsky A, Spartano NL, Tanguay M, Blodgett JB, Murthy VL, Malhotra R,
+Houstis NE, Velagaleti RS, Murabito JM, others. Physical activity and fitness in the community:
+
+the Framingham Heart Study. Eur Heart J. 2021;42:4565-4575.
+
+24. Palatini P, Julius S. Heart rate and the cardiovascular risk. J Hypertens. 1997;15:3-17.
+
+25. Palatini P, Benetos A, Julius S. Impact of increased heart rate on clinical outcomes in
+
+hypertension: implications for antihypertensive drug therapy. Drugs. 2006;66: 133-144.
+
+26. Fox K, Ford I, Steg PG, Tendera M, Robertson M, Ferrari R. Heart rate as a prognostic risk
+factor in patients with coronary artery disease and left-ventricular systolic dysfunction
+(BEAUTIFUL): a subgroup analysis of a randomised controlled trial. The Lancet.
+
+2008;372:817-821.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+27. Huikuri HV, Jokinen V, Syvanne M, Nieminen MS, Airaksinen KJ, Ikaheimo MJ, Koistinen
+JM, Kauma H, Kesiniemi AY, Majahalme S, others. Heart rate variability and progression of
+
+coronary atherosclerosis. Arterioscler Thromb Vasc Biol. 1999; 19:1979-1985.
+
+28. Bohm M, Swedberg K, Komajda M, Borer JS, Ford I, Dubost-Brama A, Lerebours G,
+Tavazzi L. Heart rate as a risk factor in chronic heart failure (SHIFT): the association between
+heart rate and outcomes in a randomised placebo-controlled trial. The Lancet. 2010;376:886—
+
+894.
+
+29. Gourine AV, Ackland GL. Cardiac vagus and exercise. Physiology. 2019;34:7 1-80.
+
+30. Kato S, Saito N, Nakachi T, Fukui K, Iwasawa T, Taguri M, Kosuge M, Kimura K. Stress
+perfusion coronary flow reserve versus cardiac magnetic resonance for known or suspected.
+
+CAD. J Am Coll Cardiol. 2017;70:869-879.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Table 1. Baseline characteristics of the All of Us Fitbit cohort.
+
+DHRPS Profiles
+
+Overall Low (<25%) Medium (25%- High (>75%)
+75%)
+
+n 6947 1737 3473 1737
+Age (SD) 56.2 (15.4) 58.2 (14.5) 55.3 (15.5) 56.1 (15.8)
+Sex, n (%)
+
+Female 5047 (72.7) 1064 (61.3) 2567 (73.9) 1416 (81.5)
+
+Male 1900 (27.3) 673 (38.7) 906 (26.1) 321 (18.5)
+Race/Ethnicity, n (%)
+
+Asian 175 (2.5) 36 (2.1) 108 (3.1) 31 (1.8)
+
+Black or African 377 (5.4) 61 (3.5) 185 (5.3) 131 (7.5)
+American
+
+Hispanic or Latino 389 (5.6) 86 (5.0) 200 (5.8) 103 (5.9)
+
+Others 258 (3.7) 52 (3.0) 127 (3.7) 79 (4.5)
+
+White 5748 (82.7) 1502 (86.5) 2853 (82.1) 1393 (80.2)
+BMI (SD) 29.7 (6.9) 26.9 (5.2) 29.3 (6.2) 33.1 (8.2)
+Heart Rate (SD) 76.8 (8.5) 72.9 (7.6) 77.2 (8.0) 80.0 (9.0)
+Steps Per Day (SD) 7597.6 11916.0 7242.8 3988.7
+
+(5376.0) (8878.1) (1311.5) (1198.0)
+
+DHRPS* (SD) 12.9 (10.0) 6.5 (1.1) 10.9 (1.8) 23.2 (15.3)
+Diagnosis, n (%)
+
+Coronary 593 (8.5) 151 (8.7) 248 (7.1) 194 (11.2)
+Atherosclerosis
+
+Myocardial Infarction 192 (2.8) 41 (2.4) 78 (2.2) 73 (4.2)
+
+Heart Failure 257 (3.7) 38 (2.2) 93 (2.7) 126 (7.3)
+
+Stroke 123 (1.8) 24 (1.4) 51 (1.5) 48 (2.8)
+
+Type 2 Diabetes 937 (13.5) 139 (8.0) 398 (11.5) 400 (23.0)
+
+Hypertension 2691 (38.7) 577 (33.2) 1250 (36.0) 864 (49.7)
+
+“High” DHRPS profiles have a large heart rate/step ratio and are associated with higher disease
+risks, whereas “low” DHRPS profiles have a small ratio.
+*DHRPS was calculated as Heart Rate / Steps Per Day, as noted in the Methods Section. For
+convenience of display in the table, it was scaled by multiplying by 10°.
+DHRPS = Daily Heart Rate Per Step, SD = Standard Deviation, BMI = Body Mass Index
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Table 2. Prevalence ratios [95% CI] in 6 primary outcomes between high DHRPS vs.
+medium DHRPS and high DHRPS vs. low DHRPS.
+
+Outcome
+
+Prevalence Ratio
+(High vs. Medium)
+
+p-value
+
+Prevalence Ratio
+
+(High vs. Low)
+
+p-value
+
+Coronary Atherosclerosis
+
+1.35 [1.09-1.68]
+
+<0.001
+
+1.56 [1.30-1.87]
+
+<0.001
+
+Myocardial Infarction
+
+1.34 [1.10-1.66]
+
+<0.001
+
+1.90 [1.38-2.59]
+
+<0.001
+
+Heart Failure
+
+2.81 [2.15-3.66]
+
+<0.001
+
+3.28 [2.30-4.77]
+
+<0.001
+
+Stroke
+
+2.04 [1.38-3.01]
+
+<0.001
+
+2.08 [1.28-3.37]
+
+<0.001
+
+Type 2 Diabetes
+
+2.03 [1.78-2.31]
+
+<0.001
+
+3.13 [2.60-3.79]
+
+<0.001
+
+Hypertension
+
+1.42 [1.32-1.52]
+
+<0.001
+
+1.62 [1.49-1.77]
+
+<0.001
+
+High quartile (> 75 percentile); medium group (>25 and < 75 percentile); low quartile (<25
+
+percentile.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Figure Legends
+
+Figure 1. Incremental odds ratio and 95% CI for the DHRPS variable in logistic regression
+models on each primary outcome.
+
+Models of Primary Cardiovascular Outcomes versus DHRPS. Using 6 logistic regressions,
+one with each cardiovascular risk factor as the dependent variable, the odds ratio and 95% CI for
+DHRPS were calculated, controlling for the risk factors age, sex, race/ethnicity, and BMI.
+Primary outcome with asterisk (*) remain statistically significant after controlling for the same
+baseline risk factors plus Steps Per Day and Daily Heart Rate. Dots are point estimates, plus 95%
+
+confidence intervals. The red dotted line represents an odds ratio of | (i.e., no association).
+
+Figure 2. DHRPS-based Phenome-wide association study (PheWAS).
+
+Manhattan plot of DHRPS-based PheWAS. PheWAS analyzes the association between many
+phenotypes compared to a single attribute, DHRPS, while adjusting for age, sex, race/ethnicity,
+BMI. The 1,789 disease codes across 17 disease categories phenotypes were derived from pre-
+existing All of Us classifications and the dashed line denotes phenome-wide significance after
+Bonferroni corrections for multiple comparisons, equivalent to a p-value of 2.9x10°>. Larger
+log(p-value) represents smaller p-values for the individual phenotype-DHRPS comparisons.
+
+GERD = Gastroesophageal reflux disease; Type II DM = Type II Diabetes Mellitus.
+
+Figure 3. Comparison of correlations between wearable risk factors and medical diagnoses:
+
+DHRPS, Steps Per Day, and Heart Rate.
+
+This article is protected by copyright. All rights reserved.
+
+S707 ‘PZ [dy uo Aq S10" speurnofeye//:dyy wosy popropumog
+
+Bar plots indicate DHRPS, Steps Per Day, and Heart Rate PheWAS coefficient z-scores for the
+six primary outcomes. A higher coefficient Z-score represents a stronger association with each
+
+primary outcome. DHRPS = Daily Heart Rate Per Step.
+
+Figure 4. Correlation between wearable risk factors and self-reported physical health.
+Bivariate correlation and 95% confidence interval (CI) between self-reported physical health at
+the time of recruitment and wearable risk factors. *** represents p<0.001. DHRPS = Daily Heart
+
+Rate Per Step.
+
+Type 2 Diabetes* | —e—
+!
+Hypertension* 4 —e—
+!
+!
+Heart Failure* 4 rr
+!
+!
+Stroke 4 {  —g
+1
+!
+Coronary Atherosclerosis * + —e—
+'
+!
+Myocardial Infarction 4 ——_e—__
+0.5 1.0 15 20 25 3.0 35 4.0
+Odds Ratio
+
+This article is protected by copyright. All rights reserved.
+
+S7ZOZ ‘PZ [dy uo Aq S1o"sjeurnofeye//:dyy wos popeojumoq:
+
+Obesity»
+
+id Obesi Qverweight
+Morbid Obesity» ETI etes
+320 Diabetes Mellitus™ Mood disorders
+
+Depression—* *— Major depressive disorder
+
+140
+
+00 Sleep apnea
+~ \— Obstructive Sleep apnea
+30 , Ana ‘— Hypertension ew
+x Type ll DM. : ; v7.
+Bq w/Neurological Manifestations Conia arrhythmias . ¥
+Renal Failure“
+40
+2
+
+Metric
+Mmm DHRPS
+l™@m™ Steps Per Day
+@@™ Heart Rate
+
+Coefficient Z-score
+
+This article is protected by copyright. All rights reserved.
+
+
+KKK
+
+KKK
+
+‘hb
+
+T
+° al
+Tt "
+So So
+
+T
+fo}
+pel
+o
+
+T
+Ye)
+N
+
+fo}
+
+T
+Oo
+N
+
+fo}
+
+T
+ra)
+dq
+
+fo}
+
+Steps Per Day Heart Rate
+
+DHRPS
+
+yeaH jes1skyg payoday YM uo!}e/a10D
+
+Downloaded from http://ahajournals.org by on April 24, 2025
+
+This article is protected by copyright. All rights reserved.

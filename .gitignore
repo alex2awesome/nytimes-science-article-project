@@ -1,0 +1,7 @@
+*.jsonl
+notebooks/.ipynb_checkpoints/
+*/__pycache__/
+*.html
+*.json
+*.png
+*.pdf

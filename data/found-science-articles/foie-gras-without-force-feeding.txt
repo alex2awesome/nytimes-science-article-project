@@ -1,0 +1,2185 @@
+”
+3
+=
+LL.
+Gan
+
+Oo
+
+“”)
+2
+
+“”)
+
+>
+<=
+QO.
+
+AIP
+Publishing
+
+RESEARCH ARTICLE | MARCH 25 2025
+Foie gras paté without force-feeding @
+
+Special Collection: Kitchen Flows 2024
+
+Mathias Baechle &% © ; Arlete M. L. Marques ® ; Matias A. Via © ; Mathias P. Clausen
+Thomas A. Vilgis %
+
+® Check for updates
+
+Physics of Fluids 37, 037196 (2025)
+https://doi.org/10.1063/5.0255813,
+
+@
+
+View Export
+Online — Citation
+
+Articles You May Be Interested In
+
+Microscopic characterization of fatty liver-based emulsions: Bridging microstructure and texture in foie gras
+and paté
+
+Physics of Fluids (November 2021)
+
+Physics of Fluids
+Special Topics
+
+Open for Submissions
+
+Learn More Za Publishing
+
+AIP
+
+0:20 SZz0z Udy Sz
+
+Physics of Fluids ARTICLE
+
+pubs.aip.org/aip/pof
+
+Foie gras pate without force-feeding ©@
+
+Cite as: Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813 @ 4. ®
+Submitted: 31 December 2024 - Accepted: 31 January 2025 - oO
+Published Online: 25 March 2025 View Online Export Citatior CrossMark
+
+Mathias Baechle,'*) @® Arlete M. L. Marques,” (® Matias A. Via,” (® Mathias P. Clausen,” (
+and Thomas A. Vilgis'? @
+
+AFFILIATIONS
+
+"Max Planck Institute for Polymer Research, Mainz, Germany
+*Department of Green Technology, University of Southern Denmark, Odense, Denmark
+
+Note: This paper is part of the Special Topic: Kitchen Flows 2024.
+
+*/Authors to whom correspondence should be addressed: mathias.baechle@icloud.com and vilgis@mpip-mainz.mpg.de
+"Electronic mail: am|im@igtsdu.dk
+
+‘Electronic mail: mpc@igtsdu.dk
+
+ABSTRACT
+
+Foie gras (paté) is an exceptional delicacy with a distinctive sensory profile. However, the animals, primarily ducks and geese, are force-fed a
+high-caloric cereals-based diet to obtain the fatty liver. With increasing awareness of ethical conditions and animal welfare, products that
+mimic the unique textural characteristics of foie gras paté are entering the market. The present work shows a way to produce a foie gras-like
+paté based on the same raw materials as a convenient homemade liver paté by enzymatic treatment of fat with Candida rugosa type VII lipase.
+The distribution of mono-, di- and triglycerides is altered, which affects the melting profile measured by dynamic scanning calorimetry
+(DSC). Nuclear magnetic resonance (NMR) spectroscopy and X-ray diffractometry (XRD) were used to compare the solid fat content and
+the crystalline part of the fat samples, showing an increase in both values compared to the untreated fat. The paté samples were analyzed by
+rheological methods and force measurements to determine physical properties such as storage modulus and hardness. The emulsion structure
+was evaluated by coherent anti-Stokes Raman scattering (CARS) microscopy, and fat droplet size and shape were assessed. When the textural
+properties of the patés are compared, the treated fat patés behave more like real foie gras patés than their untreated counterparts.
+
+© 2025 Author(s). All article content, except where otherwise noted, is licensed under a Creative Commons Attribution-NonCommercial-
+
+NoDerivs 4.0 International (CC BY-NC-ND) license (hittps://creativecommons.org/licenses/by-nc-nd/4.0/). ttps://doi.org/10.1063/5.0255813
+
+I. INTRODUCTION
+
+Force-fed goose or duck livers, and foie gras (fatty liver, literally
+from French) have a high reputation in restaurants offering fine din-
+ing. Indeed, their flavor, texture, and mouthfeel are appreciated to be
+exceptional and can be hardly imitated by other products, no matter
+whether foie gras is served fried, poached, or in more convenient cases,
+an transformed to paté' by careful mixing, which preserves the fat dis-
+tribution of the fatty liver. This process is followed by heating at a max-
+imum of 70°C, which ensures pasteurization, but also permanently
+cross-links the protein matrix by forming disulfide bridges between
+cysteine.”
+
+Foie gras paté is considered to be a semi-solid emulsion-type
+preparation with a spreadable consistency. It is characterized by a soft
+and melting mouthfeel, a prolonged release of flavor, and a persistent
+oral coating.” From a culinary perspective, foie gras paté is a food
+product with a smooth and rich texture, which is highly regarded as a
+delicacy in many countries.
+
+In contrast, the production of foie gras is prohibited in numerous
+countries since it is produced through the force-feeding of geese for
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+several weeks before slaughter.’ Therefore, it is imperative to identify
+alternative methods for producing analogous products based on liver
+and fat that do not involve products from force-feeding by gavage.
+
+It is evident that an effort to emulate the properties of foie gras
+paté entails a deliberate augmentation of the collagen content. To
+accomplish this objective, collagen-rich tissues, such as skin, undergo
+extensive cooking to produce a gel. The gel is subsequently integrated
+with liver and fat to form a paté.” The gelatin obtained from this pro-
+cess forms a network that, when dissolved in the oral cavity between
+25° and 30°C, leaves a melting impression. However, due to enhanced
+gel-like elasticity and the slow dissolution by unwinding of the gelatin
+tripelhelices,’ the resulting mouthfeel exhibits clear sensory differences
+when compared to foie gras paté.'” The composition of other products
+involves the incorporation of ingredients from disparate sources,
+including but not limited to butter, eggs, powdered milk, coconut fat,
+and agarose. The purpose of this amalgamation of ingredients is to
+achieve the desired textural characteristics.'' Such preparations show
+in many cases unsatisfactory melting behavior during oral processing,
+which leads to enhanced friction.'*
+
+37, 037196-1
+
+024220 $202 Iudy $z
+
+Physics of Fluids
+
+From a technological standpoint, patés made with upgraded liver
+bases and additives will never match the quality and oral sensations of
+foie gras. Typical additives, such as collagen, gelatin, or emulsifiers
+with different physical properties, are incapable of enhancing the phys-
+ical and textural characteristics of liver-fat-based emulsions to the
+extent of achieving the mouthfeel of foie gras patés, as demonstrated
+in particular, designed experiments with similar matrices.’
+
+However, a neat way to avoid force-feeding and gavage is to use
+the livers of slaughtered animals and their natural, subcutaneous ren-
+dered fat and transform them into a product that resembles foie gras
+paté without adding any proteins, emulsifiers, or fats from other sour-
+ces.’ The primary outcome of this study was the successful production
+of pure duck liver patés. However, significant deficiencies in the
+mechanical and thermal properties of the patés were also observed,
+which resulted in a diminished sensory experience during consump-
+tion. The underlying physical reasons are evident. First, the melting
+behavior of rendered fat differs from that of foie gras fat. Second, the
+large-scale structure of the fat distribution cannot be replicated by sim-
+ple emulsion processes when fat and protein concentrations are
+adjusted to the proportions found in foie gras.
+
+Indeed, the secret behind its extraordinary properties is mainly
+defined by its high fat content and, more specifically, by the micro-
+scopic distribution of the fat and protein phases. However, it was
+already shown by Via et al,‘ that pure liver-fat emulsions cannot
+simultaneously satisfy two basic requirements to resemble the micro-
+scopic structure of foie gras, namely emulsion stability and the distri-
+bution of fat. The essential contribution to texture and mouthfeel is
+determined by large, irregular fat clusters, which form percolating par-
+ticle networks in the protein matrix. Such fat networks contribute to
+the elastic modulus, as is the case with many food materials,’ *'°
+including non-food systems such as reinforced elastomers in materials
+science.’ '’ In the case of foie gras paté, it is of particular importance
+to understand that the elastic nature of the fat network is based on the
+random (fractal) nature of the large clusters. These clusters demon-
+strate different responses to deformations as elastic matrices based on
+cross-linked proteins or polymer chains.”
+
+The occurrence of large-scale fat cluster networks and their spa-
+tial distribution in ducks and geese’s fatty livers is presumably a conse-
+quence of gavage and force-feeding.’’ The challenge for reconstructing
+“foie gras” from the liver and rendered fat is thus to find a biophysical
+mechanism that leads to a build-up of large, percolating fat clusters in
+a controlled way. A crude look into the fat of living ducks or geese
+offers a simple idea for reconstructing foie gras: treat the rendered fat
+to some extent with lipase. The outcome of this procedure is the gener-
+ation of free fatty acids, mono- and diglycerols, and a concurrent
+reduction in triacylglycerols, without altering the overall composition
+of the duck or goose fat. Consequently, the polymorphism of the fat
+crystals can be expected to change, and the melting point can be
+expected to shift.""’’”’ Indeed, the melting regime of rendered duck
+and goose fat with 24 to 34°C appears slightly too low * compared to
+the fat from foie gras.
+
+The fat metabolism in ducks and geese suggests, however, treating
+the fat enzymatically by lipase. Specifically, lipase catalyzes the hydro-
+lysis of triglycerides, resulting in the production of free fatty acids and
+mono- and di-glycerides. The activity and reaction time of lipase influ-
+ence the specific products of this process.” Consequently, alterations
+in the melting and crystallization processes are anticipated. The central
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+ARTICLE pubs.aip.org/aip/pof
+
+premise of this study is to utilize a lipase treatment that has been
+meticulously designed to modify the physical characteristics of the ren-
+dered fat, thereby aligning it with the properties of foie gras.
+
+From these considerations, strategies and hypotheses for develop-
+ing foie gras from liver and rendered fat, both from non-gavage
+animals:
+
+1. Lipase treatment increases the solid fat content. Different poly-
+morphisms of the lipase-treated fat provide higher melting
+regimes, relevant for the mouthfeel and oral processing.
+
+2. Lipase treatment of the rendered fat enables the formation of
+large fat clusters, which percolate to form a particle network
+within the matrix as in patés from force-fed ducks or geese.
+
+3. Lipase treatment does not change the overall fatty acid distribu-
+tion of the duck fat but alters the crystallization behavior signifi-
+cantly and thus the large-scale structure of the emulsion.
+
+This hypothesis will be examined by various experiments and their
+results. A detailed analysis of the alteration of the fat components will
+provide the basis for interpretation.” The thermal behavior of the differ-
+ent fats will be studied by differential scanning calorimetry (DSC).
+
+The mechanical properties will be examined through the imple-
+mentation of amplitude sweeps, a methodological approach that will
+facilitate the acquisition of pertinent information regarding the linear
+viscoelastic properties. This encompasses the storage and loss moduli,
+in addition to the linear viscoelastic range (LVR) at small amplitudes.
+At intermediate and large amplitudes, flow points and decreases in the
+moduli can be used as measures for a breakdown of the struc-
+tures."*"°°*°” Compression tests examine the samples at alternative
+stress-deformation paths and will provide complementary structural
+information in the context of the present research.'”"””"
+
+A considerable proportion of the mouthfeel of foie gras during
+oral processing can be attributed to the thermal characteristics of the
+fat.” Any duck fat consists of liquid and solid parts, depending on the
+temperature. Temperature increase in the mouth decreases the solid
+fat content in the emulsions. It is therefore inevitable to control the
+solid fat content in the lipase-treated samples. This is usually done
+using solid-state nuclear magnetic resonance (NMR) techniques.»
+
+Apart from these, further insights can be gleaned from wide-
+angle X-ray scattering (WAXS) experiments, which facilitate a more
+nuanced perspective on the residual solids at a specific temperature, ©
+which supports thermal DSC and NMR experiments.
+
+The utilization of CARS (Coherent Anti-stokes Raman spectros-
+copy) microscopy has been demonstrated to facilitate the acquisition
+of a more profound comprehension of emulsion structures while cir-
+cumventing the utilization of mechanical destruction and staining of
+the samples by fluorescent dyes.” “”
+
+Il. MATERIALS AND METHODS
+A. Materials
+
+The following materials are used for sample preparation: lipase
+Candida rugosa type VII with an activity of 1071 U/mg (Sigma
+Aldrich, Merck KGaA, Darmstadt, Germany), NaOH (GPR
+RECTAPUR, VWR Chemicals, Darmstadt, Germany), duck liver
+(Leon Dupont, Notre Dame de Riez, France), duck fat (Bruno Siebert,
+Ergersheim, France), NaCl (AnalaR NORMAPUR, VWR Chemicals,
+Darmstadt, Germany), and foie gras paté sample: (Domaine de
+Langlardie, Piegut Dordogne, France).
+
+37, 037196-2
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids ARTICLE
+
+B. Sample preparation
+1. Lipase treatment
+
+The lipase treatment was adapted from Sharma et al.’ 250g of
+fat and the reaction vessel with water (ratio 4:1 to the amount of fat)
+were preheated in a water bath (Julabo ME 4, JULABO GmbH,
+Seelbach, Germany) to 40°C. Afterward, the pH value of the water
+was adjusted to pH 7 with a 1M NaOH solution, and the fat was
+added. Lipase was added to the duck fat at a rate of 5 mg/g. The vessel
+was placed in a water bath heated to 40°C and stirred with a lab stirrer
+(IKA T25 EC C 5000, IKA Werke GmbH & Co. KG, Staufen,
+Germany) at 350 rpm for 2 to 4h, respectively. To stop the reaction,
+1 L of boiling water was added to the reaction mixture. The fat was sep-
+arated from the water with a separation funnel. After cooling in a
+fridge at 5 °C, it was reheated to 80°C for a complete water separation.
+
+2. Paté preparation
+
+The precise process for preparing paté emulsions has already
+been outlined in a previous paper.'’ The following is a reiteration of
+the primary steps in the procedure, which were designed to enhance
+the clarity and comprehensibility of the subsequent description.
+The creation of the emulsions necessitated the incorporation of duck
+liver (490 g/kg), rendered duck fat (392 g/kg), lipase-treated duck fat
+(392 g/kg), water (98 g/kg), and sodium chloride (20 g/kg). The liver
+was minced in two stages using a Hallde VCB-62 vertical cutter-
+blender (AB Hallde Maskiner, Kista, Sweden). The initial mincing stage
+operated at a speed of 1500 revolutions per minute for 5s and was fol-
+lowed by a second stage at a speed of 3000 revolutions per minute for
+10s. Sodium chloride was then incorporated into the minced liver with
+a brief stirring. Subsequently, fat and water were introduced, and the
+mixture underwent emulsification in two distinct steps. The first step
+involved 15s of emulsification at 1500rpm, followed by the second
+step, which involved 30s of emulsification at 3000 rpm. To maintain a
+consistent temperature throughout the process, liquid nitrogen (50-
+100 ml) was added between each emulsification step. Following the
+degassing process, the batter was transferred into plastic containers and
+subsequently subjected to cooking in a preheated water bath (Julabo
+ME 4, JULABO GmbH, Seelbach, Germany) at a temperature of 80°C
+for 120 min. Thereafter, the cooked samples were allowed to cool and
+then stored at a temperature of 5 °C in a refrigerator.
+
+3. Fat extraction
+
+For fat extraction of the purchased foie gras paté samples, they
+were dried for at least 48h in a Christ freeze dryer Alpha 1-2 LD plus
+(Martin Christ freeze dryers GmbH, Osterode am Harz, Germany)
+and then placed in a Soxhlet extractor. The extraction was performed
+with cyclohexane until it remained clear. The solvent was removed by
+a rotary evaporator.
+
+C. Lipid analytics
+1. Fatty acid distribution and content of mono-, di-, and
+tri-glycerides
+
+The fatty acid distribution was determined by gas chromatogra-
+phy with flame ionization detection (GC/FID) using the ISO 12966-2
+Method’! and the content of mono-, di-, and triglycerides was
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+pubs.aip.org/aip/pof
+
+estimated by ISO 18395 Method’? using high-performance size-exclu-
+sion chromatography (HPSEC). All measurements were performed by
+the external company SGS Germany GmbH. Each sample was shipped
+in two 100ml containers. The commercially bought foie gras patés
+were sent in, whereas for others the pure fat was analyzed.
+
+2. Differential scanning calorimetry (DSC)
+
+The temperature profile of the duck fat samples was acquired
+with a Mettler Toledo DSC3+/700/453 (Mettler Toledo, Columbus,
+Ohio). 20 uL of heated liquid fat were placed into a 100 wL aluminum
+crucible, and an empty crucible was used as a reference. The sample
+were measured in five segments with a heating rate of 2 K/min using a
+nitrogen flow of 30 ml/min: (1) 25-75°C (2) hold 3 min at 75°C, (3)
+75 to —100°C (4) —100 to 75°C (5) 75-25°C. From the melting or
+crystallization profile and the peak forms, the fusion enthalpy Hyus is
+calculated by the area of the melting peaks.
+
+3. Solid fat content-NMR
+
+For detecting the solid fat content (SFC), a Bruker Avance III con-
+sole operating at 500.22 MHz 1H Larmor frequency at a Bruker super-
+conducting 11.9T wide bore magnet system using a commercial static
+1H/X static solid-state NMR probe was used. A spherical sample shape
+was chosen using 4mm HR-MAS rotors as a sample holder. The 1H
+nutation frequency was adjusted to 62.5 kHz, corresponding to a 90°
+pulse length of 4 1s. The temperature was adjusted using a Bruker BSVT
+temperature controller. The fat was transferred to a 4mm HR-MAS rotor
+sample holder. The samples were placed in the NMR cooled to —20°C
+and kept for 30 min and a spectrum was recorded. Then the temperature
+of the sample was increased by 5°C and the process was repeated until a
+temperature of 50°C was reached. To obtain the SFC, the spectra for
+each temperature were analyzed with the Bruker Top Spin Software. The
+full spectrum was integrated and set to 1 as a reference. Then the baseline
+was adjusted to the base of the sharp peak. The integration of the peak
+based on the full spectrum reference yields the liquid fat content (LFC).
+The SFC was calculated by SFC(%) = 1 — LFC « 100%. The supple-
+mentary material contains exemplary data illustrating the method by
+which the SFC was determined from the NMR spectra S1.
+
+4. Crystalline fat content (CFC)—-XRD measurements
+
+The measurements were performed with a Rigaku SmartLab X-
+ray diffractometer; therefore, a thin layer of fat was spread on a glass
+slide and placed in the sample holder. The samples were measured at 5
+and 37°C with a Cu K-alpha X-ray beam with a wavelength of
+1.5406 A scanning from 1° to 35° with 0.3°/min. The scattering slit
+was set to 0.5° and the receiving slit to 0.3°. To estimate the crystalline
+fat content from the diffraction measurements, the area underneath
+the total diffractogram and the area of the amorphous phase were inte-
+grated. Thereafter, the crystalline fat content was calculated by this
+equation CFC(%) = (1 — Aamorphous/Atotal) * 100%.
+
+D. Physical properties
+1. Rheology
+
+As already outlined by Via et al.'' rheology experiments were
+conducted using a Gemini 200 rheometer (Bohlin Instruments,
+
+37, 037196-3
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids ARTICLE
+
+Malvern Panalytical Ltd., Malvern, UK), equipped with a parallel plate
+geometry of 25mm diameter. To minimize sample slippage, 60-grit
+sandpaper was affixed to both plates. Circular samples, prepared using
+a 25 mm template and sliced to appropriate thickness, were positioned
+between the plates. The gap size was adjusted based on the sample
+thickness until a normal force increase of 2N was observed, yielding
+gap dimensions between 1300 and 1950 um. Measurements com-
+menced after a 5 min equilibration period, during which the storage
+modulus (G’) and loss modulus (G") were recorded. Oscillatory ampli-
+tude sweeps were performed with strains ranging from 0.01% to 200%
+at a frequency of 1 Hz and a temperature of 5°C. Each sample under-
+went at least three measurements. Temperature sweeps were per-
+formed on the 0.1% strain at 1 Hz at a rate of 1 K/min starting at 5°C
+until 40 °C was reached. The start and end temperatures were held for
+5 min. The linear viscoelastic region (LVR) limit was identified as the
+strain at which G’ deviated by 10% from its initial value (Gj), while the
+flow point was determined where G’ equalled G’.
+
+2. Texture analysis
+
+The hardness of the paté samples was investigated using a
+ZwickRoell Universal Testing Machine AllroundLine Z005
+(ZwickRoell GmbH, Ulm, Germany) as described by Via et al."
+Cylindrical samples with a diameter of 25mm and a height of 20 mm
+were prepared for the tests. Compression testing was conducted over
+two cycles’ using a 75mm diameter aluminum disk probe, operating
+at a speed of 1 mm/s, until the samples were compressed to 75% of
+their original height. Measurements were performed at room tempera-
+ture, with the samples maintained at 5°C before testing. Each sample
+was tested at least six times. Hardness was defined as the maximum
+peak force recorded during compression, while elasticity was estimated
+by applying linear regression to the initial slope of the compression
+curve, using the first five data points exceeding a 0.01% strain
+threshold.
+
+E. Microscopic characterization
+1. CARS microscopy
+
+As outlined by Via et al.'' coherent anti-Stokes Raman scattering
+
+(CARS) microscopy was conducted using the following setup: a Leica
+SP8 CARS microscope (Leica Microsystems GmbH, Mannheim,
+Germany), a picoEmerald multi-photon laser (APE, Berlin, Germany)
+light source, a 650/210 BrightLine HC broadband filter (AHF Analyze
+Technik AG, Tiibingen, Germany) and a Leica 40x HC PL IRAPO
+objective (NA= 1.10). With the Stokes beam wavelength fixed at
+1064.5nm and the pump beam adjusted to 817 nm, the symmetric
+-CH, stretching mode (2845 cm” ') was excited to image the fat drop-
+lets. Detection was performed in epi-mode with a non-descanned pho-
+tomultiplier tube (PMT) detector at room temperature. Laser power
+was optimized for each image to ensure signal intensity remained
+approximately 20% below saturation. For imaging, paté samples were
+sectioned and placed into 8-well chambers with #1.5 glass bottoms
+(ibidi GmbH, Grafelfing, Germany) shortly before acquisition. Images
+with dimensions of 1928 x 1928 pixels and a pixel size of 0.15 um
+were captured at a depth of 5 zm within the sample. Each sample type
+was measured in triplicate.
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+pubs.aip.org/aip/pof
+
+2. Image analysis
+
+Image processing was performed using Fiji software.'*"' Binary
+images were generated by applying the Huang algorithm for automatic
+thresholding.’” Particles below the resolution limit were excluded as
+noise, and clusters with incomplete boundaries within the image frame
+were also disregarded. The analysis of fat particles included several
+parameters: particle area, aspect ratio, and circularity. The aspect ratio
+(AR) represents the ratio of the longest to shortest axes of an ellipse fit-
+ted to the particle area, with AR=1 indicating a perfect circle and
+higher values reflecting increasing deviation from circularity.
+Circularity, which measures the relationship between particle area and
+perimeter, captures edge smoothness. Circularity values range from 0
+to 1, with 1 corresponding to a perfectly smooth circle and lower val-
+ues indicating greater surface roughness.
+
+F. Statistical analysis
+
+To evaluate the statistical significance of all data values, they were
+tested with DATAtab (DATAtab: Online Statistics Calculator.
+DATAtab e.U. Graz, Austria. URL https://datatab.de). Analysis of vari-
+ance (ANOVA) was used to test the series, whereas each sample was
+evaluated against other samples, using Bonferroni post-hoc tests based
+on ANOVA. With f-tests, value pairs of an unheated vs heated sample,
+significance was tested. All tests were performed with a significance
+level of 5% (% = 0.05).
+
+G. Abbreviations
+
+In the following, the abbreviations for the different samples will
+be used.
+
+Fats: LTFO untreated rendered duck fat, FGF: fat extracted from
+force-fed foie gras paté, LTF2: lipase treatment obtained from LTFO
+after 2h; LTF4: lipase-treated fat obtained from LTFO after 4h.
+
+Patés: FGP, foie gras paté. LTPO paté is composed of liver and
+untreated fat, LTFO, LTP2,4 patés composed of liver and LTF2 and
+FTF4, respectively.
+
+Ill. RESULTS
+A. Comparison of different fats
+
+Lipase catalyzes the cleavage of fatty acids from the glycerol back-
+bone of triglycerides and is highly time-dependent.”® Increasing the
+lipase treatment time to 4h results (LTF4) in a fat composition that is
+almost completely broken down and consists mainly of free fatty acids.
+Triglycerides remained, and diglycerides were also found for the 2h
+shorter treatment (LTF2). The rate of cleavage depends on the number
+and length of the fatty acids bound to the glycerol." In comparison,
+the untreated native duck fat, LTFO, consists mainly of triglycerides.
+
+The fatty acid profile of the native and treated samples is nearly
+identical, as LTFO serves as the substrate for the lipase treatment. This
+finding suggests that there has been no loss of fatty acids during the
+treatment process and that the samples contain a substantial amount
+of free fatty acids.”
+
+1. Fatty acid distribution and mono-, di-, and tri-
+glyceride content
+
+To understand the thermal, mechanical, and structural behavior,
+it is important to consider the fat and lipid composition. The fatty acid
+
+37, 037196-4
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids
+
+distributions of the native duck fat and lipase-treated fat (LTF) samples
+differ only slightly, as shown in Fig. 1. Therefore, the profile of the
+FGF sample is different for some specific fatty acids. Palmitoleic acid
+was about half as abundant in the foie gras fat (FGF) samples
+(1.89 + 0.02%). Conversely, the content of stearic acid in the foie gras
+fat, FGF, samples is twice as high (16.25 + 1.57%). The content of oleic
+acid (50.89 + 3.22%) is about 8% higher than in the other samples.
+The content of linolenic acid in the FG samples was 10 times lower
+than in the native and LT fat samples, with about 15% to 1.3%.
+
+Overall, the content of saturated fatty acids was higher in the FGF
+sample (42.43 + 3.23% compared to about 34.00%), as is the content
+of mono-unsaturated fatty acids (55.0 to 48.5%). In contrast, the con-
+tent of polyunsaturated fatty acids is an order of magnitude higher in
+the native and LT-treated samples (about 17.0% compared to 1.7%).
+The detailed values are given in Table I.
+
+The content of mono-, di-, and tri-glycerides differs for all sam-
+ples, as shown in Fig. 2. The monoglyceride content was close to zero
+for all samples, except for sample LTF2, which reached a monoglycer-
+ide content of 1.05 + 0.05%. The same behavior is observed for the
+diglycerides, where all the samples, except sample LTF2 with
+7.10 + 1.30%, have a content of around 1% diglycerides. The greatest
+differences were found in the triglycerides and free fatty acids. The
+untreated fat sample (LTFO) had a triglyceride content of
+97.90 + 0.00% and a free fatty acid content of 0.6 + 0.0%. The FGF
+sample had a triglyceride and free fatty acid content of 90.05 + 4.55%
+and 8.8 + 4.70%, respectively. For the lipase-treated samples, the
+
+2
+
+ARTICLE pubs.aip.org/aip/pof
+
+triglyceride content was quite low with 13.85 + 3.45% and
+2.15 + 0.05%, and they had the highest free fatty acid content with
+78.00 + 4.80% (LTE2) and 96.6 + 0.10% (LTF4), as shown in Table II.
+
+2. DSC measurements
+
+The DSC experiments (see Fig. 3) indicates a notable distinction
+in the melting and crystallization behavior between the native (ren-
+dered) duck fat (LTFO) and the foie gras fat (FGF). In the context of
+this investigation, melting is imperative for the oral process in the
+mouth; consequently, the melting process is the primary focus of the
+subsequent discussion. However, interested readers can find the com-
+plete analysis of the DSC results in the supplementary material.
+
+Initially, it is evident that both FGF and the rendered fat LTPO
+exhibit no significant melting peaks within the temperature range
+from —60 to —20°C. In contrast, both lipase-treated fats, LTF2,4,
+demonstrate clear melting peaks nos. 1, 2, and nos. 3, 4. Two lower
+melting peaks appear at around —37 and —19°C [see Fig. 3(b)]. For
+the melting in the mouth, these melting processes are of little impor-
+tance, but they indicate the cleavage process. The peaks for both LTF2
+and LTF4 can be attributed to the melting points of short-chain fatty
+acids or polyunsaturated fatty acids. The melting ranges of the unsatu-
+rated linolenic acid (C 18:3) and arachidonic acid (C 20:4) were deter-
+mined to be —21.0 to —10.4°C and —43.4 to —38.4°C.”" These fatty
+acids are part of the native duck fat and are listed in Fig. 3. Table I
+shows that these fatty acids have been cleaved by the lipase from
+
+15
+
+05
+
+50
+
+40
+
+30
+
+Content / %
+
+20
+
+S ‘J oe & oo &
+& ES a os of os FF SF & ee
+SOP PS é
+
+FIG. 1. Fatty acid composition of the different fat samples. Native duck fat (LTFO) is shown in blue bars, red bars show results of foie gras fat (FGF), and 2h lipase-treated
+(LTF2) fat is shown in purple, and 4h lipase-treated (LTF4) fat is in yellow. The upper panel is a zoom-in for better comparison.
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+37, 037196-5
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids
+
+ARTICLE pubs.aip.org/aip/pof
+
+TABLE I. Fatty acid distribution of the untreated duck fat (LTFO), extracted foie gras fat (FGF) fat and lipase treated fat 2h (LTF2) and 4h (LTF4).
+
+LTFO LTF2 LTF4 FGF"
+Myristic acid (C14:0) 0.79 + 0.00 0.81 + 0.01 0.81 + 0.01 0.81 + 0.04
+Myristoleinic acid (C14:1w5c) 0.11 + 0.00 0.12 + 0.00 0.12 + 0.00 <0.10 + 0.01
+Palmitic acid (C16:0) 25.56 + 0.00 25.81 + 0.01 25.92 + 0.00 25.23 + 1.72
+Palmitoleic acid (C16:1w7c) 3.56 + 0.00 3.59 + 0.00 3.58 + 0.00 1.89 + 0.02
+Palmitelaidic acid (C16:1w7t) 0.02 + 0.00 0.02 + 0.00 0.02 + 0.01 <0.02 + 0.0
+cis-7-Hexadocenoic acid (C16:1w9c) 0.45 + 0.00 0.46 + 0.01 0.45 + 0.00 0.50 + 0.10
+Heptadecenoic acid (C17:0) 0.07 + 0.00 0.07 + 0.01 0.06 + 0.00 <0.01 + 0.01
+Stearic acid (C18:0) 7.21 + 0.00 7.19 + 0.01 7.21 + 0.00 16.25 + 1.57
+Octadecenoic acid, cis-isomers excl. (C18:1-cis) 1.21 £0.00 1.20 + 0.00 1.19 + 0.00 1.04+0.11
+Octadecenoic acid, trans-isomers (C18:1-trans) 0.22 + 0.00 0.30 + 0.01 0.30 + 0.00 0.36 + 0.00
+Oleic acid (C18:1w9c) 42.99 + 0.00 42.89 + 0.06 42.83 + 0.04 50.89 + 3.22
+Linoleic acid (C18:2w6c) 15.77 + 0.00 15.58 + 0.06 15.54 + 0.02 1.28 + 0.06
+Octadecadienoic acid, trans-isomers (C18:2w6trans) 0.13 + 0.00 0.13 + 0.00 0.12 + 0.00 0.11 = 0.03
+alpha Linolenic acid (C18:3w3c) 0.93 + 0.00 0.91 + 0.01 0.90 + 0.00 <0.10 + 0.01
+gamma Linolenic acid (C18:3w6c) 0.12 + 0.00 0.12 + 0.00 0.12 + 0.00 0.10 + 0.01
+Arachidic acid (C20:0) 0.06 + 0.00 0.06 + 0.00 0.06 + 0.00 0.14 + 0.01
+cis-11-Eicosenoic acid (C20:1w9c) 0.19 + 0.00 0.19 + 0.00 0.19 + 0.00 0.33 + 0.04
+Eicosenoic acid, cis-isomers excl. (C20:1-cis) 0.11 + 0.00 0.12 + 0.00 0.12 + 0.00 0.28 + 0.01
+cis-11,14-Eicosadienoic acid (C20:2w6c) 0.07 + 0.00 0.06 + 0.00 0.06 + 0.00 <0.10 + 0.01
+cis-8,11,14-Eicosatrienoic acid (C20:3w6c) 0.08 + 0.00 0.08 + 0.00 0.08 + 0.00 0.11 £0.01
+Arachidonic acid (C20:4w6c) 0.13 + 0.00 0.12 + 0.00 0.12 + 0.00 0.25 + 0.02
+Saturated fatty acids 33.69 + 0.00 33.93 + 0.00 34.06 + 0.00 42.43 + 3.23
+Monounsaturated fatty acids 48.62 + 0.00 48.56 + 0.07 48.48 + 0.04 54.99 + 3.32
+Polyunsaturated fatty acids 17.10 + 0.00 16.87 + 0.06 16.82 + 0.01 1.69 0.07
+trans fatty acids 0.37 + 0.00 0.44 + 0.01 0.44 + 0.01 0.48 + 0.04
+Omega-3 fatty acids 0.93 + 0.00 0.91 + 0.01 0.90 + 0.00 0.06 + 0.01
+Omega-6 fatty acids 16.17 + 0.00 15.96 + 0.06 15.92 + 0.01 1.64 + 0.07
+
+“extrapolated to 100%. The Results of the Analysis were based on the total amount of paté sample.
+
+rendered duck fat since the corresponding, much broader crystalliza-
+tion peak shows at about 10°C higher temperatures. However, these
+fractions do not play a significant role in the mouthfeel but serve
+merely as a useful check, as the rendered fat shows a tiny peak at a sim-
+ilar temperature as peak no. 3 and 4.
+
+FGF shows a very broad and pronounced peak no. 5; foie gras
+fat first underwent a broad and pronounced melting regime, com-
+mencing at —20.5°C and concluding at 14.6 °C, with a sharper peak
+at 4.4°C and a small shoulder at about 7°C. Immediately it is fol-
+lowed by a second melting regime between 14.7 and 44.2°C, with
+two peaks at 19.4°C (peak no. 6) and 38.5°C (peak no. 7), which
+can be considered as most important for the typical foie gras mouth-
+feel because this melting regime is felt in the mouth by texture (and
+friction) changes.
+
+In contrast, native, rendered duck fat exhibits melting already at
+temperatures between —23.2 and —2.6°C with a peak at —10.8°C,
+peak no. 8 in Fig. 3(b), a distinct melting between —2.3 and 7.5°C
+(peak no. 9 at 1.3°C), followed by another broad melting regime
+between 8.9 and 40.2°C with peaks at 14.9 and 35.9°C (peak nos. 10
+and 11). These peaks appear at lower temperatures than those of the
+FGF. Both fats exhibit a different mouthfeel during melting in the oral
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+cavity at about 37°C. Thus, the comparison of the melting profile
+shows that pure rendered duck fat will not be able to imitate the melt-
+ing behavior of foie gras fat, especially in the temperature range
+between 0 and 37°C, relevant for oral processing, where their melting
+profiles are different. Rendered (native) duck fat melts at lower tem-
+peratures, and thus the long-lasting melting effect known from foie
+gras is missing.
+
+However, lipase treatment shows for both exposure times, 2 and
+4h, an equalization of the melting curves compared to rendered duck
+and foie gras fat. The multiple melting peaks and regimes between
+—23.2 and 8.9°C are blurred and joined in a more pronounced
+broader peak (LTF2: no. 12, LTF4: no. 13) ranging between —16.1 and
+about 6.7 °C.
+
+The pronounced melting peaks 12 and 13 in Figs. 3(a) and 3(b)
+within the range of —5 to 15°C after lipase treatments are most likely
+generated from oleic acid 18:1 dominated crystals, which take up a
+large fraction of the duck fat, as can be seen in Table I. The corre-
+sponding crystallization peaks can be located at about —5 and —10°C.
+Thus, it suggests again that a sufficient number of the C 18:1 fatty acids
+are cleaved from the triglycerides in the rendered fat to form reversible
+melting in crystallization.
+
+37, 037196-6
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids ARTICLE
+
+25 7 T 7
+
+05+ 4
+
+7OPF 7
+
+607 7
+
+507 7
+
+Content / %
+
+40y 4
+
+307 7
+
+20/7 |
+
+LTFO LTF2 LTF4 FGF
+
+FIG. 2. Distribution of monoglycerides (MG: light blue bars), diglycerides (DG: dark
+red bars), and triglycerides (TG: green bars), and free fatty acids (FFA: orange
+bars) of the different fat samples used in the emulsions. Above the main graph is a
+zoom to show the detailed distribution of the mono- and di-glycerides.
+
+In foie gras fat samples, these low-temperature peaks do appear
+in the melting, despite their presence, because these fatty acids are
+mostly bound in triglycerides and cannot form larger crystals among
+themselves. However, signatures of triglycerides containing polyunsat-
+urated fatty acids can be detected in the crystallization profile
+[Fig. 3(c)] in the temperature range of —30 to —18°C.
+
+It is evident that the melting peaks are considerably broader and
+thus encompass a more extensive temperature range than the crystalli-
+zation peaks. Most important for the texture and the mouthfeel are the
+pronounced melting regimes between —8.9 and 6.6°C and the broad
+regime between 6.7 and 42.4 °C, which are induced by the lipase treat-
+ment. These melting peaks (LTF2: peak nos. 12 and 14, LTF4: peak
+nos. 13 and 15) show a broad distribution starting with a shoulder to
+lower temperatures, leading to a peak temperature of 4.1 and 37.6 °C.
+
+A comparison between the foie gras fat (FGF) shows immediately
+that this lipase treatment-induced melting region is similar to the melt-
+ing regime of the foie gras. In other words, the broad melting regime
+of the LTFO (native duck fat) between peaks nos. 10 and 11 becomes
+shifted to higher temperature ranges and thus closer to those of FGF.
+This is quite intriguing since lipase action under a given time and
+
+pubs.aip.org/aip/pof
+
+activity increases the amount of free fatty acids in such a way that the
+higher effect of the higher amount of C 18:0 lipids in foie gras is
+compensated.
+Table | shows the molecular origin of the differences in the melting
+properties. Foie gras fat contains more saturated fatty acids than rendered
+duck fat, especially stearic acid, C 18:0, which is about double in concen-
+tration. Furthermore, oleic acid, C 18:1, is found to be significantly more
+prevalent at 51% than in rendered fat at 43%. On the other hand, more
+linoleic acid, C 18:2, appears in rendered fat than in foie gras fat. Only
+the concentration of palmitic acid, C 16:0, is about the same in both fats.
+The peaks of the lipase-treated samples indicate a higher heat flux
+than the native and FGF samples. Integration of the peaks shows that
+the enthalpy of melting is, with around — 146 J/g, two times higher in
+total in the lipase-treated samples (see Table III) compared to the
+native duck fat and foie gras fat. The three peaks of the native duck fat
+contribute with —22.0J/g (peak no. 8), —21.7J/g (peak no. 9), and
+—28.2 J/g for the regime of peak nos. 10 and 11 to a total heat of fusion
+of —71.9 J/g. For the foie gras fat, the two broad regimes have a total
+melting enthalpy of —40.7 J/g (peak no. 5) and —24.7 J/g (sum of peak
+no. 10 and 11). Both lipase-treated samples differed only marginally in
+the absorbtion of heat during melting. Whereas the more pronounced
+peaks in both samples (nos. 12,13 and 14,15 in panel B of Fig. 3)
+absorbs around —67 and —61 J/g of heat, leading to a total heat of
+fusion of around — 146 J/g (see Table II1).
+
+These differences are also manifested in the crystallization behav-
+ior. The crystallization of different fractions of the foie gras fat (FGF)
+starts at about 3.8 °C to 13.8 °C earlier than those of the rendered duck
+fat. Three different crystallization peaks are visible for both samples,
+and the first starting at 23.9°C and transitioning into the next peak at
+9.0°C for the foie gras fat and 4.8°C for the native duck fat, respec-
+tively. The peak temperature is at 6.6 °C for the foie gras fat and 2.1°C
+for the native duck fat, and both show a shoulder to lower tempera-
+tures. For the foie gras fat, the last peak ranges from —16.4 to
+—36.8°C and for the native duck fat, from —29.7 to —44.7°C. On the
+reverse, the corresponding crystallization process was started at 32°C
+for both lipase-treated samples, with sharp peaks at 30.4°C. Both have
+a shoulder to lower temperatures, ending at —2.3°C and with a transi-
+tion into the next peaks at —2.4°C. The peak maximum of the peaks
+at —4.5°C also has a broader shoulder at lower temperatures, which
+transitions into two peaks at —24.9 and —41.5°C, as shown in
+Fig. 3(Panel C) and supplementary material Table $1).
+
+As for the melting, the energy released by crystallization was
+around 140 J/g for the lipase-treated samples, which is twice as high as
+for the native duck fat and foie gras fat samples with 70.0 and 74.1 J/g,
+respectively (see supplementary material Table $1). A further detailed
+description of the melting and crystallization behavior is shown in the
+supplementary material.
+
+TABLE Il. Content of mono-, di- and triglycerides of treated (LTF2, LTF4) and untreated Fat (LTF0) samples and extracted foie gras fat (FGF).
+
+024220 $202 Iudy $z
+
+LTFO LTF2 LTF4 FGF
+Monoglycerids (%) 0.10 + 0.00 1.05 + 0.05 0.20 + 0.00 0.10 + 0.00
+Diglycerides (%) 1.40 + 0.00 7.10 + 1.30 1.05 + 0.05 1.05 + 0.15
+Triglycerides (%) 97.90 + 0.00 13.85 + 3.45 2.15 + 0.05 90.05 + 4.55
+Free fatty acids (%)* 0.60 + 0.00 78.00 + 4.80 96.60 + 0.10 8.80 + 4.70
+*Calculated by subtraction of MDG content from a total 100%.
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813 37, 037196-7
+
+© Author(s) 2025
+
+Physics of Fluids ARTICLE pubs.aip.org/aip/pof
+
+Heatflow / Wg"
+
+“7100 -80 -60 -40 -20
+
+!
+i} 20 40 60
+Temperature / °C
+Bo Cc
+07
+0.4 0.6
+b 05
+S02 Ss
+re lo
+z FS
+= -03 203
+= b=
+® Ay
+=x Boz
+0.4
+12 0.4
+— LTF4 13
+05 0
+~60 -40 -20 0 20 40 60 ~60 -40 -20 0 20 40 60
+Temperature / °C Temperature / °C
+
+FIG. 3. Panel A displays the mean DSC curves for each fat sample for an overview. Panel B provides a magnified view of the melting process from the DSC measurements.
+Panel C illustrates the crystallization profile during the heating of the fat samples. The untreated duck fat (LTFO) is shown in blue; the fat extracted from the foie gras paté is
+marked in red (FGF). The two different lipase-treated fat samples are plotted in purple (2h: LTF2) and yellow (4h: LTF4).
+
+Consequently, the differently shaped peaks resulting from lipase point to more crystals with fewer defects’ after lipase treatment,
+treatment (nos. 12 and 13) require a significantly higher latent heat for which is explained by the increase in concentrations of fatty acids,
+melting in this temperature regime as FGF in the relevant mouthfeel which form stable crystals, as will be confirmed by the WAXS and
+temperature range between 5 and 37°C. Physically higher enthalpies CARS experiments below.
+
+TABLE Ill. Enthalpy of melting AH, and peak temperatures of the melting profile for untreated duck fat (LTF0), extracted foie gras fat (FGF) fat and 2 and 4h lipase-treated fat
+(LTF2,4) samples. In Fig. 3 the corresponding melting peaks are numbered in part B.
+
+P0:1Z:p0 S202 Iudy gz
+
+Sample Peak no. 8 9 10 ll Total AHin
+LTFO T/°C —10.8 + 0.1 13+0.1 14.9 + 0.6 35.9 + 0.4
+
+AH nm / J/g —22.0 + 0.7 —21.7+0.6 —28.2 + 0.7 —719+19
+
+Peak no. 2 4 13 14 Total AHin
+LTF2 T/°C —40.2 + 2.31 —-19.4+0.9 40+0.1 37.5 +£0.1
+
+AH» / J/g —9.7 +01 —8.5+15 —66.5+ 1.5 —61.9+1.2 —146.6 + 4.3
+
+Peak no. 1 3 12 15 Total AH,,
+LTF4 T/°C —37.5+0.1 —-19.4+0.5 42+01 374+0.1
+
+AH» / J/g —9.1+0.2 —8.2+0.7 —67.5+0.5 —61.04 + 0.3 —145.9+ 17
+
+Peak no. 5 6 7 Total AH,,
+FGF T/°C 44+0.1 19.4+0.1 38.5
+
+AH nm / J/g —40.7 + 4.1 —24.5 + 2.3 —65.1+6.5
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813 37, 037196-8
+
+© Author(s) 2025
+
+Physics of Fluids
+
+Solid fat content / %
+
+Temperature / °C
+
+FIG. 4. The temperature-dependent solid fat content. The black vertical dashed line
+black indicates T = 5°C, the dashed red line the mouth temperature T = 37°C.
+The native duck fat (LTFO) is marked blue, the foie gras fat (FGF) red and purple
+and yellow for 2 and 4h lipase treated fat (LTF2, LTF4).
+
+3. Solid and crystalline fat content
+
+The solid fat content (SFC) as a function of temperature is shown
+in Fig. 4. As expected, at low temperatures, —20 °C, the solid fat content
+is the highest for each sample, ranging from 68.1 + 3.0% (LTFO) to
+89.5 + 1.5% for the LTF4 sample. With increasing temperature, the
+solid fat content decreases due to selective and partial melting, as already
+seen by the distinct broader melting regimes in Fig. 3. At 5°C, where all
+mechanical experiments were carried out, the SFC was located between
+26.4 + 4.2 (LTF2) and 57.9 + 3.1% (FGF). The native fat has a slightly
+higher SFC of around 29.0 + 4.1% than the LTF2 sample, as shown in
+Fig. 4. The LTF4 sample is in between with 41.6 + 2.4%.
+
+The curve progression of the various samples with increasing tem-
+perature is of particular interest here. The SFC of native, rendered duck
+fat (LTFO) starts at 20°C from the lowest value and decreases smoothly
+and gradually and is almost molten and liquid at the mouth temperature
+T = 37°C. FGF shows a smooth and gradual decrease as well but shows
+a higher SFC as native duck fat for all temperatures. At about 40°C
+both approach each other. The important point for the present consider-
+ations is that FGF exhibits at 37 °C still a SFC of about 4.4%.
+
+A visual analysis of the curves reveals significant differences in their
+shape, with lipase-treated fat samples exhibiting a distinctive pattern.
+First, the 4h lipase treatment shows much higher values compared to
+the 2h treatment. In the temperature range between —20 and 10°C,
+both LTF2 and LTF4 exhibit a steeper and more monotonous decline in
+comparison to the native fat and FG. However, both LTF2 and LTF4
+display a kink, indicating a slower decrease toward lower SFC values.
+The melting profiles of both LTF2 and LTF4 indicate an initial melting
+at lower temperatures, as evidenced by the peaks labeled nos. 12 and 13
+in Fig. 3, and a slower melting starting between 20 and 40°C, as seen in
+the DSC at the broad peaks nos. 14 and 15, for both treatments.
+
+In addition, both lipase treatments show a finite value for the SFC
+at 37°C as FGF. The SFC for the 2h treatment is 1.8% slightly below
+the LTFO with 2.2% and the FGF with 4.4%, whereas the 4h treatment
+is 5.8% slightly higher (see Table IV). Nevertheless, the values for
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+ARTICLE pubs.aip.org/aip/pof
+
+TABLE IV. Solid fat content (SFC) and crystalline fat content (CFC) in % of different
+fat samples. Statistical significance tested with ANOVA-test.
+
+SFC / %
+
+T/°Cc LTFO LTF2 LTf FGF
+
+—20 68.1 + 3.0 71.6 +0.7 89.54 1.5 76.3 + 3.3
+—15 66.4 + 2.3 74.4 + 6.2 86.54 1.8 75.8 = 2.7
+—10 63.3424 67.4441 79.9 +0.9 75.0 + 2.2
+—5 52.9 + 3.7 58.5 + 3.6 73.3417 72.9 0.8
+0 37.7 45.2 45.6 + 5.0 62.6 + 3.2 65.7 +2.1
+5 29.0+4.1 26.44 4.2 41.7424 57.9 + 3.1
+10 19.2+3.9 16.3 +0.5 23.9 + 0.3 47.4 + 3.2
+15 11.3+2.0 15.2+1.2 22.7 + 0.3 29.8 + 2.8
+20 76419 12.9413 20.6 = 1.2 16.5+1.9
+25 5.3415 10.8 + 1.6 18.3 + 2.1 11.9+ 0.6
+30 3.2414 64+16 14.9+1.2 7T4A+04
+35 26414 24+0.7 75+ 0.6 5.3+0.8
+40 15+ 0.7 10+0.8 3.3415 3.2+0.7
+45 0.0 + 0.0 0.0 + 0.0 3.1409 2.9+ 0.6
+50 0.0 + 0.0 0.0 + 0.0 0.0 + 0.0 2.7 + 0.6
+37° 2,2 1,9 5,8 44
+
+CFC / %
+
+5 11.0+0.6 32.6 + 5.1 39.1 + 3.3 18.3 + 3.3
+37 2.7+0.6 5.6419 12.9 + 2.0 23.0 + 4.3
+
+“extrapolated.
+
+LTF2,4 compare very well to each other and prove that an appropriate
+lipase treatment changes the melting properties of rendered fats in the
+targeted direction. For a consistent picture, an overview of the analyzed
+NMR spectra for each sample is shown in the supplementary material.
+Supplementary material Figs. $2 to $5 provide the measurements at
+T=—20°C, T=5°Cand T = 35°C of each sample.
+
+The crystalline fat content (CFC) was estimated from wide-angle
+XRD measurements (WAXS) at 5°C as shown in Fig. 5. The native fat
+sample (LTFO) had the lowest crystalline fat content with 11.0 + 0.6%,
+followed by the foie gras fat sample with 18.3 + 3.3%. For the lipase-
+treated samples, a crystalline fat content of 32.6 + 5.1% (LTF2) and
+39.1 + 3.3% (LTF4) was measured (see Fig. 6(a) and Table IV). In
+Fig. 6(b), the fat samples were measured with wide-angle X-rays at 37 °C
+and for native fat, barely any crystalline fat content is present. Whereas,
+for the 2h lipase-treated fat, still some peaks are visible in the XRD mea-
+surements. The measurements of foie gras fat, FGF, as well as LTF4,
+exhibit a pronounced number of X-ray reflexes, more than LTF2. By esti-
+mating the peak area of the XRD graphs, the crystalline part of the solid
+fat fraction was determined. This can be seen in Table IV, by the system-
+atic differences in the values for the SFC and CFC at 5°C for the differ-
+ent samples. These discrepancies can be attributed to the fundamental
+disparities in the measurement techniques employed. Nuclear magnetic
+resonance (NMR) probes are capable of discerning local (atomistic)
+scales, while wide-angle X-ray scattering probes are more apt at detecting
+scales at the lattice distances. However, nuclear magnetic resonance
+detects immobile, solid parts in amorphous and crystalline parts, whereas
+wide-angle X-ray scattering only identifies hard crystalline solid parts.
+
+37, 037196-9
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids ARTICLE
+
+pubs.aip.org/aip/pof
+
+Intensity / cps
+
+Intensity / cps
+
+26/ deg
+
+FIG. 5. Wide-angle X-ray profiles measurement of the different samples at 5°C. The insert shows a zoom of the y-axis to enhance the visibility of the main peak regions. The
+Native duck fat is shown as a blue line, the foie gras fat (FGF) is shown in red. The lipase treated samples are shown as a purple (2h: LTF2) and yellow (4h: LTF4) line.
+
+Therefore, the values for SFC measured by NMR are higher than those
+for CFC provided by the WAXS experiments. Consequently, the NVR
+also includes the amorphous and immobile defect-rich fraction of the
+solid fat phase. Similar trends of much larger SFC values compared to
+CFC have also been found by Arita-Merino et al."
+
+This result indicates that the crystal fraction increases with lipase
+exposure time between 2 and 4h, which is due to the still increasing con-
+centrations of free fatty acids by ongoing cleavage, especially from the
+dominant fraction of C 16:0, C 18:0, and C 18:1 fatty acids. As shown in
+Fig. 6(b), the crystal fraction increases still between 2 and 4h of lipase
+treatment, up to double the value compared to rendered duck fat.
+Consequently, larger and more stable crystals may appear. This assump-
+tion will be confirmed by the results of the CARS experiments below.
+
+Another point that corroborates this claim is evidenced by
+WAXS experiments conducted on samples at 37°C, which is equiva-
+lent to the temperature of the oral cavity. These results are shown in
+Fig. 6. As shown in Fig. 6(b) parts of the fat melt between 5 and 37°C.
+As suggested by the DSC experiments in Fig. 3, LT4h shows the high-
+est and most stable crystal fraction.
+
+At T = 37°C native, rendered fat shows only one small peak at
+about 20 ~ 5°, which is most likely generated by the remaining crystals of
+triglycerides containing longer fatty acid chains. Most of the fat is molten,
+and only 2.7 + 0.6% remains crystalline. LTF2 already shows more peaks
+and a CFC of 12.9 + 2.0%, which becomes even more pronounced after
+4h of treatment, and a higher CFC of 18.3 + 3.3% is measured. Lipase
+treatment generates peaks that resemble those of FGF, which shows a crys-
+talline fat content of 5.6 + 1.9%. These peaks are temperature-persistent at
+temperatures experienced during oral processing.
+
+A comparison of the change in the CFC shows this immediately.
+The decrease in the CFC for the different fats at 5 and 37 °C is quite dif-
+ferent. The native duck fat drops by a factor of about 4.4, and the FG fat
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+by a much lower factor of 3.3. LTF2 drops decrease only by a factor of
+2.6, whereas LTF4 drops by the lowest factor of 1.7.
+
+B. Mechanical methods
+
+Mechanical properties were evaluated by employing rheological
+and texture analysis methods. The deformation-dependent viscoelastic
+properties were measured by amplitude sweeps and gave the storage
+modulus (G}), loss modulus (G"), flow point, and linear viscoelastic
+range (LVR). Their results are shown in Fig. 7 with an example plot.
+The mean values are given in Table V. All samples were measured in
+the heated and unheated state (except store-bought FG samples) at 5°C.
+
+All heated patés (cooled to 5 °C) were examined by texture analy-
+sis to determine maximum force (hardness), strain of maximum force,
+and initial slope. Example plots of the heated samples are shown in
+Fig. 7, and the values are listed in Table V.
+
+1. Rheology
+
+The initial modulus Gp of the heated samples was about twice as
+high for the lipase-treated patés (LTP2: 216 700 + 12300 Pa; LTP4:
+247 400 + 2400 Pa) and Foie gras paté (FGP: 256 800 + 29 400 Pa) as
+for the LTPO with 118000 + 16 200 Pa. A similar trend was observed
+for the LVR and the flow point. Starting from 0.46 + 0.09% and
+39.6 + 3.7% for the LTPO sample, both values decrease with lipase-
+treated fat (LTP2: 0.25 + 0.06% and 33.3 + 7.8%; LTP4: 0.14 + 0.02%
+and 24.4 + 4.7%) and correspond to the FGP values of 0.12 + 0.01%
+and 23.2 + 1.1% strain. As well as, the LVR and the flow point are
+shifted to lower strains, which indicates the same early structural
+breakup in the emulsion structure.’
+
+At first sight, the results for the amplitude sweeps expressed by
+the storage modulus G’ appear very similar for FGP, LTP2, and LTP4.
+
+37, 037196-10
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids
+
+Intensity / cps
+
+crystalline fat content / %
+
+5°C 37°C
+
+FIG. 6. A shows the WAXS profiles at 37°C of each fat sample are plotted. B
+shows the CFC of each sample for 5 and 37°C in a bar plot. The untreated duck
+fat (LTFO) is marked blue, the foie gras fat (FGF) red and purple for 2h lipase
+treated fat (LTF2) and yellow for 4 h treatment time (LTF4).
+
+Nonetheless, significant distinctions can be identified. First, the
+increase in the linear modulus G’ is for the LTP4 slightly higher than
+for LTP2, but both are close to the FGP sample, its modulus appears
+even slightly higher, but not significant. The shorter LVR of the LTP2
+and 4 indicates a first irreversible breakdown of the emulsion structure
+comparable to the FGP samples. Whereas the flow point, the point
+where G” exceeds G’, for the lipase-treated samples is also shifted to
+lower amplitudes, and the LTP4 samples match the FGP samples. This
+indicates that the lipase-treated samples are, as well as the FGP sam-
+ples, more rigid and less elastic, and that lower shear strains cause irre-
+versible damage to the emulsion structure.'* If even more shear is
+applied to the samples, the LTPO and FGP samples have a steeper
+decrease in moduli than the LTP2 and LTP4 samples.
+
+However, since the fat embedding matrix is physically the same
+as all samples, the differences are caused by the lipase-induced differ-
+ent fat structures, as already seen in the DSC and X-ray experiments.
+On the other hand, it is known that small structural changes are not
+always clearly exhibited by rheology,’ therefore, alternative
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+ARTICLE pubs.aip.org/aip/pof
+
+methods, such as compression tests, are needed. These results are
+shown in the following.
+
+2. Texture analysis
+
+As seen in Fig. 7(b), the LTP2 and LTP4 samples are significantly
+stiffer than the paté with untreated duck fat LTP0. The force-strain
+curves of the lipase-treated patés also demonstrate higher values as the
+FGP, yet the shapes of the LTP2 and LTP4 curves are more closely
+aligned with the FGP as LTPO.
+
+The differences in the mechanical properties of the samples are
+clearly more prominent in Fig. 7(b) than in Fig. 7(a). The LTPO samples
+reached a hardness of 13.2 + 3.6 N and a strain at maximum force of
+32.4 + 3.7%. The initial slope was 0.4+ 0.2. The FGP samples were
+slightly harder with a maximum force of 17.0 + 4.0 N, but the maximum
+force was already reached at 16.6 + 0.6% strain and an initial slope of
+0.6 + 0.3. Both lipases-treated patés exceeded the other samples in hard-
+ness with 26.4 + 2.2 N (LTP2) and 19.57 + 1.70 N (LTP4). The elonga-
+tion of the maximum forces is closer to the FG paté with 22.3 + 1.7%
+(LTP2) and 20.5 + 1.9% (LTP4) than to the control paté LTPO.
+
+The results of these compression experiments demonstrate the
+significant impact of the physical properties of fats following different
+lipase treatments. LTPO demonstrates a continuous increase in force
+with increasing deformation, exhibiting a “plastic” softening between
+30% and 55% strain. The maxima of LTP2 are even more pronounced
+compared to LTP4, but both exceed the maximum of FGP. Also, the
+deformation at the force maximum is shifted to shorter strains. LTP2
+shows the highest value for force (hardness), whereas LTP4 shows
+lower values. The FGP and LTP4 samples tend to break shortly after
+the compression force is applied, which results in lower force and
+strain values compared to LTPO. The supplementary material includes
+photographs of the samples taken during and after the compression
+tests (see supplementary material Figs. $7, $8, and $9).
+
+These mechanical results already suggest changes in the mouth-
+feel for the different patés. The LVR indicates the range of elastic
+recovery at given deformations. Although these values at very small
+strains appear irrelevant for oral processing, they indicate the stability
+of the large-scale structure before becoming successively destroyed at
+larger strains, as shown by the stronger decrease in the moduli even
+above the flow point. Thus, LTPO has the most linear elastic response,
+and FGP the lowest. These properties correspond to the first contact
+between the tongue and palate at very small stains. At higher strains,
+respectively, larger (horizontal) movements of the tongue, the moduli
+decrease, and the patés become more viscous, when G’ < G”. Again,
+the flow point of LTP4 is closest to FGP, which means that the break-
+down of the underlying structure can be similar in the mouth.
+
+Concerning the linear elastic response, LTP4 comes closest to
+FGP. Hardness, e.g., when the tongue is pressed toward the palate and
+expressed with the maximum force in Fig. 7(b), is larger for LTP2 and
+LTP4 than for FGP. The reason for this can be drawn back to the dif-
+ferent crystal structures of FGP and LTP0,2,4. These mechanical and
+thermal properties provide the first indications for different oral sensa-
+tions. As a corollary, the disparities in fat arrangement among the sam-
+ples manifest as variations in fracture properties, as evidenced by the
+typical photographs provided in the supplementary material.
+
+However, these results have to be discussed in the context of the
+large-scale fat structure, which seems to be contractive with the results
+from the fat analysis, the SFC, and the WAXS results. Therefore,
+
+37, 037196-11
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids
+
+A
+
+FSS 85 8S 0cce, :
+
+0 0080 0 Oreceg ‘
+
+o 9
+10 wee eee ee eceseree tty
+Oy ©,
+Of O,
+9 09 F000BO00B000, wont
+Fooo, 0
+FOO
+
+iv) oko
+10% °9
+~
+o
+2
+=]
+3
+fe}
+S108
+
+@ G'LTPO e@ GLTP2
+
+0 G"LTPO o G"LTP2
+
+@ G'FGP © G'LTP4
+
+o G"FGP o G"LTP4
+
+402 rarer rarer paeeert
+10? 107 10° 10!
+Strain / %
+
+ARTICLE pubs.aip.org/aip/pof
+
+50
+
+Ss
+i}
+
+Force /N
+
+20
+
+0 10 20 30 40 50 60 70
+Strain / %
+
+FIG. 7. A: Amplitude sweeps of heated paté samples. Filled circles for G’ and unfilled for G’ The LTPO is shown in blue and FGP in red. For the LTP2 purple is used and yel-
+low for LTP4. In panel B, the texture measurements are shown as lines with the same color code. Typical curves are shown in this FIG.
+
+additional information from CARS microscopy and the corresponding
+image analysis will shed more light on the behavior of the differently
+prepared patés.
+
+C. CARS and image analysis
+
+Preliminary observations suggest that the LTP2 sample exhibits a
+more compact particle network compared to the FG and LTP4 samples.
+Additionally, the patés LTP2 and LTP4 show significant differences in
+the fat structure and distribution, as shown in Fig. 8. The LTP2 samples
+show percolating fat clusters in many regions, in contrast to LTP4 sam-
+ples. In the LTP2 samples, only a few bright crystals appear (see left pic-
+ture). It seems that in LTP2 only limited regions show "pefect" crystals.
+Whereas, for the LTP4, these highly crystalline structures were found
+distributed in large parts of the sample (Fig. 8 LTP4). However, some fat
+crystals form larger clusters as well as fat particles, as can be seen in the
+middle picture of LTP4 in Fig. 8.
+
+LTP4 samples still contain larger clusters but also connected
+regions (left and right) and appear less dense. Additionally, the LTP4
+samples show very bright needle-like crystals, which seem to join a
+larger amount of free fatty acids. This explains, most likely, the non-
+
+percolating clusters, since the amorphous part of the fats decreases
+with the increasing CFC by higher lipase exposure time, as suggested
+by Fig. 5. A more detailed analysis shows the structural properties
+better.
+
+The images, Figs. 8 and 12, were analyzed to obtain the area-
+weighted particle size distribution, shown in Fig. 9, and different shape
+descriptors such as aspect ratio and circularity (see Fig. 10 and Table
+VI). These results reveal differences between the FGP sample and the
+lipase-treated samples. The FGP sample shows larger fat particle clus-
+ters (see Vig. 12). The lipase-treated samples also had an emulsion
+structure made of interconnected fat particles.
+
+The FGP shows a well-defined network of connected fat particles
+that are greater than 10000 jxm?, which contributes to around 24% of
+the total fat area of the samples. Between these percolating clusters are
+well-separated medium-sized particles of 100 to 10000 ym?, which
+covers most of the fat area. Compared to this, the LTP2 shows a perco-
+lating fat network as well. This covers nearly 50% of the total fat and is
+the most pronounced in all the samples since it exceeds the area per-
+centage for the largest particles in the other samples.
+
+The area covered by particles greater than 10000 jum? in the
+LTP4 sample is 25% close to the FGP sample, and in the images,
+
+TABLE V. Mechanical properties of paté preparations with native duck fat (TPO), Lipase treated fat (LTP2 and LTP4) and store bought foie gras paté (n = 3). All values are sta-
+tistical significant due to ANOVA-test. Superscript letters: b: not statistical significant according to ANOVA-test. c-r: Value pairs not statistical significant due to Bonferroni-Post-
+
+hoc-test.
+
+LTPO* LTP2
+
+LTP4 FGP
+
+G' (Pa) heated* 118,000 + 16,200
+
+216,700 + 12,3004
+
+247,400 + 2,400 4° 256,800 + 29,400 “°
+
+G (Pa) unheated‘ 17,400 + 8,700/ 28,600 + 5,000/ 86,100 + 15,400 -
+
+LVR (%) 0.46 + 0.09 0.25 + 0.068 0.14 + 0.028" 0.12 + 0.01"
+Flow point (%) 39.6 43.7 33.3 + 7.8 bik 24.4 44,7 ik 23.2411"
+Force (N) 13.2 + 3.6)" 26.4 + 2.2" 19.6 41.7 "9 17.04 4.0"
+Compression (%) 32.4+3.7 22.3 + 1.774 20.5+ 1.9 4" 16.6 + 0.6 P”
+Initial Slope” 0.4+0.2 0.50.3 0.7£0.2 0.6 £0.3
+
+“Values are already published in a previous paper.'?
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+37, 037196-12
+
+P0:1Z:p0 S202 Iudy gz
+
+ARTICLE
+
+Physics of Fluids
+
+pubs.aip.org/aip/pof
+
+FGP LTP2
+LTP4 LTPO
+
+FIG. 8. CARS Microscopy images of the different samples FGP and LTP2 are shown in the upper row. LTP4 and LTPO are shown in the lower row. Fat particles are shown in
+ted, the dark background is the aqueous phase and the bright red sharp “needles” are fat crystals. Whereas 2h treatment provides more percolated clusters, 4h treatment
+shows less.
+
+similar connected fat clusters are visible (see also Fig. 8). The sample 1. Particle size distribution
+with the lowest area coverage had particles between 100 and
+10000 ym? and the highest had particles below 100,m?. This
+extended coverage comes from the high amount of small fat crystals,
+which are mostly present in the LTP4 samples due to the high CFC
+
+(see Fig. 6).
+
+The mean and median particle sizes were evaluated from the
+images (Fig. 12). For all samples, except for the LTP4 sample, the
+mean particle size is between 110 and 140 jum?. The LTP4 has a mean
+particle area of 9.1 + 238.4 um? and a median of 0.9 um”, which indi-
+
+024220 $202 Iudy $z
+
+The increase in the aspect ratio (AR) an
+
+decrease in circularity
+
+of the LTP2 and LTP4 samples support the described emulsion struc-
+ture. The extensive percolating network of particles leads to elongated,
+
+cates that more than half of the measured particles are less than 1 jum?
+in size. For a better comparison of the particle size distribution, the
+
+particles were weighted
+
+y the total fat area they covered in the sam-
+
+less round particles in the LTP2 sample (
+0.63 + 0.23); additionally, the medium-sized
+
+AR: 1.90+0.71 Cire.:
+articles are also more
+
+elongated and rougher. For the LTP4 samples, additionally, the
+amount of distinct needle-like crystals increases the AR up to
+
+ples. This complies with the percentage of the area covered by these
+respective size groups, as shown in Fig. 9. The FGP, LTP2, and LTP4
+samples show a similar particle size distribution compared to the LTPO
+sample. The area covered by particles with a size of 1-10 um? is 2.6%
+
+2.05 + 0.97 and decreases the circularity dramatically to 0.14 + 0.08.
+
+for LTP2 and 1.9% smaller than in the LTPO sample (5.0%). However,
+
+Table V1 summarizes these results. here the LTP4 sample has 11.7% the highest coverage in this size
+>10000 m2
+400-1000 pm2
+410-400 m2
+FGP 4-10 um2
+T T T T
+
+T
+40 60 80 100
+Area percentage / %
+
+°
+x
+8
+
+FIG. 9. The FIG shows the area weighted distribution of particle sizes for the different paté samples. This resembles the percentage of area covered by particles of the respec-
+tive size group.
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+37, 037196-13
+
+Physics of Fluids
+
+3.0 MAR
+
+25
+
+2.0 a
+
+AR
+
+1.5
+
+1.0
+
+LTPO FGP LTP2 LTP4
+
+w
+
+1.04 @ Circularity
+
+2 2
+o ©
+1 1
+
+Circularity
+
+0.04
+
+LTPO FGP LTP2 LTP4
+
+FIG. 10. Shape descriptors derived from the image analysis of the different sam-
+ples. In all panels the LTPO sample is shown in blue, the FGP in red and LTP2 in
+purple and LTP4 in yellow. Panel A shows the aspect ratio, whereas the circularity
+is displayed in Panel B.
+
+group. In the next size group, 10-100 xm’, the distribution within the
+samples is relatively close, with the LTP2 samples having the lowest
+coverage (5.3%) and the LTP4 the highest (20.5%). The same can be
+seen for the size group 100-1000 jm’, which covers an area of 15.9%
+in the LTP2 samples, 24.7% in the LT4 sample, 17.7% in the FGP sam-
+ple, and 33.9% in the LTPO sample. For the LTPO and FGP samples,
+particles between 1000 and 10000 zm” have the largest area, covering
+
+ARTICLE pubs.aip.org/aip/pof
+
+45.9% and 37.4% of the total area, respectively. Particles larger than
+10000 ym? cover 49.2% of the fat area in the LTP2, whereas in the
+LTPO only 4.0% is covered by these large particles.
+
+In the FGP and LTP4 samples, about a quarter of the area is cov-
+ered with particles larger than 10 000 xm’. The LTP2 and FG samples
+overall show similarities in the area-weighted size distribution, whereas
+LTPO shows a higher number of smaller particles and fewer particles
+with a size over 10 000 zm. The LTP4 sample distribution is quite dif-
+ferent from the other samples because nearly a third of the area is cov-
+ered with particles up to 100 pm?. However, with 26.5%, it shows as
+many particles greater than 10000 zm? as the FGP sample. The ele-
+vated crystalline fat content, in conjunction with the cleavage within
+the higher portion of C 18:0, C 18:1, and C 16:0 fatty acids, facilitates
+the crystallization of more monocline crystals with minimal defects
+across numerous spatial positions, thereby reducing the intermediate
+cluster size to a range of 1000 to 10 000. zm. Consequently, the amor-
+phous and partially molten fat clusters become less prominent as the
+exposure time to lipase is increased.
+
+The results shown in Fig. 9 indicates a systematic decrease in the
+area covered by the particle group characterized by a particle size of
+1000-10 000 zm? as the treatment time increases. LTP4 attains a com-
+parable regime at approximately 75% of that of FGP, yet maintains a
+considerably more restricted profile. This lends further credence to the
+hypothesis that the occurrence of substantial crystal formation
+impedes the proliferation of large clusters and renders percolating
+structures less probable. Conversely, LPT2 appears to align more
+closely with the lower coverage regime. Nonetheless, the present analy-
+sis delineates methodologies for the implementation of lipase treat-
+ment, with consideration for activity and exposure time parameters,
+thereby ensuring the modulation of mouthfeel and the preservation of
+fat structure in a prescribed manner. A more detailed analysis of the
+shape descriptors, aspect ratio (AR), and circularity will underline
+these results.
+
+2. Shape descriptors
+
+The aspect ratio (Table V1) of the samples was 1.7 + 0.6 for the
+FGP, 1.9 + 0.7 for the LTP2, and 2.1 + 0.9 for LTP4, higher than the
+LTPO, which had an AR of 1.4 0.5 (Fig. 10 A). Circularity showed
+lower values for the LTP2 and FGP (LTP2: 0.6 + 0.2; FGP: 0.7 + 0.2)
+compared to the control with 0.8 + 0.2. However, it drastically drops
+for the LTP4 sample to 0.14 + 0.08 (Fig. 10 B). The increase in aspect
+ratio is due to the more irregularly shaped particles in the LTP2 and
+LTP4 samples. For the LTP2 sample, mainly the bigger irregular par-
+ticles, which build fat clusters, are responsible for the increase in the
+AR. For the LTP4 sample, the fat crystals also elongate the smaller par-
+ticles because of the needle-like structure. This effect is even more pro-
+nounced for the circularity, which is a measure of the particle
+
+TABLE VI. Mean area, median area and shape descriptors of LTPO, FG, LTP2, and LTP4 measurements. Statistical significance tested with ANOVA-test.
+
+P0:1Z:p0 S202 Iudy gz
+
+LTPO FGP LTP2 LTP4
+Mean Area/jum? 118.5 + 964.4 111.5 + 876.5 135.9 + 2161.3 9.10 + 238.4
+Median Area/jium? 47 5.9 3.6 0.9
+AR 14+0.5 1.7+0.6 19+0.7 21409
+Cire. 0.8 + 0.2 0.7 +0.2 0.6 + 0.2 0.1401
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+37, 037196-14
+
+Physics of Fluids ARTICLE
+
+roughness. In parallel with the AR, the LTP2 and FGP are less smooth
+due to larger fat clusters. Whereas the circularity of the LTP4 sample
+drops by a factor of 4 compared to the LTP2 sample. Here, too, the
+smaller fat crystals cause less rounded and rougher fat particles.
+
+The results are most striking. As mentioned earlier,’ the forma-
+tion of large, percolating, random fat clusters is imperative for a typical
+“foie gras mouthfeel.” As shown in Fig. 9, this is the case for FGP and
+LTP2. Pure emulsions, like the LTPO, cannot be the case for simple
+physical reasons. However, the samples for LTP4 still show regions
+with large percolating clusters, but also regions with non-connected
+clusters. Conversely, the CARS microscopy images manifest a conspic-
+uously elevated concentration of stable crystals, manifest in the bright
+areas, which have a distinct impact on the size distribution and shape
+descriptors of the LTP4 sample.
+
+IV. CONVERGING DISCUSSION
+
+In essence, it has been shown how to produce foie gras of ducks
+or geese without any force-feeding and without using any additional
+components, such as stabilizers and emulsifiers. The only ingredients
+are the animal’s own rendered fat and their liver, which are side prod-
+ucts of every duck or goose farm. Simple emulsions of these two com-
+ponents do not lead to satisfactory properties in texture and
+mouthfeel.'* In this publication, the essential contribution of the exis-
+tence of a fat-percolating fat network was already demonstrated.
+
+The lipase treatment of rendered fat provides, by cleaving fatty
+acids from tri-glycerides a basis for forming connected fat networks
+with significant contributions to the mechanical properties, as demon-
+strated in Table | and Fig. 8.
+
+To comprehensively interpret the underlying physics of these
+observations, it is imperative to retrace the steps involved in the prepa-
+ration of the samples, except for FGP because this is based on a natural
+product and commercially sold. It has been shown, so far, that the fat
+
+pubs.aip.org/aip/pof
+
+structure plays the most important role in the mechanical properties
+and thus the mouthfeel.
+
+This can be easily demonstrated when the mechanical properties
+of the uncross-linked, i.e., unheated patés are compared to those after
+heating, when the liver matrix becomes cross-linked. In the uncross-
+linked case, only the viscoelastic contribution and the mechanical
+impact of the fat are shown, especially when all matrices are similar in
+composition and preparation. The corresponding experiments are
+shown in Fig. 11.
+
+The presence of differently structured fat networks alone changes
+already the mechanical behavior, as can be seen in the rheology of the
+non-heated, ie. non-cross-linked matrices (Fig. 11). The Gj of the
+unheated patés increases steeply with longer treatment times and
+reaches 86100 + 15400 Pa, almost five times that of the paté with
+untreated fat (LTPO, see Table \V). Indeed, the moduli of the uncooked
+samples demonstrate a closer resemblance to those of FGP, nearly
+matching the cooked LTPO sample. However, these results offer
+insights that are more profound and less straightforward. The ampli-
+tude of storage and loss moduli increases in proportion to the duration
+of lipase exposure. LTP4 samples show the highest storage modulus,
+followed by LTP2 and pate prepared by untreated rendered duck fat,
+LTPO.
+
+At first sight, this seems to contradict what has been discussed
+before. However, the hard, stable, and larger crystals after 4h lipase
+treatment contribute as hard filler particles in the soft matrix strongly
+to the modulus of the uncross-linked fat matrix.'* The 2h treatment
+does not show sufficiently high concentrations of such crystals; solid
+fat stays amorphous but forms percolating clusters. Their different
+behavior indicates itself at different strains, especially in the stronger
+decrease in G’ between 12% and 110%, which can be addressed by the
+successive breaking of the large clusters. The LTP4 paté, however,
+shows a smooth decrease; the solid filler particles move within the
+
++ +O Feo eeooes,,
+sssanennnennnsre® te
+
+% oy
+10° eee ee tereee tte,
+
+10'
+*:
+
+BF FOHCOTFHGOS
+
+10° Hates,
+
+@cG' FGP
+© G6" FGP
+@cG' LTPO
+© G6" LTPO
+@ 6G! LTP2
+© G6" LTP2
+@ oc’ LTP4
+© G6! LTPA
+
+Moduli / Pa
+
+10°
+
+FIG. 11. Amplitude sweep measurements
+of unheated paté samples prepared with
+LTPO (blue), LTP2, (purple) and LPT4
+(yellow). FGP is shown in red for refer-
+ence. The storage modulus G’ is marked
+with filled and loss modulus G” is marked
+g rs with unfilled diamonds.
+
+i
+eee
+
+10 1 1 1
+
+10? 107 10° 40! 107
+
+Strain / %
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+37, 037196-15
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids ARTICLE
+
+deforming matrix. Indeed, at strains larger than 10%, the unheated
+LTP4 already follows the curve of the cooked and FGP, which demon-
+strates the high impact of the fat network.
+
+Of course, other properties such as LVR, flow points, etc., are
+very different because of the different fat structures and the lack of
+cross-links. Heating-induced cross-linking increases the modulus by
+= 100kPa for the LTPO. The further increase for LT 2h and LT 4h
+samples must consequently be caused by the different large scale fat
+structures. The importance of these structures in the final patés after
+heating has already been discussed earlier by Via et al.'* To visualize
+the typical different structures in FGP and the lipase-treated samples,
+the CARS images were compared directly in Fig. 12. The images
+shown in Fig. 12 are directly extracted from typical CARS microscopy
+pictures shown already in Fig. 8 by removing the matrix background
+to discuss the influence of the fat structure on the mechanical proper-
+ties. The disparities are evident, yet the fat structures of FGP and LTP2
+manifest a striking similarity. Both exhibit continuous, irregular fat
+aggregates with “weak” connections, designated as “hot bonds,”
+demarcated by black arrows. These bonds undergo a sequential rup-
+ture when subjected to mechanical stress. As discussed already ear-
+lier,’ these processes are responsible for the texture of foie gras. LTPO
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+pubs.aip.org/aip/pof
+
+does not have comparable features, and thus the mechanical proper-
+ties follow the rules of “hydrodynamic reinforcement” elastic matri-
+ces.'° LTP4 has additional features. So-called “hot bonds,” which
+carry most of the compression stress” can also be found, but these
+are occasionally cross-linked via crystals, as marked by the arrow in
+Fig. 12. These correspond to the analogous curve progression
+observed in the mechanical compression data, but higher values for
+G’. LTP4 shows additional reinforcement by solid crystals, which act
+as fiber-like reinforcing particles.’’ Additionally, large, highly crys-
+talline clusters, indicated by the yellow ellipse, cause further rein-
+forcement at low strains, as suggested in Fig. 7(a). Overall, the
+number of large connected cluster for LTP4 is reduced since more
+cleaved fatty acids crystallize, which suggests that at larger strains the
+elastic response of LTP4 becomes weaker compared to LTP2 and
+FGP, as also seen in Fig. 7.
+
+Thus, these CARS data systematically support the observations in
+the mechanical experiment, shown in Fig. 7. The LTP2 sample shows
+the highest compression force of the samples, which is caused by the
+dense percolating network of the sample. In addition to force, which is
+needed to break the linked fat aggregates apart, an extensive amount of
+force is needed to move the particles along each other.'*
+
+FIG. 12. CARS Graphical visualization of
+the typical elements of the fats from
+microscopy images of FGP, LTP2, LTP4,
+LTPO. Large clusters are shown in green,
+weak bonds are indicated by black
+arrows. For LTP4 highly crystalline areas
+are indicated by gray circles. A highly
+crystalline cluster is surrounded by the
+yellow ellipse.
+
+37, 037196-16
+
+024220 $202 Iudy $z
+
+Physics of Fluids
+
+The compression of the LTP4 sample is closer to the FGP sample,
+as the emulsion structure resembles the connected fat cluster of the
+FGP. However, the high crystal content of the LTP4 samples is respon-
+sible for a further increase in the maximum force, as the crystals act as
+hard filler particles. The low elastic behavior of the samples LTP4 and
+FGP (see LVR in Table V) leads to breaking events of the random fat
+network and clusters after the maximum force is reached.
+
+The influence of the emulsion structure on the amplitude sweeps
+is contrary to the results of the compression test, as shown in Fig. 7(b).
+Whereas the short LVR values can be explained by the initial breaking
+of the fat particles at the connection points at low strains, which can be
+seen in the images above (see Fig. 12). However, in rheology the FGP
+has with G’(0) = 256 800 + 29 400 Pa the highest modulus of the sam-
+ples and LTP2 (G’(0) =216700 + 12300 Pa) the lowest modulus.
+Considering the fat clusters, the LTP2 should exceed the FGP samples.
+However, if shear stress is applied, the solid fat content contributes to
+the modulus as well (see Table IV).°* At 5°C the solid fat content of
+the FGF is the highest at 57.9 + 3.1% and the lowest for the LTF2 sam-
+ple (26.4 + 4.2%), which is even lower than for the LTFO sample.
+However, the initial modulus of the LTF2 is around 100 kPa higher
+than for the LTPO (see Table V). This is compensated by the dense fat
+particle network of the LTP2 sample.
+
+The other important impact of the lipase treatment is given by
+the restructuring of the rendered fat, which allows polymorphs of fat
+crystals that are more stable and shifts the overall melting regime in
+the direction of the foie gras. This can be seen in the DSC experiments,
+in the results of WAXS and the persisting X-ray reflexes, which match
+those of FG at 37 °C, as shown in Fig. 6.
+
+Finally, a cursory examination of the alterations in the modules
+of the rheometer during the process of heating is beneficial, as shown
+in Fig. 13. At first sight the curves appear very different from FGP;
+however, a complete agreement cannot be expected, since the FGP is a
+natural product with a very different preparation history. Nevertheless,
+useful features can be extracted, especially in the shaded temperature
+regime, which is most relevant for the mouthfeel. FGP shows a very
+distinct decrease in the storage modulus G'(t, T’) until complete melt-
+ing of the fat, with a very pronounced shoulder between 35 and
+
+£0 ;
+3 3
+3 i
+£ 3
+E oO
+go &
+3 a
+w 5
+3 F
+S
+£10 — G'LTPO —— G'LTP4
+2 ---- G"LTPO ---. G"LTP4 10
+a —— G'LTP2 —— G'FGP
+---- G"LTP2 ---- G"FGP 5
+— _ Temperature
+10%, 7 . . . . 1 1 F 0
+5 10 15 20 25 30 35 40 45
+Time / min
+
+FIG. 13. The moduli for FGP (red), LTPO (blue), LTP2 (purple), and LTP4 (yellow)
+as a function of time under increasing temperature (green line), with a heating rate
+of 1 K/min.
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+ARTICLE pubs.aip.org/aip/pof
+
+42 min. Both lipases-treated samples exhibit a similar behavior, espe-
+cially LTP4, which exhibits this pronounced shoulder, too.
+
+The higher moduli of the two patés, LTP2,4 between at
+t > 13min is a consequence of the hard crystals, which melt only
+around 40°C and higher, completely, as seen in DSC experiments. As
+also seen in the CARS experiments, the crystals are more pronounced
+for LTP4 than for LTP2. Therefore, LTP4 contains a higher concentra-
+tion of hard filler particles, which increases the modulus compared to
+LTP2. Despite the higher moduli of LPT2,4, the melting properties
+under shear show similar curve shapes in the temperature interval
+most relevant for oral processing.
+
+In contrast, the simplest approach, LTPO, the rendered fat emul-
+sion, does not show any of these features. Even with the overall
+decrease in G’(t, T) remains very low. Simple heated emulsions cannot
+mimic FGP sufficiently.
+
+A further question raised by the DSC experiments, and it remains
+unresolved within the present investigation. The two melting peaks
+appearing after lipase treatment no. 12,13 and 14, 15 require higher
+latent heat to melt, as the fat in the foie gras paté after force-feeding, as
+shown in Fig. 3. Fats and fat blends with high melting enthalpy may
+induce trigeminal cooling in the oral cavity.” The fast-melting pro-
+cess takes thermal energy out of the tongue at certain rates, which are
+higher than the restoration by the blood circulation. The temperature
+may then fall below the thresholds of the trigeminal receptors TRPA1
+(cold) and/or TRMP8 (cooling), which induces a cooling sensation.
+For fat crystals containing only C 16 and C 18 fatty acids, this is
+unlikely, especially when the crystals are embedded in a water-rich
+matrix formed by the liver proteins.
+
+V. CONCLUSION
+
+In conclusion, the large-scale fat structure is a key element in the
+physical behavior of the patés and thus the resulting mouthfeel and
+enjoyment. The application of lipase treatment has been demonstrated
+to reduce the necessity of force-feeding animals in the production of
+foie gras-like paté, which exhibits comparable textural characteristics.
+The method of modifying the fat structure and, consequently, the tex-
+tural properties of food has emerged as a promising avenue for further
+exploration, offering potential applications beyond the scope of this
+study.
+
+Nevertheless, precise predictions for the technological formula-
+tions are nearly impossible to predict. The reasons are straightforward:
+lipases of varying origins, such as from plants, animals, microorgan-
+isms, or other sources, exhibit distinct variances in specific activities at
+particular process temperatures. Consequently, each lipase batch
+necessitates preliminary characterization. Notwithstanding, this inves-
+tigation offers a universal strategy to produce non-force-fed foie gras,
+which is quasi-equivalent to the original.”
+
+Consequently, the discussion has not addressed flavors and tastes,
+as they do not induce substantial alterations in structural properties.
+Even when salts (ions) add up to the ionic part of the livers (mono-
+and bi-valent ions, free alkaline and acidic amino acids), added salt is
+not able to change contributions in the large-scale structure of the fat
+network. Adding spices and seasonings from standard (and non-stan-
+dard) recipes will provide excellent culinary results. In addition, the
+lipase treatment also shows here its strong advantage. The lipase will
+cleave short-chain fatty acids, fatty acids with equal or lower molecular
+weight than C 12 contributing to the typical smell of non-spiced foie
+
+37, 037196-17
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids
+
+gras.” The lipase treatment defines a solid foundation for foie gras
+production across various scales.
+
+SUPPLEMENTARY INFORMATION
+
+See the supplementary material for exemplary NMR spectra of all
+samples. Also, an extended description of the DSC-measurements is
+presented there. As well as photographs of the samples during and
+after the compression test.
+
+ACKNOWLEDGMENTS
+
+The project was gratefully funded by VAN HEES GmbH,
+Walluf, Germany, and we acknowledge the materials supply and
+many discussions with Dr. Alexander Stephan. We would like to
+thank Robert Graf and Stefan Geiter for providing the NMR and
+XRD measurements and for their helpful support in the analysis of
+the data. The work was supported by the Villum Foundation
+(Denmark), grant no. 00025414. We acknowledge the use of Danish
+Molecular Bio-Imaging Center, supported by the Novo Nordisk
+Foundation, grant no. NNF18SA0032928.
+
+AUTHOR DECLARATIONS
+Conflict of Interest
+
+The authors have no conflicts to disclose.
+
+Author Contributions
+
+Mathias Baechle: Conceptualization (equal); Data curation (equal);
+Formal analysis (equal); Investigation (equal); Methodology (equal);
+Software (equal); Writing - original draft (equal); Writing - review &
+editing (equal). Arlete M.L. Marques: Data curation (supporting);
+Formal analysis (supporting); Investigation (equal); Methodology
+(equal); Validation (supporting); Visualization (supporting). Matias
+Via: Data curation (equal); Formal analysis (equal); Investigation
+(equal); Methodology (equal); Validation (equal); Visualization
+(equal). Mathias P. Clausen: Investigation (equal); Project administra-
+tion (equal); Resources (equal); Supervision (equal); Validation (equal);
+Visualization (equal); Writing - review & editing (supporting).
+Thomas A. Vilgis: Conceptualization (lead); Formal analysis (equal);
+Investigation (equal); Methodology (equal); Project administration
+(lead); Resources (lead); Supervision (lead); Validation (equal);
+Visualization (equal); Writing - original draft (equal); Writing -
+review & editing (equal).
+
+DATA AVAILABILITY
+
+The data that support the findings of this study are available from
+the corresponding authors upon reasonable request.
+
+REFERENCES
+
+'N. Kolpas, Foie Gras: A Global History (Reaktion Books, 2021).
+
+2). A. Gerrard, “Protein-protein crosslinking in food: Methods, consequences,
+applications,” ‘'rends Food Scie. Technol. 13, 391-399 (2002).
+
+3). Lavigne, “How to stuff a duck: Learning artisan foie gras production in
+france,” Gastronomica: J. Food Culture 21, 20-31 (2021).
+
+“E. Mognard, “Fat duck as foie gras?: Axiological implications of tourist experi-
+ences,” in Tourism Experiences and Animal Consumption (Routledge, 2018),
+pp. 119-134.
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+ARTICLE pubs.aip.org/aip/pof
+
+5D. Guémené and G. Guy, “The past, present and future of force-feeding and
+‘foie gras’ production,” World’s Poult. Sci. J. 60, 210-222 (2004).
+
+®1. Rochlitz and D. Broom, “The welfare of ducks during foie gras production,”
+Anim. Welfare 26, 135-149 (2017).
+
+7M. Delpont, V. Blondel, L. Robertet, H. Duret, J.-L. Guerin, JP. Vaillancourt,
+and M. C. Paul, “Biosecurity practices on foie gras duck farms, southwest
+france,” Prey. Vet. Med. 158, 78-88 (2018).
+
+8N. Terjung, EU Patent No. EP 3 556 224 BI (2016 April 2019).
+
+°V. Normand, S. Muller, J.-C. Ravey, and A. Parker, “Gelation kinetics of gela-
+tin: A master curve and network modeling,” Macromolecules 33, 1063-1071
+(2000).
+
+10K. Sato, “Crystallization behaviour of fats and lipids—A review,” Chem. Eng.
+Sci. 56, 2255-2265 (2001).
+
+H, Foie, see https://happyfoie.com/collections/happy-foie-all for “Happy foie
+
+Product page” (2024).
+
+"2K. Liu, M. Stieger, E. van der Linden, and F. van de Velde, “Fat droplet charac-
+teristics affect rheological, tribological and sensory properties of food gels,”
+Food Hydrocolloids 44, 244-259 (2015).
+
+13M. Baechle, M. A. Via, T. A. Vilgis, and M. P. Clausen, “Function of different
+emulsifiers in spreadable meat emulsions: A systematic study of physical prop-
+erties,” Food Biophys. (to be published).
+
+4M. A. Via, M. Baechle, A. Stephan, T. A. Vilgis, and M. P. Clausen,
+“Microscopic characterization of fatty liver-based emulsions: Bridging micro-
+structure and texture in foie gras and paté,” Phys. Fluids 33, 117119 (2021).
+
+1ST. A. Vilgis, “Soft matter food physics—the physics of food and cooking,” Rep.
+Prog. Phys. 78, 124602 (2015).
+
+16B, Joshi, S. Beccard, and T. A. Vilgis, “Fractals in crystallizing food systems,”
+Curr. Opin. Food Sci. 21, 39-45 (2018).
+
+7G. Huber, T. A. Vilgis, and G. Heinrich, “Universal properties in the dynamical
+deformation of filled rubbers,” J. Phys.: Condens. Matter 8, L409 (1996).
+
+18G. Huber and T. A. Vilgis, “On the mechanism of hydrodynamic reinforcement
+in elastic composites,” Macromolecules 35, 9204-9210 (2002).
+
+17. A. Vilgis, G. Heinrich, and M. Klippel, Reinforcement of Polymer Nano-
+Composites: Theory, Experiments and Applications (Cambridge University
+Press, 2009).
+
+20 Beccard, J. Bernard, R. Wouters, K. Gehrich, B. Zielbauer, M. Mezger, and T.
+A. Vilgis, “Alteration of the structural properties of inulin gels,” Food
+Hydrocolloids 89, 302-310 (2019).
+
+21. Théron, A. Vénien, F. Jamme, X. Fernandez, F. Peyrin, C. Molette, P. Dumas,
+M. Réfrégiers, and 'T. Astruc, “Protein matrix involved in the lipid retention of
+foie gras during cooking: A multimodal hyperspectral imaging study,” J. Agric.
+Food Chem. 62, 5954-5962 (2014).
+
+22k. A. Nicholson and A. G. Marangoni, “Enzymatic glycerolysis converts vegeta-
+ble oils into structural fats with the potential to replace palm oil in food prod-
+ucts,” Nat. Food 1, 684-692 (2020).
+
+23k. A. Nicholson, G. Mazzanti, and A. G. Marangoni, “Crystallization and melt-
+ing behavior of mixtures of pure monoacylglycerols and diacylglycerols,” Cryst.
+Growth Des. 22, 414-427 (2022).
+
+24M. Buzata, M. Adamski, and B. Janicki, “Characteristics of performance traits
+and the quality of meat and fat in polish oat geese,” World’s Poult. Sci. J. 70,
+531-542 (2014).
+
+254 G. Marangoni, “Lipases: Structure, function, and properties,” in Lipid
+Biotechnology (CRC Press, 2002), pp. 416-448.
+
+264 Sharma, S. P. Chaurasia, and A. K. Dalai, “Enzymatic hydrolysis of cod liver
+oil for the fatty acids production,” Catal. Today 207, 93-100 (2013).
+
+27M. Islam, L. Belkowska, P. Konieczny, E. Fornal, and J. Tomaszewska-Gras,
+“Differential scanning calorimetry for authentication of edible fats and oil-
+s-what can we learn from the past to face the current challenges?,” J. Food
+Drug Anal. 30, 185 (2022).
+
+28B A. Macias-Rodriguez and A. A. Marangoni, “Linear and nonlinear rheologi-
+cal behavior of fat crystal networks,” Crit. Rev. Food Sci. Nutr. 58, 2398-2415
+(2018).
+
+9B L. Joshi, B. I. Zielbauer, and T. A. Vilgis, “Comparative study on mixing
+behavior of binary mixtures of cocoa butter/tristearin (CB/TS) and cocoa
+butter/coconut oil (CB/CO),” Foods 9, 327 (2020).
+
+3°w. Chen, F. Lu, D. Frew, and M. Forrestal, “Dynamic compression testing of
+soft materials,” J. Appl. Mech. 69, 214-223 (2002).
+
+37, 037196-18
+
+P0:1Z:p0 S202 Iudy gz
+
+Physics of Fluids
+
+"7, Funami and M. Nakauma, “Instrumental food texture evaluation in relation
+to human perception,” Food Hydrocolloids 124, 107253 (2022).
+
+32E. §. Carrillo, L. Saucier, and C. Ratti, “Thermal properties of duck fatty liver
+(foie gras) products,” Int. J. Food Prop. 20, 573-584 (2017).
+
+33K. Van Putte and J. Van Den Enden, “Fully automated determination of solid
+fat content by pulsed nmr,” J. Am. Oil Chem. Soc. 51, 316-320 (1974).
+
+348. L. Joshi, R. Graf, S. Gindra, and TT. A. Vilgis, “Effect of different derivatives
+of paraffin waxes on crystallization of eutectic mixture of cocoa butter-coconut
+oil,” Curr. Res. Food Sci. 4, 784-799 (2021).
+
+35M. Jahurul, 1. Zaidul, N. N. Norulaini, EF. Sahena, M. Abedin, K. Ghafoor, and
+A.M. Omar, “Characterization of crystallization and melting profiles of blends
+of mango seed fat and palm oil mid-fraction as cocoa butter replacers using dif-
+ferential scanning calorimetry and pulse nuclear magnetic resonance,” Food
+Res. Int. 55, 103-109 (2014).
+
+6B. Chu and B. S. Hsiao, “Small-angle x-ray scattering of polymers,” Chem. Rev.
+101, 1727-1762 (2001).
+
+371. Meyer, D. Akimov, N. Tarcea, S. Chatzipapadopoulos, G. Muschiolik, J.
+Kobow, M. Schmitt, and J. Popp, “Three-dimensional molecular mapping of a
+multiple emulsion by means of cars microscopy,” J. Phys. Chem. B 112, 1420-
+1426 (2008).
+
+38M. Han, M. P. Clausen, M. Christensen, E. Vossen, T. Van Hecke, and H. C.
+Bertram, “Enhancing the health potential of processed meat: The effect of chi-
+tosan or carboxymethyl cellulose enrichment on inherent microstructure, water
+mobility and oxidation in a meat-based food matrix,” Food Funct. 9, 4017-
+4027 (2018).
+
+39M. P. Clausen, M. Christensen, and O. G. Mouritsen, “Imaging foodstuffs and
+products of culinary transformations,” in Handbook of Molecular Gastronomy
+(CRC Press, 2021), pp. 409-413.
+
+“0p. D. de Freitas Santos, S. Keshanidokht, $. Kumar, M. P. Clausen, M. A. Via,
+C. S. Favaro-Trindade, M. L. Andersen, and J. Risbo, “A novel low-temperature
+procedure for oleogelation of heat-sensitive oils: Oleogels based on tucum oil
+and ethyl cellulose,” L\\Vl' 193, 115776 (2024).
+
+“"International Organization for Standardization, “Animal and vegetable fats and
+oils—Gas chromatography of fatty acid methyl esters part 2: Preparation of
+methyl esters of fatty acids,” Standard ISO 12966-2:2017 (International
+Organization for Standardization, Geneva, CH, 2017).
+
+“21 nternational Organization for Standardization, “Animal and vegetable fats and
+oils—Determination of monoacylglycerols, diacylglycerols, triacylglycerols and
+glycerol by high-performance size-exclusion chromatography (HPSEC),”
+Standard ISO 18395:2005 (International Organization for Standardization,
+Geneva, CH, 2005).
+
+“3M. Bourne, “Texture profile of ripening pears,” J. Food Sci. 33, 223-226 (1968).
+
+Phys. Fluids 37, 037196 (2025); doi: 10.1063/5.0255813
+© Author(s) 2025
+
+ARTICLE pubs.aip.org/aip/pof
+
+44). E. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T.
+Pietzsch, S. Preibisch, C. T. Rueden, $. Saalfeld, B. Schmid, J.-Y. Tinevez, D. J.
+White, V. Hartenstein, K. W. Eliceiri, P. Tomangak, and A. Cardona, “Fiji: An
+open-source platform for biological-image analysis,” Nat. Methods 9, 676-682
+(2012).
+
+“51K. Huang and M.-J. J. Wang, “Image thresholding by minimizing the mea-
+sures of fuzziness,” Pattern Recognit. 28, 41-51 (1995).
+
+“€R. C. Rodrigues and R. Fernandez-Lafuente, “Lipase from rhizomucor miehei
+as a biocatalyst in fats and oils modification,” J. Mol. Catal. B: Enzym. 66, 15-
+32 (2010).
+
+47R. A. Nicholson and A. G. Marangoni, “Lipase-catalyzed glycerolysis extended
+to the conversion of a variety of edible oils into structural fats,” Curr. Res. Food
+Sci. 4, 163-174 (2021).
+
+485. Sathivel, W. Prinyawiwatkul, I. I. Negulescu, and J. M. King, “Determination
+of melting points, specific heat capacity and enthalpy of catfish visceral oil dur-
+ing the purification process,” J. Am. Oil Chem. Soc. 85, 291-296 (2008).
+
+“2K W. Smith, K. Bhaggan, G. Talbot, and K. F. Van Malssen, “Crystallization of
+fats: Influence of minor components and additives,” J. Am. Oil Chem. Soc. 88,
+1085-1101 (2011).
+
+50K. Jariyavidyanont, C. Schick, and R. Androsch, “The bulk enthalpy of melting
+of a’-crystals of poly (I-lactic acid) determined by fast scanning chip calorime-
+try,” Thermochim. Acta 717, 179349 (2022).
+
+SIN. Arita-Merino, H. van Valenberg, E. P. Gilbert, and E. Scholten,
+“Quantitative phase analysis of complex fats during crystallization,” Cryst.
+Growth Des. 20, 5193-5202 (2020).
+
+52M. Ghebremedhin, M. Baechle, and T. A. Vilgis, “Meat-, vegetarian-, and vegan
+sausages: Comparison of mechanics, friction, and structure,” Phys. Fluids 34,
+047112 (2022).
+
+3p. Toultchinski and T. A. Vilgis, “How to cook pasta? physicists view on sug-
+gestions for energy saving methods,” Phys. Fluids 36, 117120 (2024).
+
+S47 de Arcangelis, $. Redner, and H. Herrmann, “A random fuse model for
+breaking processes,” J. Phys. Lett. 46, 585-590 (1985).
+
+55M. E. Cates and S. F. Edwards, “Linear theory of disordered fibre-reinforced
+composites,” Proc. R. Soc. London, Ser. A 395, 89-109 (1984).
+
+S®T_ A. Vilgis, “Chocolate: Oral processing of chocolate-successive interplay of
+sensory and physicochemical parameters,” in Handbook of Molecular
+Gastronomy (CRC Press, 2021), pp. 130-138.
+
+877. A. Vilgis and M. Baechle, “EP priority application filed 5.12.2023,” PCT
+application filed 5.12.2024 (5 December 2023).
+
+887. Tabak, i. Yilmaz, and i. H. Tekiner, “Investigation of the changes in volatile
+composition and amino acid profile of a gala-dinner dish by GC-Ms and LC-
+MS/MS analyses,” Int. J. Gastronomy Food Sci. 25, 100398 (2021).
+
+37, 037196-19
+
+P0:1Z:p0 S202 Iudy gz

@@ -1,0 +1,1554 @@
+Article
+
+Water abundance in the lunar farside mantle
+
+https://doi.org/10.1038/s41586-025-08870-x
+
+Received: 10 September 2024
+
+Accepted: 5 March 2025
+
+Published online: 09 April 2025
+
+Open access
+
+® Check for updates
+
+Huicun He’®, Linxi Li'?*, Sen Hu'™, Yubing Gao", Liang Gao'”, Zhan Zhou", Mengfan Qiu’,
+Disheng Zhou", Huanxin Liu’, Ruiying Li’, Jialong Hao’, Hejiu Hui**™ & Yangting Lin’
+
+The water contents of the lunar interior record important clues for understanding the
+formation and subsequent thermochemical evolution of the Moon’. The Chang’e-6
+(CE6) mission returned samples from the South Pole-Aitken impact basin of the lunar
+farside? *, providing an opportunity to study the water contents of the farside mantle.
+Here we report the water abundances and hydrogen isotope compositions of apatite
+and melt inclusions from CE6 mare basalt, derived from partial melting of the lunar
+mantle. The parent magma of CE6 mare basalt is estimated to have a water abundance
+of 15-168 pg g' witha SD value of -123 + 167%o. Our estimate of water abundance of
+1-1.5 pg g ‘for the mantle source indicates that the farside mantle is potentially drier
+than its nearside counterpart. This contrast thus suggests that the distribution of
+water in the interior of the Moon may exhibit a hemispheric dichotomy similar to
+numerous surface features’. The new estimate for the lunar farside mantle represents
+alandmark for estimating the water abundance of the bulk silicate Moon, providing
+
+critical constraints on the giant impact origin hypothesis° * and the subsequent
+evolution of the Moon for which the role of water is central’”.
+
+Water abundance in the lunar mantle provides insights into the giant
+impact formation models for the Moon® ‘and playsa crucial roleinthe
+crystallization of the lunar magma ocean" and subsequent magma-
+tism and long-lived volcanism”. In the past two decades, substantial
+advances in secondary ion mass spectrometry have improved our
+knowledge of water in the lunar mantle, causing a shift from the once
+traditional ‘bone dry’ concept’ toa relatively ‘wet’ Moon”. Extensive
+studies of various lunar samples derived from the melting of lunar
+mantle have shown a heterogeneous distribution of water in the lunar
+interior with abundances ranging from about 1pg g‘to200 pg g!
+(refs. 9,15-19). However, most of these lunar water estimates derive
+from returned samples from the Procellarum KREEP Terrane on the
+nearside of the Moon (Fig. 1). The crust exposed at the surface of the
+Procellarum KREEP Terrane notably exhibits a higher thorium (Th)
+abundance than the other two main lunar geochemical provinces,
+the Feldspathic Highlands covering most of the Moon and the South
+Pole-Aitken (SPA) Basin, the oldest and largest impact basin of the
+Moon located on the lunar farside’.
+
+Both Thand water behave like incompatible elements in magmatic
+processes, preferring to stay in the melt rather than getting incorpo-
+rated in the solidifying phase, potentially suggesting that the lunar
+mantle in the Th-poor Feldspathic Highlands and the SPA Basin may
+have lower water content. This possibility, if true, could critically inform
+the spatiotemporal distribution of water in the mantle of the Moon, as
+well as the giant impact formation models* * and subsequent magmatic
+evolution histories of the Moon””°. However, little is known about the
+water abundance in the mantle beneath the Feldspathic Highlands and
+the SPA Basin. On 25 June 2024, Chang’e-6 (CE6), China’s lunar sample
+return mission landing within the SPA Basin, successfully returned
+the first lunar farside samples? *, providing the samples required to
+investigate the water abundance of the farside lunar mantle.
+
+Water in CE6 apatite and melt inclusions
+
+A total of 578 particles varying from 0.1-1.5 mm in size were sieved
+and hand-picked from one CE6 soil sample (CE6CO200YJFMOO1 of
+5g). Mare basalt fragments account for around 28% of the selected
+particles characterized by scanning electron microscopy and electron
+probe microanalysis (EPMA; Extended Data Table land Supplementary
+Table 1). The mare basalts, derived from the partial melting of lunar
+mantle rocks, are the main targets selected for this study. The dominant
+hydrous mineral in mare basalts—apatite and entrapped melt hosted by
+olivine and ilmenite—were carefully characterized using scanning elec-
+tron microscopy (Extended Data Fig. land Supplementary Figs. 1-3)
+for further in situ chemical and isotopic analysis of water.
+
+The studied CE6 mare basalt fragments display ophitic, subophitic,
+porphyritic and poikilitic textures, mainly composed of pyroxene, pla-
+gioclase, ilmenite and silica with minor olivine, mesostasis and sulfide
+and trace apatite (Supplementary Fig. 4), similar toa survey conducted
+witha large number of lithic clasts (Zhang, Q. W.L. etal., manuscript in
+preparation; Zhou, Q. et al., manuscript in preparation). Parallel studies
+conducted on the CE6 chronology (Zhang, Q. W.L. etal., manuscriptin
+preparation) and petrogenesis (Zhou, Q. et al., manuscript in prepara-
+tion) have shown that these low-Ti mare basalts probably derive from
+the same lava flow, or at least the same sequence of lava flows. There-
+fore, we sum up all the studied clasts to calculate the modal abundance
+of apatite (<0.07 vol%; Supplementary Table 2). Most melt inclusions
+hosted by olivine and ilmenite display post-entrapment crystalliza-
+tion of 31-52% (Extended Data Table 2). The chemical compositions
+of pyroxene and plagioclase in CE6 mare basalt fragments are similar
+to those from the nearside, such as those of Chang’e-5 (CE5; Extended
+Data Figs. 2 and 3). The apatite grains are F-rich, with compositions in
+the range of known mare basalts (Extended Data Fig. 4). Two CE6 mare
+
+iKey Laboratory of the Earth and Planetary Physics, Chinese Academy of Sciences, Beijing, China. College of Earth and Planetary Sciences, University of Chinese Academy of Sciences,
+Beijing, China. °State Key Laboratory for Mineral Deposits Research and Lunar and Planetary Science Institute, School of the Earth Sciences and Engineering, Nanjing University, Nanjing,
+China. ‘CAS Center for Excellence in Comparative Planetology, Hefei, China. “These authors contributed equally: Huicun He, Linxi Li. “e-mail: husen@mail.iggcas.ac.cn; hhui@nju.edu.cn;
+
+linyt@mail.iggcas.ac.cn
+
+Nature | www.nature.com | 1
+
+Article
+
+Farside
+
+Feldspathic Highlands
+
+Fig.1|Return sample missions with lunar water estimates and the thorium
+distribution of the Moon. The Apollo (prefix A), Luna (prefix L), and Chang’e-5
+(CES) missions collected samples in and around the Procellarum KREEP
+Terrane which exhibits notably higher thorium (Th) than the Feldspathic
+Highlands and the SPA Basin. The Chang’e-6 (CE6) mission returned the
+
+basalt fragments have MgO-rich olivine (Fo = 45-62 mol%) in which
+three melt inclusions were found (Extended Data Fig. 1, Supplementary
+Fig. land Supplementary Table 3). Even more melt inclusions were
+found in ilmenite (Supplementary Fig. 2). Olivine-hosted melt inclu-
+sions have notably higher MgO (3.76-16.8 wt%) than ilmenite-hosted
+melt inclusions (<0.3 wt% MgO and 9.9-12.8 wt% Al,O,; Extended Data
+Fig. 5 and Supplementary Table 3). Tens of apatite grains with sizes of
+5-30 pm and several melt inclusions hosted by olivine and ilmenite
+from 17 basalt fragments were also measured for their water abundance
+and hydrogen isotopic composition.
+
+The CE6 basaltic apatite grains have water abundances ranging from
+345+4 pg g' (20) to3,529 +30 pg g | (average 1,511 + 748 pg g1,1s.d.)
+with 8D (6D =1,000 * ([D/Hampiel/[D/Htandaral ~ 1), using Vienna stand-
+ard mean ocean water as the standard) values ranging from 657 + 72%o
+to 974 + 109% (average 826 + 94%o, 1s.d.; Fig. 2 and Extended Data
+Table 3). The ilmenite-hosted melt inclusions contain water contents of
+2143 pg g ‘to 238 +21 pg g (20), with a wide range of 8D values from
+—183 + 261%o to about 1,000%o (Fig. 2 and Extended Data Table 2). By
+contrast, the olivine-hosted melt inclusions have water abundances
+ranging from 28 + 8 pg g ‘to 46 + 2 pg g ‘with 6D values of -358 + 610%o
+to 100 + 474%o (20; Extended Data Table 2). All data were corrected for
+cosmic ray spallation using a cosmic ray exposure (CRE) age of 108 mil-
+lion years ago and those spots with H,O less than twice the instrument
+background were excluded (Methods).
+
+Water in parent melt and mantle source
+
+Two methods were adopted to estimate water abundance in the parent
+melt of the CE6 basalts. The first method is based on apatite, which
+is the dominant water-bearing phase in lunar magmatic samples”.
+
+2 | Nature | www.nature.com
+
+Nearside
+
+Feldspathic Highlands
+
+Water abundance (tig g™')
+
+first lunar samples from the lunar farside from the SPA Basin. The terrane
+boundaries are from ref. 5 and the Th base map is adapted from ref. 45. The sizes
+of the circles are scaled to the estimated maximum water abundance’ inthe
+mantle source beneath the sampling sites.
+
+The bulk rock of CE6 basalts is estimated to have a water abundance of
+1.1+ 0.5 pg g ‘based onan average water abundance of 1,511+ 748 pg g*
+(1s.d.; Extended Data Table 3) of apatite and a modal abundance of
+~0.07 vol% (Supplementary Table 2). By contrast, apatite grains in
+CE6 mare basalts show notably elevated 6D values (657 + 72%o to
+974 + 109%o; Extended Data Table 3) compared with the low 6D (aver-
+age at -96 + 230%p, 1s.d.; Extended Data Table 3) of olivine-hosted melt
+inclusions and the recommended value of -200 + 200% for the lunar
+mantle” This difference indicates a notable loss of water by degassing
+in the form of H, before the crystallization of apatite under a reduced
+oxygen fugacity environment”*>. This observation is consistent with
+the much lower hydrogen isotope compositions in mineral-hosted melt
+inclusions (Fig. 2). This feature is identical to that of high-Tiand low-Ti
+mare basalts collected from the nearside of the Moon (Fig. 2), suggest-
+ing that it resulted from a common degassing process incurred during
+mare volcanism. Thus, a degassing extent of 97.99-99.35% based on Ray-
+leigh fractionation (Methods) yields a water abundance of 55 + 25 pg g*
+to168 + 77 pg g'(1s.d.) for the parent melt of CE6 basalts, assuming an
+initial 5D value of about -200%» based on the analyses of D-poor and
+H,O-rich CE6 melt inclusions hosted by olivine and ilmenite (Methods).
+Meanwhile, based on apatite-melt hygrometry'”°”, we estimated the
+parent magma to have a water abundance of 76 + 41 pg g ‘(Methods
+and Supplementary Table 6). Thus, both calculations on apatite yield
+comparable results within uncertainties.
+
+The second method for estimating water in the parent melt uses
+the melt entrapped in minerals of CE6 basalts. Two types of mineral
+inclusions, hosted by olivine and ilmenite, were measured in this study
+(Fig. 2 and Extended Data Table 2). The analytical results for the melt
+inclusions depict an evolutionary pathway of the parent melt of the
+CE6 basalts, in which the entrapment of melts in olivine occurred ina
+
+1,500 5
+
+°°
+1,000 + *
+500 4
+iS
+g ;
+ia
+a
+2
+o4
+Melt inclusion
+@ CE6 OLMI
+Bi CEG Ilm-MI
+500 + MI in basalt
+MI in pyroclastic
+Apatite
+@ CE6 (LT)
+© LT basalt
+¢ © HT basalt
+-1,000 7 T T 1
+1 10 100 1,000 10,000
+
+Water abundance (1g g™')
+
+Fig. 2| Water abundance and 5D of melt inclusions and apatite from CE6
+mare basalt fragments. Olivine-hosted melt inclusions have notably lower
+water abundances than ilmenite-hosted melt inclusions and apatite, as well as
+mostly lower &D values. Most melt inclusions have a lunar mantle-like &D value
+(yellow band)°”*”**°. Three ilmenite-hosted melt inclusions have elevated 5D
+values that are unresolvable from those of apatite within analytical uncertainties.
+Melt inclusions from mare basalts (MI in basalt) are from refs. 9,23,42, high- and
+low-Ti mare basalts are referred to the datasets compiled by refs. 1,9. The CE6
+
+relatively earlier stage of magmatic processes than that of ilmenite, con-
+sistent with the crystallization sequence of other mare basalts”s (Fig. 3).
+Olivine is the first-crystallized phase in the CE6 basalt and thus its melt
+inclusions may preserve the initial hydrogen isotope composition of the
+CE6 parental melt. Therefore, olivine-hosted melt inclusions are used
+to estimate the water abundance for the parent melt, yielding a range
+of 15-22 pg g‘ after correction for post-entrapment crystallization
+(Extended Data Table 2). These two methods yield a water abundance
+of about 15-168 p1g g for the CE6 basalt parent magma. This estimate
+is comparable to some values from some nearside samples (Extended
+Data Fig. 6).
+
+The parent melt of CE6 mare basalts originated from the partial
+melting of a depleted mantle source, subsequently experienced
+fractional crystallization according to the study of its petrogenesis
+(Zhou, Q. et al., manuscript in preparation) and potential degassing
+during magmatic processes (Fig. 3). Early-formed melt inclusions
+hosted by olivine could be more reliable than the late-formed miner-
+als and melt (Fig. 3). Thus, olivine-hosted melt inclusions were used
+to calculate the water abundance in the lunar farside mantle. Both Ce
+and H,0 exhibit similar incompatibilities, whereas Ce is not a volatile
+species”, thus the resulting H,O/Ce ratio of the parent melt canserve as
+auseful index to estimate water abundance for the mantle source’> ”.
+We calculated a H,O/Ce ratio of 0.58-0.85 for the CE6 olivine-hosted
+melt inclusions using a bulk Ce abundance of 25.9 pg g! measured in
+Zhou, Q. et al. (manuscript in preparation). The mantle source of the
+CE6 mare basalt was estimated to have a water abundance of approxi-
+mately 1-1.5 pg g' (Fig. 4 and Supplementary Table 7), considering a
+Ce content of 1.728 pg g“ for the primitive lunar mantle”. This estimate
+
+datasets have been corrected for anominal CRE of 108 million years (Methods).
+The arrow represents the enrichment of water in the residual melt during
+crystallization of the parent melt. The dashed line is the degassing trend
+
+froma water abundance of 200 pg g ‘witha 6D value of -200%o. Note the
+horizontal axis is alog scale. The error bars are 2a. OI-MI, olivine-hosted melt
+inclusion; IIm-MI, ilmenite-hosted melt inclusion; LT, low-titanium; and
+
+HT, high-titanium.
+
+may represent an overestimate if considering the ultra-depleted nature
+for the mantle source of the CE6 mare basalt (Zhou, Q. et al., manuscript
+in preparation). The CE6 estimate represents the first result for the
+water abundance of the mantle from the farside of the Moon.
+
+Distribution of lunar mantle water
+Awater abundance of 1-1.5 pg g ‘estimated for the mantle source of CE6
+basalts plots among the lowest end of the ranges (about 1-200 pg g")
+reported from the nearside samples (Fig. 4), suggesting that the mantle
+source of CE6 mare basalt is drier than that of most nearside samples.
+A potential drier mantle in the farside of the Moon carries important
+implications for understanding the distribution of water in the interior
+of the Moon. This finding favours a heterogeneous distribution of water
+in the lunar mantle, consistent with the dichotomy distribution of Th
+concentration on the surface of the Moon’. If the whole farside mantle is
+similar to the mantle source of CE6 mare basalts and drier than the near-
+side counterpart, then the water abundance for the bulk silicate Moon
+may have been overestimated to some extent’. Therefore, a lower
+water content in the bulk silicate Moon is expected, yielding a result
+more in line with the giant impact formation model of the Moon®*.
+The dating ofa large number of CE6 basalt clasts indicates that 99%
+of them belong to the local basalt erupted at about 2.8 x 10° years ago
+(Zhang, Q. W.L. et al., manuscript in preparation). The spatiotemporal
+evolution of water in the lunar mantle indicates that the water abun-
+dances may exhibit a spatial hemispheric contrast rather than atempo-
+ral trend based on the formation age of the samples (Fig. 4). Ascenario
+to explain this lower water content is that the mantle source of CE6
+
+Nature | www.nature.com | 3
+
+Article
+
+Fig. 3| Evolutionary pathways of magmatic water in CE6 mare basalt. a, CE6
+mare basalt was derived from the partial melting of lunar mantle rocks. The
+melt aggregates at depth in networks to form the source magma and intrudes
+upwards into shallow depths. The ambient rocks are much colder than the hot
+melt, resulting in fractional crystallization of the source magma. In certain
+circumstances, the residual melt (parent magma of CE6) from the source
+magma flowed up to the lunar surface, forming the rocks of CE6 mare basalt.
+The water abundances and hydrogen isotopic compositions measured on melt
+inclusions and apatite from the CE6 mare basalt depict an evolutionary
+pathway for water in the parent melt. b, Rare MgO-rich olivine (Fo 45-62 atom%;
+Supplementary Table 3) in CE6 mare basalt should crystallize much earlier than
+the main constituent phases (pyroxene and plagioclase) in the crystallization
+processes of the parent melt, characterized by alow water abundance anda
+
+basalts was affected to some extent by the SPA giant impact event, which
+may have driven the flux of water and other incompatible elements
+(Th, K and H,0) enriched in the mantle of the Procellarum KREEP Ter-
+rane towards the lunar nearside and became simultaneously depleted
+in its hemispheric antipode in the SPA Basin***>. Another potential
+interpretation isa vertical distribution of water in the lunar mantle**”.
+The CE6 basalt originated from an extremely depleted mantle source,
+which may havea deeper depth of melting than most other lunar sam-
+ples (Zhou, Q. et al., manuscript in preparation). Lunar mantle could
+have relatively less water for earlier and deeper crystallized cumulates
+than later and shallower cumulates formed from the lunar magma
+ocean because of the gradual enrichment of incompatible elements
+in the residual melt**”.
+
+Origin of lunar mantle water
+
+The analyses of olivine- and ilmenite-hosted melt inclusions consist-
+ently point to a parent melt of the CE6 basalts that had a 6D value of
+—123 + 167%o (1s.d.; Methods). This value is indistinguishable from that
+(-200 + 200%o) derived from nearside samples’**° within analytical
+uncertainties, suggesting that the mantle of the Moon could havea
+relatively homogeneous hydrogen isotopic composition, which does
+not showa spatiotemporal variation. This uniform hydrogen isotopic
+composition for the mantle source from various types and ages of
+
+4 | Nature | www.nature.com
+
+Fractional
+crystallization
+
+tit
+
+legassing
+
+lunar-mantle-like 6D value (Fig. 2) inthe melt trapped in the olivine grains, as
+wellas a notably high MgO content of the melt (Extended Data Table 2 and
+Extended Data Fig. 5, Supplementary Table 3). c, Onset of ilmenite formationin
+low-Ti mare basalts occurred ata late crystallization stage of the parent melt”*
+accompanying enrichment of water in the residual melt followed by degassing
+of water when the ambient pressure is inadequate to trap the water dissolving
+inthe melt. Thus, ilmenite-hosted melt inclusions exhibit variability in both
+water concentration and 8D (Fig. 2). d, Apatite is one of the last-crystallized
+minerals in CE6 basalts, recording notable higher 8D values than olivine-hosted
+melt inclusions. Some residual melt from which apatite crystallized may have
+been trapped by late-crystallized ilmenite (Fig. 2). Ol, olivine; Pl, plagioclase;
+Px, pyroxene; IIm, ilmenite; and Ap, apatite.
+
+lunar samples in this study and previous works’?**° may have been
+inherited from the lunar magma ocean from which the mantle rocks
+crystallized. Furthermore, the hydrogen isotopic composition of the
+farside mantle of the Moon favours a chondritic origin for the indig-
+enous water of the Moon*”.
+
+The first water estimate retrieved from the lunar farside indicates
+that water abundance in the lunar mantle may exhibit a hemispheric
+dichotomy (Fig. 4), similar to the well-known overlying crustal asym-
+metry of the nearside and the farside of the Moon’. Given the limited
+sampling of the lunar farside, it is still uncertain whether the potential
+drier mantle documented here is widespread beneath the SPA Basin
+or the whole farside hemisphere. New sample return missions sched-
+uled by Artemis* and post-Chang’e programs“ aim to collect more
+samples from the farside of the Moon, thus potentially testing and
+further unravelling the extremely heterogeneous distribution of the
+abundance of water on the Moon.
+
+Online content
+
+Any methods, additional references, Nature Portfolio reporting summa-
+ries, source data, extended data, supplementary information, acknowl-
+edgements, peer review information; details of author contributions
+and competing interests; and statements of dataand code availability
+are available at https://doi.org/10.1038/s41586-025-08870-x.
+
+"o> 100.04
+D
+=
+2
+= )
+G
+€
+8 @
+§ 10.0 J
+2 o
+£ @
+z #
+@
+Q ®
+G
+a
+o Mare basalt
+iy @ Farside (CE6)
+& @ Nearside
+= Pyroclastic
+@ 74220
+0.4 T T T T T 1
+45 4.0 3.5 3.0 25 2.0 1.5
+
+Age (Ga)
+
+Fig. 4| Spatiotemporal variation of lunar mantle water abundance
+estimates. The water abundance in the mantle source of CE6 mare basalt
+
+is estimated to be 1-1.5 pg g", plotting within the lowest end of the ranges
+
+from nearside samples. It is thus apparent that the lunar mantle may exhibit
+ahemispheric dichotomy in terms of water contents. The mantle water
+abundances estimated from Apollo and CES lunar samples with definite
+(non-ejecta) geographic locations are plotted for comparison®™. All data
+
+are plotted as average values with the error bars representing the ranges
+
+((max - min)/2) of the estimates (Supplementary Table 7). The approximately
+2.8 Gaage of the CE6 mare basalt is provided in Zhang, Q. W. L. et al. (manuscript
+in preparation). Note the vertical axis is the log scale. Red (1.25 pg g”), light blue
+(7.5 pg g) and orange (70.3 pg g”) lines are the median H,O abundances for the
+mantle sources estimated on the melt inclusions from the farside CE6 mare
+basalt, all nearside mare basalts and the nearside pyroclastic glasses.
+
+1. McCubbin, F. M. et al. Endogenous lunar volatiles. Rev. Mineral. Geochem. 89, 729-786
+(2023).
+
+2. Zeng, X. et al. Landing site of the Chang’e-6 lunar farside sample return mission from the
+Apollo basin. Nat. Astron. 7, 188-1197 (2023).
+
+3. Yue, Z. et al. Geological context of the Chang‘e-6 landing area and implications for
+sample analysis. Innovation 5, 100663 (2024).
+
+4. Li, C. etal. Nature of the lunar far-side samples returned by the Chang'E-6 mission. Natl
+Sci. Rev. 11, nwae328 (2024).
+
+5. Jolliff, B.L., Gillis, J. ., Haskin, L. A., Korotev, R. L. & Wieczorek, M. A. Major lunar crustal
+terranes: Surface expressions and crust-mantle origins. J. Geophys. Res. Planets 105,
+4197-4216 (2000).
+
+6. _Canup, R. M. & Asphaug, E. Origin of the Moon in a giant impact near the end of the
+Earth's formation. Nature 412, 708-712 (2001).
+
+7. Hartmann, W.K. & Davis, D. R. Satellite-sized planetesimals and lunar origin. Icarus 24,
+504-515 (1975).
+
+8. Lock, S. J. etal. The Origin of the Moon Within a Terrestrial Synestia. J. Geophys. Res
+Planets 123, 910-951 (2018).
+
+9. Hu, S.etal. Adry lunar mantle reservoir for young mare basalts of Chang’e-5. Nature 600,
+49-53 (2021).
+
+10. Lin, ¥., Tronche, E. J,, Steenstra, E. S. & van Westrenen, W. Evidence for an early wet Moon
+from experimental crystallization of the lunar magma ocean. Nat. Geosci. 10, 1418 (2017).
+
+1. Lin, ¥,, Tronche, E. J,, Steenstra, E. S. & van Westrenen, W. Experimental constraints on the
+solidification of a nominally dry lunar magma ocean. Earth Planet. Sci. Lett. 471, 104-116
+(2017).
+
+12. Shearer, C. et al. Magmatic evolution II: a new view of post-differentiation magmatism.
+Rev. Mineral. Geochem. 89, 147-206 (2023).
+
+13. Taylor, S. R,, Pieters, C. M. & MacPherson, G. J. Earth-Moon system, planetary science, and
+lessons learned. Rev. Mineral. Geochem. 60, 657-704 (2006).
+
+14. Saal, A.E. etal. Volatile content of lunar volcanic glasses and the presence of water in the
+Moon's interior. Nature 454, 192-195 (2008).
+
+18. Boyce, J. W. et al. Lunar apatite with terrestrial volatile abundances. Nature 466, 466-469
+(2010).
+
+16. Greenwood, J.P. et al. Hydrogen isotope ratios in lunar rocks indicate delivery of
+cometary water to the Moon. Nat. Geosci. 4, 79-82 (2011).
+
+17. Hauri, E. H., Weinreich, T., Saal, A. E., Rutherford, M. C. & Van Orman, J. A. High pre-
+eruptive water contents preserved in lunar melt inclusions. Science 333, 213-215 (2011).
+
+18. Hui, H., Peslier, A.H., Zhang, Y. & Neal, C. R. Water in lunar anorthosites and evidence for a
+wet early Moon. Nat. Geosci. 6, 177-180 (2013).
+
+19. McCubbin, F. M. et al. Nominally hydrous magmatism on the Moon. Proc. Natl Acad. Sci.
+USA 107, 11223-11228 (2010).
+
+20. Gaffney, A. M. et al. Magmatic evolution |: initial differentiation of the Moon. Rev. Mineral.
+Geochem. 89, 103-145 (2023).
+
+21. McCubbin, FM. & Jones, R. H. Extraterrestrial apatite: planetary geochemistry to
+astrobiology. Elements 11, 183-188 (2015).
+
+22. Barnes, J. J. et al. An asteroidal origin for water in the Moon. Nat. Commun. 7, 11684
+(2016).
+
+23. Stephant, A. et al. The hydrogen isotopic composition of lunar melt inclusions: An
+interplay of complex magmatic and secondary processes. Geochim. Cosmochim. Acta
+284, 196-221 (2020).
+
+24. Tartése, R. & Anand, M. Late delivery of chondritic hydrogen into the lunar mantle:
+Insights from mare basalts. Earth Planet. Sci. Lett. 361, 480-486 (2013).
+
+25. Sharp, Z. D., McCubbin, F. M. & Shearer, C. K. A hydrogen-based oxidation mechanism
+relevant to planetary formation. Earth Planet. Sci. Lett. 380, 88-97 (2013).
+
+26. McCubbin, F. M., Lewis, J. A., Barnes, J. J., Elardo, S. M. & Boyce, J. W. The abundances of
+F, CL and H,0 in eucrites: Implications for the origin of volatile depletion in the asteroid 4
+Vesta. Geochim. Cosmochim. Acta 314, 270-293 (2021).
+
+27. McCubbin, F.M. et al. Experimental investigation of F, Cl, and OH partitioning between
+apatite and Fe-rich basaltic melt at 1.0-1.2GPa and 950-1000°C. Am. Mineral. 100,
+1790-1802 (2015).
+
+28. Li, L. etal. Petrogenesis of Chang’E-5 young mare low-Ti basalts. Meteorit. Planet. Sci. 58,
+1429-1448 (2023).
+
+29. Zhang, Y. X. HzO and other volatiles in the Moon, 50 years and on. ACS Earth Space Chem.
+4, 1480-1499 (2020).
+
+30. Chen, Y. et al. Water, fluorine, and sulfur concentrations in the lunar mantle. Earth Planet.
+Sci. Lett. 427, 37-46 (2015).
+
+31. Hauri, E. H., Saal, A. E., Rutherford, M. J. & Van Orman, J. A. Water in the Moon's interior:
+truth and consequences. Earth Planet. Sci. Lett. 409, 252-264 (2015).
+
+32. Ni, P., Zhang, Y. X., Chen, S. & Gagnon, J. A melt inclusion study on volatile abundances in
+the lunar mantle. Geochim. Cosmochim. Acta 249, 17-41 (2019).
+
+33. McCubbin, F. M. et al. Magmatic volatiles (H, C, N, F, S, Cl) in the lunar mantle, crust,
+and regolith: Abundances, distributions, processes, and reservoirs. Am. Mineral. 100,
+1668-1707 (2015).
+
+34, Jones, M. J. etal. A South Pole-Aitken impact origin of the lunar compositional asymmetry.
+Sci. Adv. 8, eabm8475 (2022).
+
+35. Zhang, N. et al. Lunar compositional asymmetry explained by mantle overturn following
+the South Pole-Aitken impact. Nat. Geosci. 15, 37-41 (2022).
+
+36. Anand, M., Tartése, R. & Barnes, J. J. Understanding the origin and evolution of water in
+the Moon through lunar sample studies. Philos. Trans. R. Soc. A Math. Phys. Eng. Sci. 372,
+20130254 (2014).
+
+37. Hauri, E. H. et al. Origin and evolution of water in the Moon's interior. Annu. Rev. Earth
+Planet. Sci. 45, 89-111 (2017).
+
+38. Borg, L. E. & Carlson, R. W. The evolving chronology of Moon formation. Annu. Rev. Earth
+Planet. Sci. 51, 25-52 (2023).
+
+39. Warren, P.H. The Magma ocean concept and lunar evolution. Annu. Rev. Earth Planet. Sci.
+18, 201-240 (1985).
+
+40. Barnes, J. J. et al. Early degassing of lunar urKREEP by crust-breaching impact(s). Earth
+Planet. Sci. Lett. 447, 84-94 (2016).
+
+41. Hui, H. et al. A heterogeneous lunar interior for hydrogen isotopes as revealed by the
+lunar highlands samples. Earth Planet. Sci. Lett. 473, 14-23 (2017).
+
+42. Saal, A. E., Hauri, E. H., Van Orman, J. A. & Rutherford, M. J. Hydrogen isotopes in lunar
+volcanic glasses and melt inclusions reveal a carbonaceous chondrite heritage. Science
+340, 1317-1320 (2013).
+
+43. Smith, M. etal. The Artemis Program: an overview of NASAS activities to return humans to
+the Moon. In Proc. 2020 IEEE Aerospace Conference 1-10 (IEEE, 2020).
+
+44. Xu,L.,Li,H., Pei, Z., Zou, Y. & Wang, C. A brief introduction to the International Lunar
+Research Station program and the Interstellar Express mission. Chin. J. Space Sci. 42,
+511-513 (2022).
+
+45. Lawrence, D. J. etal. High resolution measurements of absolute thorium abundances on
+the lunar surface. Geophys. Res. Lett. 26, 2681-2684 (1999).
+
+Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons Attribution-
+
+Samcencg NonCommercial-NoDerivatives 4.0 international License, which permits any
+
+non-commercial use, sharing, distribution and reproduction in any medium or
+
+format, as long as you give appropriate credit to the original author(s) and the source, provide
+allink to the Creative Commons licence, and indicate if you modified the licensed material.
+You do not have permission under this licence to share adapted material derived from this
+article or parts of it. The images or other third party material in this article are included in the
+article's Creative Commons licence, unless indicated otherwise in a credit line to the material.
+If materialis not included in the article’s Creative Commons licence and your intended use is
+not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://
+creativecommons.org/licenses/by-ne-nd/4.0/.
+
+© The Author(s) 2025,
+
+Nature | www.nature.com | 5
+
+Article
+
+Methods
+
+Sample preparation
+
+Five grams of scooped Chang’e-6 (CE6) lunar soil (CE6CO200YJFMOO1)
+allocated by the China National Space Administration (CNSA) were used
+inthis study. The allocated samples were sieved into two dividers inan
+ultraclean room at the Institute of Geology and Geophysics, Chinese
+Academy of Sciences (IGGCAS) in Beijing, China. One separate was
+>355 jum and the other was <355 pm. Eighty-eight particles >355 pm were
+selected and prepared into 7 Sn-Bi polished mounts following the pro-
+tocol in ref. 46. The mounts were labelled as CE6CO2, MGPO1-MGP07
+(Extended Data Table 1 and Supplementary Table 1). Another 490 parti-
+cles with grain sizes ranging from 100 pm to 350 um were hand-picked
+from the sieved soils. These particles were placed in a tunnel (depth
+about 300 pm, width about 400 pm and length about 1.8 mm) of silica
+glass cut by low-speed diamond saw (Supplementary Fig. 5). Then the
+tunnel was filled up with epoxy. These particles were finally prepared
+into 14 polished thick sections labelled as CE6CO2,WGPO1-WGP14
+(Extended Data Table 1 and Supplementary Table 1). The prepared
+sections were cleaned up using anhydrous ethanol before drying at
+50 °C ina baking oven. All the mounts were coated with carbon for
+petrographic observation, chemical analysis and isotopic analysis.
+Statistically, the particles used in this study consist of 163 mare basalt
+fragments (28%), 97 monomineralic fragments (17%), 50 agglutinates
+(9%), 101 breccias (18%), 52 highlands fragments (9%), 76 impact melt
+fragments (13%) and 39 glass beads and fragments (7%) (Extended Data
+Table 1). Representative petrography of these components in the CE6
+lunar soils is shown in Supplementary Fig. 6.
+
+Scanning electron microscopy
+
+Petrographic observations and elemental mapping were carried out
+using field emission scanning electron microscopes using the FEI Nova
+NanoSEM 450 and the Thermo Fisher Apreo instruments at IGGCAS,
+using electron beam currents of 2-3.2 nA and an acceleration voltage
+of 15 kV. Energy dispersive spectroscopy (EDS) X-ray maps were col-
+lected for each basaltic clast to locate P-bearing phases, identical to
+the protocol used in the study of CES lunar soils**”“*. The phosphates
+were then observed at higher magnification in back-scattered electron
+(BSE) images. The modal abundance of apatite from various CE6 basalt
+fragments was counted by the exposed surface areas (Supplementary
+Table 2). The apatite in the studied samples has a modal abundance of
+0.067 vol% calculated from 163 basalt fragments using Image) software
+(Supplementary Table 2 and Supplementary Fig. 7).
+
+Electron probe microanalysis
+
+The major and minor elemental abundances in phosphates, glassy
+melt inclusions and associated minerals (olivine, pyroxene, plagioclase
+and ilmenite) were measured using a JEOL JXA-8100 electron probe
+microanalyser at IGGCAS after the NanoSIMS measurements to avoid
+possible H loss due to bombardment by the electron beam”. For silicate,
+ilmenite and apatite analysis, the operating accelerating voltage was
+15 kVand the beam current was 20 nA. The standards used were albite
+for Naand Al, diopside for Si, Mg and Ca, magnetite for Fe, bustamite
+for Mn, sanidine for K, rutile for Ti, Cr,O, for Cr, NiO for Ni, apatite for
+P, tugtupite for Cl and synthetic fluorite for F. The F Ka X-rays were
+counted with a LDE1 crystal to avoid drift with time (ref. 50). F and Cl
+were measured first to minimize the loss of volatiles by electron beam
+irradiation. The counting time for F was 20 s. The detection limits (10)
+were 0.01 wt% for K,0, P, F,and Cl; 0.02 wt% for Cr,03, Al,0;,MnO, CaO,
+FeO, TiO, and NiO; 0.03 wt% for SiO, and Na,O. For analysis of melt inclu-
+sion glass, the accelerating voltage was 15 kV and the beam current was
+10 nA, witha beam size of 5 1m in diameter to obtain the composition
+of the glass within a melt inclusion. A natural obsidian glass was used
+as amonitor. The detection limits for MI were 0.02 wt% for K,O, CaO,
+FeO and NiO; 0.03 wt% for SiO,, MgO, Cr,03, Al,O3, MnO and TiO,; and
+
+0.04 wt% for Na,O. The EPMA data obtained for apatite, melt inclu-
+sions and the coexisting silicates are listed in Supplementary Table 3.
+
+In situ water abundance and hydrogen isotope analysis
+
+ACAMECA NanoSIMS SOL at IGGCAS was used to measure the hydrogen
+isotopes and water abundance of apatite and melt inclusions from
+the CE6 basaltic fragments. The samples were loaded in sample hold-
+ers together with the standards, and were baked overnight at about
+60 °C inthe airlock chamber. The holders were then stored in the Nano-
+SIMS vessel chamber to improve the vacuum quality and minimize the
+H background*!*, The vacuum pressure in the analysis chamber was
+2.1x10™ torr to 3.0 x 10” torr during analysis facilitated by a liquid
+nitrogen cold trap®. Each 15 um x 15 pmanalysis area was pre-sputtered
+for 2 min witha Cs‘ ion beam current of 5 nA to remove the surface coat-
+ing and potential contamination. A 4 um x 4 pm region of interest on
+targets was selected for analysis. The secondary anions'H ,’D’,C- and
+180” were simultaneously counted by electron multipliers from the
+central 3 jum x 3 pm areas using the electronic gate technique of Nano-
+SIMS (about 50% blanking). The ion beam current (Fco) was around
+0.5 nA for analysis with a beam size of about 500 nm in diameter. The
+charging effect on the surface of the samples was compensated by an
+electron gun during analysis. More details are provided in refs. 52,54.
+
+Aseries of apatite and glass standards were used for calibrating the
+water abundances and hydrogen isotopes of the samples: Durango
+apatite (H,O = 0.0478 wt% and 6D = -120 + 5%v) (refs. 16,55) and Kov-
+dor apatite (H,O = 0.98 + 0.07 wt% and &D = -66 + 21%v) (ref. 56), the
+SWIFT MORB glass (H,O = 0.258 wt% and 6D = -73 + 2%o), and two
+basaltic glasses, ALV-519-4-1(H,O = 0.17 wt%) (ref. 51) and ALV-1833-11
+(H,O = 1.2 wt%) (ref. 51) (Supplementary Table 4). The water content
+calibration lines established on apatite and glass standards were used
+for calibrating the samples (Extended Data Fig. 7). Instrument mass
+fractionation (IMF) on hydrogen isotopic composition are the same
+between apatite and silicate glass within analytical uncertainties
+(Extended Data Fig. 7). Instrumental mass fractionation on Hisotopic
+compositions of both apatite and melt inclusions were conducted
+using the Kovdor apatite standard and monitored by analysing both
+the Durango apatite and SWIFT MORB glass standards during the
+whole analytical session (Extended Data Fig. 7). Hydrogen isotopic
+compositions are given using the delta notation, 8D = ((D/H) sampie/
+(D/H)smow) ~ 1) x 1,000%o, where SMOW is the standard mean ocean
+water with a D/H ratio of 1.5576 x 10°* (ref. 57).
+
+The instrument H background was monitored by standards of San
+Carlos olivine®’ (H,O = 1.4 pg g") and a synthetic anhydrous quartz
+glass Suprasil 3001 (personal communication with Erik Hauri). The H
+background correction of ref. 59 was used, which follows the relation-
+ship: H/Oyg= (Heounts ~ Hog)/Ocounts ANd D/Hypeasurea = (Uf) * D/Harye +P
+D/H,,, wherefis the proportion of H emitted from the instrumental back-
+ground. Owing to the inadequate baking and storing time in the instru-
+ment, the first 2 days havea slightly higher instrument background at
+26-53 ug g' (D/Hyg was (1.40 + 0.25) x 10° to (1.13 + 0.41) x 10*and Hyg
+was 1546 + 266 counts per second (cps) to 786 + 81 cps (Supplementary
+Table 4). The instrument H,O background was about 10 pg g' (D/Hig
+was (1.19 + 0.26) x 10 to (1.14 + 0.49) x 10 and H,, was 374 + 170 cps
+to 311+ 37 cps) in the following days (Supplementary Table 4). After
+background subtraction, the water abundances of apatite and melt
+inclusions were quantified by the slope of the calibration line (Extended
+Data Fig. 7), which was determined by measuring apatite and glass
+standards.
+
+All data are reported with their 20 uncertainties that include repro-
+ducibility of D/H measurements on the reference materials, uncertainty
+of H,O background subtraction, internal precision on each analysis
+and uncertainty of corrections of spallation effects (Supplementary
+Table 5). The raw measured D/H ratios were corrected for the back-
+ground, followed by IMF and spallation in sequence (Supplementary
+Table 5).
+
+Correction of water abundances and D/H ratios for spallation
+effects
+
+The measured D/H ratios have been corrected for the potential effects
+of spallation by CRE, using a D production rate of 2.17 x 10°” mol D/g/
+Ma (ref. 60) for melt inclusions and 9.20 x 10° mol D/g/Ma (ref. 61) for
+apatite, where Ma signifies millions of years ago. The correction errors
+induced by D spallation are around 50% for &D and negligible for water
+content”. The CRE age for the CE6 lunar soils derives froma cosmogenic
+INe age of 146 + 27 Ma(7,,; Zhang, X. et al., manuscript in preparation),
+which was converted to an exposure age (7¢a_) of 108 + 20 Mausing an
+empirical relationship (73, = 1.35 x Tg) between 72, and T-,; based on
+the study of Apollo samples“. An uncertainty of 50% (20) in DandH
+production rates raised by the spallation process was combined to cal-
+culate its contribution to the 6D errors (ref. 42; Supplementary Table 5).
+
+Petrography of CE6 mare basalt
+
+Approximately 28% of the lithic clasts ina total of 578 fragments studied
+inthis work are mare basalt fragments (Supplementary Table 1), which
+display subophitic, poikilitic and porphyritic textures (Supplementary
+Fig. 4), similar to those in Zhang, Q. W. L. et al. (manuscript in prepa-
+ration) and Zhou, Q. et al. (manuscript in preparation). Lath-shaped
+plagioclase in the basalts exhibits sharp boundaries, whereas pyroxene
+is anhedral with compositional zonation in BSE images (Supplemen-
+tary Fig. 4). These basalt fragments are mainly composed of pyroxene,
+plagioclase and ilmenite with minor Si-K-rich mesostasis, fayalite and
+troilite, and trace apatite, merrillite, tranquillityite and baddeleyite
+(Supplementary Fig. 4). Olivine is very rare and absent in most CE6
+mare basalt except two basalt fragments (CE6CO2,WGPO9,G17 and
+CE6C02,WGP14,G3), as shown in this study and other parallel stud-
+ies (Zhang, Q. W.L. et al., manuscript in preparation; Zhou, Q. et al.,
+manuscript in preparation). These two olivine grains have several
+melt inclusions with diameters of about 5—SO pum (Extended Data
+Fig. land Supplementary Fig. 1). Melt inclusions have experienced
+post-entrapment crystallization (31-52%) (Extended Data Fig. 1,
+Extended Data Table 2 and Supplementary Fig. 1). IImenite intergrows
+with plagioclase but has a smaller size and irregular edge, occurring
+as laths partially enclosed by pyroxene (Supplementary Fig. 1). Nine
+melt inclusions in ilmenite were identified in 7 CE6 mare basalt frag-
+ments with diameters mostly less than 30 ppm (Supplementary Fig. 2).
+Ilmenite-hosted melt inclusions have experienced post-entrapment
+crystallization (O-31%) (Extended Data Table 2 and Supplementary
+Fig. 2). Phosphorus- and zirconium-bearing minerals mainly occur in
+the fine-grained interstitial areas. Several apatite grains are observable
+in the margins of plagioclase and pyroxene (Supplementary Fig. 3).
+Most apatite grains have euhedral shape and rare ones are lath-shaped
+(Supplementary Fig. 3). CE6 mare basalts have notably less apatite
+(0.067 vol%; Supplementary Table 2) than CES basalts (0.4 vol%) (ref. 9).
+Meanwhile, apatite grains in CE6 mare basalt fragments have smaller
+sizes (mostly <5 pm; Supplementary Fig. 3).
+
+Mineral chemistry of CE6 mare basalt
+
+Plagioclase from CE6 basalt clasts is relatively homogeneous with
+acomposition of Anz; > 9 sADs3-2910T 91-50 (Extended Data Fig. 3 and
+Supplementary Table 3). The pyroxene displays compositional zona-
+tion from Mg-rich cores (Enq) 1-56,1W0o3-38.1FS297-49,5) to Fe-rich rims
+(Eng 3-259 W0y, 6-473FS47.8-876) (Extended Data Fig. 2and Supplementary
+Table 3). IImenite shows no chemical difference between various basalt
+fragments, containing about 52.9 wt% TiO, and about 46.2 wt% FeO,
+with minor other elements (Supplementary Table 3). Most CE6 basalt
+fragments contain trace fayalite (Mg# <1). Two relatively large olivine
+grains having melt inclusions identified in this study are quite homo-
+geneous in chemistry with average Mg# of 49.3 + 2.7 and 59.1 + 2.2 (lo,
+n=5; Extended Data Fig. 3 and Supplementary Table 3). Interstitial
+mesostasis is SiO,-rich (65.2-76.9 wt%) and K,O-rich (2.40-7.65 wt%;
+
+Supplementary Table 3). Olivine- and ilmenite-hosted melt inclu-
+sions have 38.0-79.9 wt% SiO), 0.61-7.13 wt% TiO, 5.43-17.5 wt% Al,O3,
+0.68-15.6 wt% CaO and 1.44-33.1 wt% FeO (Extended Data Fig. 5 and
+Extended Data Table 3). Concentrations of MgO in olivine-hosted melt
+inclusions range from 3.76 wt% to 16.8 wt%, whereas those of melt inclu-
+sions inilmenite are less than 0.30 wt%. Melt inclusions in olivine have
+lower SiO, contents (38.0-60.6 wt%) compared with ilmenite-hosted
+ones (44.5-79.9 wt%), indicating an earlier entrapment for the former.
+Apatite grains in this study contain 2.54-4.08 wt% F and 0.09-0.43 wt%
+Cl (Supplementary Table 3), close to the fluorapatite end-member in
+the F-Cl-OH ternary diagram (Extended Data Fig. 4). The evaluated OH
+contents of apatite range from 0 wt% to 0.22 wt%, assuming the volatile
+site only contains F, Cl and OH. Apatite grains in CE6 mare basalt frag-
+ments are usually less than 5 ppm, rendering it unavoidable to sample
+some surrounding minerals during EPMA and yielding an EPMA total
+usually less than 98 wt% (Supplementary Table 3).
+
+Estimate of water abundance for the parent melt of CE6 mare
+basalt
+
+Melt inclusions. Melt inclusions are trapped melt in the minerals during
+crystallization of the parent melt. Three melt inclusions were identified
+in olivine from two CE6 mare basalt fragments (CE6CO2,WGP09,G17
+and CE6C02,WGP14,G3; Extended Data Table 2 and Supplementary
+Fig. 1). These olivine-hosted melt inclusions havea water abundance of
+28-46 pg ¢", slightly higher than theinstrument background, with large
+variation in 6D values (-358 + 610% to 100 + 474%o) after correction of
+spallation effects (Extended Data Table 2). The correction of spalla-
+tion can markedly affect 6D for those samples with water abundances
+<50 pg g" (ref. 42). The hydrogen isotopic compositions for analy-
+ses with H,O < 20 pg g' may not be reliable because of the extremely
+low measured D counts’. Thus, those spots with H,O < 20 pg g? (that
+is, two times the instrument background) are not discussed or used
+in deriving the water abundance for the parent magma and for the
+mantle source (Extended Data Table 2). An average 5D of -96 + 230%o
+(1s.d.) in olivine-hosted Mls is comparable to some early trapped melt
+hosted by ilmenite, which have water abundances of 153-184 pg g*
+and 8D values of -183%o to -140%o with an average value of -158 + 23%o
+(1s.d.; Fig. 2 and Extended Data Table 2). The low-8D nature of the
+melt inclusions hosted by olivine and by early-formed ilmenite are
+comparable to the mantle 6D value (-200 + 200%o) recommended
+in previous studies’?*°, indicating that these Mls plausibly repre-
+sent the parent melt in the terms of water abundance and hydrogen
+isotope signature. This prediction is also supported by the high MgO
+content in olivine-hosted melt inclusions compared with previous
+work232022,
+
+The host olivine grains of melt inclusions have forsterite content of
+45.0-61.6 atom% (Supplementary Table 3), indicative of early precipita-
+tion phases crystallized from the parent melt of the CE6 mare basalt.
+In comparison, CE6 mare basalt has a slightly lower bulk Tiabundance
+(4.2 wt%) (Zhou, Q. et al., manuscript in preparation) than that of CES
+(5.3 wt%) (ref. 63), which would result in the late precipitation of ilmen-
+ite from the parent melt as shown by modelling”’. A gap in water abun-
+dance between olivine- and ilmenite-hosted melt inclusions could be
+the result of the crystallization sequence (Fig. 2). It is also noted that
+some ilmenite-hosted melt inclusions have comparable values to apa-
+tite, suggesting a late entrapment probably accompanying the onset
+of apatite at a quite late crystallization stage. Therefore, we provide an
+illustration diagram depicting the potential evolutionary pathways of
+magmatic water for CE6 mare basalt (Fig. 3). Finally, the 6D-poor spots
+of olivine-hosted melt inclusions are regarded as a target for estimating
+the water abundance of the parent melt. We estimate a water abundance
+of 15-22 pg g ‘for the parent melt of the CE6 mare basalt based on the
+olivine-hosted melt inclusions (Extended Data Table 2). Excluding the
+notable high 6D ilmenite-hosted melt inclusions probably formed
+accompanying apatite in the late crystallization stages, we estimate the
+
+Article
+
+parent melt of the CE6 mare basalt as having a 6D value of -123 + 167%o
+(1s.d.) (Extended Data Table 2).
+
+Apatite. Apatite is the major OH-bearing phase in lunar igneous rocks'.
+Amodal abundance and an average water abundance of apatite were
+used to quantify water in bulk CE6 basalts. Statistically assessed
+using the surface areas of apatite grains in all basaltic clast, the modal
+abundance of apatite in CE6 basalts is found to be less than 0.07 vol%
+(Supplementary Table 2). The average water content and 6D value
+of the CE6 apatite measured by NanoSIMS 50L are 1,511 + 748 pg g!
+and 826 + 94%o (1s.d., n = 16), respectively (Extended Data Table 3).
+Hence, the water abundance of the bulk CE6 basalt is 1.1+ 0.5 pg g*
+(1s.d.). Apatite is a late-crystallizing mineral in mare basalts; its notably
+higher 6D values (826 + 94%o) than the low-6D (-200 + 200%o) nature of
+lunar mantle*??“° and low 6D of CE6 melt inclusions indicate strong
+degassing and loss of water in the form of H, (refs. 24,25). The hydro-
+gen isotope fractionation during volatile loss into a vacuum is given
+by a? = M,/M,, where M, and M, are the masses of the volatile phase
+isotopologues. The change of the isotopic composition of H during
+volatile loss by Rayleigh fractionation is given by R=R, xf», where
+R,and Rare the initial and final D/H ratios for a fraction fof remaining
+hydrogen. Degassing of H, (M, = 2 for H, and M, = 3 for HD) yields ana
+value of about 0.8165 (ref. 25). Degassing modelling indicates that the
+crystallization of apatite grains in CE6 mare basalt started at the time
+when 97.99-99.35% of initial water in the parent melt has been degassed.
+After degassing loss correction, the water abundance of the parent melt
+is about 55 + 25 pg g ‘to 168 +77 pg g ‘(1s.d.).
+
+In another viable approach’”°”, the authors have developed
+apatite-based melt hygrometry methodologies, to estimate parent
+magma water abundance using apatite. These methods are designed
+to estimate parent melt water abundances from apatite regardless of
+how much H-degassing has occurred after apatite crystallization. The
+measured F and H,O abundance in apatite from each fragment was used
+to derive the parental melt H,O, using a 0.07 vol% modal abundance of
+apatite (Supplementary Table 2). The results yield H,O abundance of
+59-99 pg g ‘for the parental magma (Supplementary Table 6), plotting
+within the approximately 55-168 pg grange of the other method pre-
+sented earlier. Considering the early entrapment of olivine-hosted melt
+inclusions”, these targets were used to estimate the water abundance
+for the mantle source.
+
+Data availability
+
+All geochemical data generated in this study are included in Extended
+Data Tables 1-3 and Supplementary Tables 1-7 and are available at
+Zenodo* (https://doi.org/10.5281/zenodo.14916067).
+
+46. Ji, J.etal. Improved Pb-Free Sn-Bi alloy mounting technique for ion probe U-Pb analyses
+of zircon. At. Spectrosc. 43, 207-213 (2022).
+
+47. Li, Q-L.etal. Two-billion-year-old volcanism on the Moon from Changée-5 basalts. Nature
+600, 54-58 (2021).
+
+48. Tian, H.C. et al. Non-KREEP origin for Chang’e-5 basalts in the Procellarum KREEP Terrane.
+Nature 600, 59-63 (2021).
+
+49. Barnes, J. J.etal. Accurate and precise measurements of the D/H ratio and hydroxyl
+content in lunar apatites using NanoSIMS. Chem. Geol. 337-338, 48-55 (2013).
+
+50. McCubbin, F.M. et al. Detection of structurally bound hydroxyl in fluorapatite from Apollo
+Mare basalt 15058,128 using TOF-SIMS. Am. Mineral. 95, 1141-1150 (2010).
+
+51. Hauri, E. etal. SIMS analysis of volatiles in silicate glasses: 1. Calibration, matrix effects
+and comparisons with FTIR. Chem. Geol. 183, 99-114 (2002).
+
+52. Hu, S. etal. Measurements of water content and D/H ratio in apatite and silicate glasses
+using a NanoSIMS 5OL. J. Anal. At. Spectrom. 30, 967-978 (2015).
+
+53. Li, R. Y. etal. High-spatial-resolution measurement of water content in Olivine using
+NanoSIMS SOL. At. Spectrosc. 43, 77-83 (2022).
+
+54. Hu, S. et al. NanoSIMS analyses of apatite and melt inclusions in the GRV 020090 Martian
+meteorite: Hydrogen isotope evidence for recent past underground hydrothermal
+activity on Mars. Geochim. Cosmochim. Acta 140, 321-333 (2014).
+
+55. Greenwood, J.P, Itoh, S., Sakamoto, N., Vicenzi, E. P. & Yurimoto, H. Hydrogen isotope
+evidence for loss of water from Mars through time. Geophys. Res. Lett. 35, L05203
+(2008).
+
+56. Nadeau, S. L., Epstein, S. & Stolper, E. Hydrogen and carbon abundances and isotopic
+ratios in apatite from alkaline intrusive complexes, with a focus on carbonatites.
+Geochim. Cosmochim. Acta 63, 1837-1851 (1999).
+
+57. Hoefs, J. Stable Isotope Geochemistry (Springer, 2009).
+
+58. Zhang, W.F. et al. Optimization of SIMS analytical parameters for water content
+measurement of olivine. Surf. Interface Anal. 52, 224-233 (2019).
+
+59. Tartése, R., Anand, M. & Franchi, I. A. H and Clisotope characteristics of indigenous and
+late hydrothermal fluids on the differentiated asteroidal parent body of Grave Nunataks
+06128. Geochim. Cosmochim. Acta 266, 529-543 (2019).
+
+60. Firi, E., Deloule, E. & Trappitsch, R. The production rate of cosmogenic deuterium at the
+Moon's surface. Earth Planet. Sci. Lett. 474, 76-82 (2017).
+
+61. Merlivat, L., Leiu, M., Neif, G. & Roth, E. Spallation deuterium in rock 70215. In Proc. Lunar
+Science Conference Vol. 1, 649-658 (Pergamon Press, 1976).
+
+62. Tartése, R. et al. Apatites in lunar KREEP basalts: The missing link to understanding the H
+isotope systematics of the Moon. Geology 42, 363-366 (2014).
+
+63. Wu, F--¥. et al. Lunar evolution in light of the Chang’e-5 returned samples. Annu. Rev. Earth
+Planet. Sci. 52, 159-194 (2024).
+
+64. Hu, S. Supplementary data tables to “Water abundance in the lunar farside mantle”.
+Zenodo https://doi.org/10.5281/zenodo.14916067 (2025).
+
+65. Ni, P., Zhang, Y. X. & Guan, Y. B. Volatile loss during homogenization of lunar melt
+inclusions. Earth Planet. Sci. Lett. 478, 214-224 (2017).
+
+66. Wetzel, D. T., Hauri, E. H., Saal, A. E. & Rutherford, M. J. Carbon content and degassing
+history of the lunar volcanic glasses. Nat. Geosci. 8, 755-758 (2015).
+
+Acknowledgements We thank F. M. McCubbin and another anonymous referee for their
+comments and suggestions for improving the quality of the paper; D. Chew for providing
+Durango and Kovdor apatite; E. Hauri for providing basaltic glass 519-4-1 and 1833-11 and
+anhydrous Suprasil 3001; R. Francis for providing SWIFT MORB glass; R. Mitchell, X.-H. Li
+
+and F-Y. Wu for their comments and editing; S. Gou for map drafting; Y. Chen and L. Jia for
+assistance with EPMA measurement; W. Yang, H. Tian and H. Ma for hand-picking the
+
+CE6 soil fragments; and L. Gu and X. Tang for assistance with scanning electron microscopy
+observation. This study was funded by the National Natural Science Foundation of China
+(42125303 and 42241104), the Strategic Priority Research Program of Chinese Academy of
+Sciences (XDB 41000000), the China National Postdoctoral Program for Innovative Talents
+(BX20240365), and the key research programme of the Institute of Geology and Geophysics,
+Chinese Academy of Sciences (IGGCAS-202401 and 202204). The CE6 samples were
+allocated by the China National Space Administration (CNSA).
+
+Author contributions S.H., Y.L. and H. Hiu designed this research. H. He., L.L., Y.G., L.G., Z.Z.,
+MQ.,DZ., R.L., H.L. and SH. prepared the sample and characterized the petrography and
+mineral chemistry of CE6 basalts. H. He, Y.G., L.L., R.L., J.H. and S.H. conducted the NanoSIMS
+measurements. S.H., Y.L., H. Hui, H. He, L.L. and Y.G. wrote the paper. All authors contributed to
+the preparation of the paper.
+
+Competing interests The authors declare no competing interests.
+
+Additional information
+
+Supplementary information The online version contains supplementary material available at
+https://doi.org/10.1038/s41586-025-08870-x.
+
+Correspondence and requests for materials should be addressed to Sen Hu, Hejiu Hui or
+Yangting Lin.
+
+Peer review information Nature thanks Francis McCubbin and the other, anonymous,
+reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are
+available.
+
+Reprints and permissions information is available at http://www.nature.com/reprints.
+
+CE6C02,WGP09,G17
+
+_—|
+Extended Data Fig. 1| Petrography of olivine-hosted melt inclusions ilmenite. The host olivine is MgO-rich with forsterite (Fo) content of 45.0-61.6
+identified in CE6 mare basalt fragments. Olivine is quite rare in CE6 mare atom% (Supplementary Data Table 3). The NanoSIMS analytical positions are
+basalt. Only two in total of 163 CE6 mare basalt fragments surveyed were found labeled in Supplementary Fig. 1. Ol, olivine; Px, pyroxene; PI, plagioclase; IIm,
+
+to contain olivine hosting melt inclusions. These melt inclusions exhibit ilmenite.
+post-entrapment crystallisation as indicated by the presence of pyroxene and
+
+Article
+
+CES basalt
+x
+
+En
+
+Extended Data Fig. 2| Pyroxene quadrilateral diagram of the CE6 mare
+basalt fragments. The CE6 mare basalt fragments (red) are plotted inthe same
+range of CES (gray field), with relative lower FeO contents”. All data are listed
+in Supplementary Data Table 3. Di, diopside; En, enstatite; Fs, ferrosilite;
+
+Hd, hedenbergite.
+
+40
+
+CE5 basalt
+
+Ab 69 100
+
+CE5 basalt
+
+40 100
+Mg#
+
+Extended Data Fig. 3 | Major-element compositions of plagioclase and
+olivine in CE6 mare basalt fragments. a, Ternary diagram of plagioclase.
+b, Histogram exhibiting variation of Mg number (Mg#, Mg/(Mg+Fe) atom%)
+of olivine. Or, orthoclase; Ab, albite; An, anorthite. All data are listed in
+Supplementary Data Table 3. CE6 data are in red. Data of CES mare basalt
+(gray) are shown for comparation®.
+
+Article
+
+cl
+
+Highlands
+“
+
+Mare basalt
+™M
+
+OH
+
+Extended Data Fig. 4| The ternary atomic plot of apatite from CE6 basalt
+clasts. Concentrations of Cl and F were measured using EPMA, and OH was
+calculated based on the stoichiometry of apatite. Fields for apatite
+compositions from mare basalts and highlands refer to previous work’. CE6
+data are in red and are listed in Supplementary Data Table 3.
+
+100 20
+a b
+80 154
+| © 6
+[o)
+= _ (e}
+= cot 9@ = 101 » 8° 6
+3} ©o 0 fo) Xe)
+7) @ eo) = (e)
+8 ao e [o) ° a
+ic)
+404 Look f) @ eo o G6 54 6
+ic [o}
+[o)
+20 Cr Cr Cr p a oe
+0) 5 10 15 20 ) 10 15 20
+MgO (wt%) MgO (wt%)
+40 2.0
+c d CES
+@ OMI
+@ ilm-Mi
+[o) Previous
+3046 154° © OFMI
+G ilm-Ml
+a)
+= 2
+Eo 3 Fe
+S 204 o10{ o
+fo) N
+= ey ee ° Z ee?
+[o)
+@ e g (o}
+10 oe @ 054° 5 °
+V3 os °° °° eo? @ o ee
+° ° ? 2° @
+0 0.0 2 eo 9°
+0) 5 10 15 20 0 5 10 15 20
+MgO (wt%) MgO (wt%)
+
+melt inclusions. Previous data from refs. 23,30,32 are plotted for comparation.
+OI-MI have notably higher MgO contents than IIm-MI, suggesting earlier
+entrapment for the former. All data are listed in Supplementary Data Table 3.
+
+Extended Data Fig. 5 | Major-element compositions of melt inclusions in CE6
+mare basalt fragments. Variations of SiO, (a), TiO, (b), Al,O; (c), and Na,O (d)
+contents with MgO contents in olivine- (OI-MI) and ilmenite-hosted (Ilm-MI)
+
+Article
+
+‘)
+
+1,000 4 9
+
+it yt
+
+o
+L
+
+Melt inclusion
+@ CE6 basalt
+
+© Nearside basalt
+© Pyroclastic
+Apatite
+
+® CE6 basalt
+
+® _Nearside basalt
+
+Water abundance in the parent melt (ug-g
+
+1 T T T T 7
+45 4.0 3.5 3.0 2.5 2.0 1.5
+Age (Ga)
+
+Extended Data Fig. 6| Parent melt water abundances of CE6 mare basalt
+compared with estimates from nearside samples. Very low-Ti pyroclastic
+glass 15427 from ref. 14; low-Ti mare basalt 12002, 12004, 12008, 12020, 12040,
+15016, 12039, 12064, 15555, and 15058 from ref. 23; high-Ti mare basalt Apollo
+10020, 10044, 74235, and 75055 from refs. 23,30,32; high-Ti pyroclastic melt
+inclusions in 74220 from refs. 17,30,32,42,65,66; high-Al basalt 14072 and 14053
+from refs. 15,23. The error bars represent the ranges of the parent melt water
+abundances estimated from lunar samples in the literature. The red dashed line
+isareference at 18.5 1g. for comparison.
+
+a b
+1.2
+1833-11
+0.9
+3
+2
+ley 0.6
+x=
+San Carlos Olivine
+& Suprasil 3001
+0.3
+519-4-1
+@ Apatite standard
+@ Basaltic glass standard
+0.0
+0 10 20 30 40
+ta 8Oo
+(HT°O ly
+
+Extended Data Fig. 7 | Water content calibration line and reproducibility
+
+of hydrogen isotope analysis established on apatite and silicate glass
+standards. a, A water calibration curve was established using the following
+standards: two apatite (Kovdor and Durango), three basaltic glasses (ALV-
+1833-11, ALV-519-4-1, and SWIFT MORB glass), and two anhydrous background
+(San Carlos olivine and Suprasil 3001). The datasets are listed in Supplementary
+Data Table 4. The analytical uncertainties are 0.42 % and 0.54 % (1o) for apatite
+and glasses, respectively. b, Reproducibility of the hydrogen isotope analysis
+of the standards and the CE6 apatite and melt inclusions over the analytical
+
+1,000 rr a ry
+&
+800 o Py ¢
+®
+* Standards
+600 4 O 1833-11
+w@) O Kovdor
+~ > swirt
+g © Durango
+= 400 V 519-41
+3 cE6
+fa ® Apatite
+2 200 @ om
+e| 2 imi
+0
+-200
+20 = 54%o0
+-400
+0 50 100 150
+#Sequence
+
+session. The reproducibility of SD analysis throughout the whole analytical
+sessions was +54 %po (20), estimated on the Kovdor apatite standard. The
+average 6D values measured for the SWIFT MORB glass and Durango apatite are
+-98 + 70 %o and -97 + 100 %o, respectively, consistent with their recommended
+values (-73%o and -120%o)'**° within analytical errors. The average 6D values
+measured for the basaltic glass standards AVL-1833-11 and ALV-519-4-1are
+
+-101 + 60 %o and -94 + 58 %o, consistent with previous measured values of
+
+-101 + 86 %o and -132 + 158 %o, in ref. 9. Data are listed in Extended Data Tables 2,3
+and Supplementary Data Tables 4, 5.
+
+Article
+
+Extended Data Table 1| Mount information summary of 21 mounts in this study
+
+#Seq Mounti# Grain size Agglutinate Basalt Breccia. Glass fragment Highlands Impact melt Monomineral Sum
+1 CE6CO2,MGPO1 —>355ym 2 1 2 2 1 8
+2 CE6CO2,MGP02 —>355ym 3 4 1 2 10
+3 CE6CO2,MGP03 _>355ym 4 4 3 "4
+4 CE6CO2,MGP04 —_>355ym 1 3 2 6
+5 CE6CO2,MGP05 —>355ym 1 2 10 1 2 1 1 18
+6 CE6CO2,MGP06 —>355ym 3 6 3 2 6 20
+7 CE6CO2,MGP07 —>355ym 2 5 7 1 15
+8 CE6CO2,WGPO1 — <355um 5 1 5 2 9 22
+9 CE6CO2,WGP02 — <355um 4 1 4 1 4 1 3 18
+10 CE6CO2,WGPO3 — <355um 3 4 2 2 1 4 1 17
+4 CE6C02,WGP04 = <355ym 1 9 3 3 6 22
+12 CE6CO2,WGP0S — <355ym 4 8 3 2 7 2 26
+13 CE6CO2,WGP06 — <355um 2 9 2 2 2 2 5 24
+14 CE6C02,WGPO7 —-<355um 3 "1 7 1 2 1 25
+15 CE6CO2,WGP08 = —<355ym 2 "1 3 1 3 7 27
+16 CE6CO2,WGP09 —<355um 1 21 "1 5 6 3 18 65
+17 CE6CO2,WGP10 — <355um 6 18 9 5 12 5 60
+18 CE6CO2,WGP11 — <355um 6 12 5 4 12 9 14 62
+19 CE6CO2,WGP12 — <355um 20 9 9 8 14 60
+20 CE6CO2,WGP13 — <355um 3 6 9 1 6 6 34
+21 CE6CO2,WGP14—_<355um 4 14 8 1 4 31
+‘sum 50 164 101 39 52 75 97 578
+Fraction (%) 8.7 28.4 17.5 67 9.0 13.0 16.8
+
+fis fraction given as a percentage.
+
+Extended Data Table 2 | Water abundance and hydrogen isotopes of melt inclusions in CE6 basalts
+
+Sample information
+
+Filename Mount# Grain# H,0
+yg-g"
+Olivine-hosted MI
+HD0829-WGP09-G17_4 CE6CO2,WGP09 G17 14
+HD0829-WGP09-G17_5 CE6CO2,WGP09 G17 14
+HD0829-WGP09-G17_7 CE6C02,WGPO09 G17 28
+HD0829-WGP09-G17_9 CE6CO2,WGP09 G17 32
+HD0831-WGP14-G03_2 CE6C02,WGP14 G03 12
+HD0831-WGP14-G03_3  CE6C02,WGP14 G03 31
+HD0831-WGP14-G03_4 CE6C02,WGP14 G03 46
+avg.
+18D
+
+lmenite-hosted MI
+
+HD0829-WGP10-G53_3 CE6C02,WGP10 G53 184
+HD0830-WGP12-G57_2 CE6C02,WGP12 G57 154
+HD0830-MGP02-G09_3 CE6C02,MGP02 G09 159
+Early trapped melt
+avg.
+18D
+8D for mantle
+18D
+HD0828-WGP06-G20_1 CE6C02,WGP06 G20 21
+HD0828-WGP06-G20_2 CE6C02,WGP06 G20 23
+HD0829-WGP10-G53_2 CE6C02,WGP10 G53 238
+HD0829-WGP10-G17_2 CE6C02,WGP10 G17 233
+HD0830-WGP12-G32_1 CE6C02,WGP12 G32 141
+HD0830-WGP08-G12_2 CE6C02,WGP08 G12 23
+HD0830-WGP08-G12_3 CE6C02,WGP08 G12 17
+HD0830-WGP08-G12_4 CE6C02,WGP08 G12 8
+HD0830-WGP08-G12_5 CE6C02,WGP08 G12 4
+
+Late trapped melt
+
+20
+ug-g"!
+
+Coan
+
+8D
+%o
+
+1099
+2252
+560
+53
+139
+526
+65
+
+2352
+1063
+773
+970
+1099
+1891
+1576
+4121
+1354
+
+Background and IMF corrected value
+
+20
+%o
+
+535
+501
+448
+570
+968
+414
+395
+
+515
+257
+268
+
+469
+622
+252
+373
+202
+487
+540
+560
+699
+
+CRE-corrected value
+
+HO 20
+ugg" ugg"
+28 8
+32 9
+30 2
+46 2
+
+34
+8
+184 3
+153 4
+159 4
+165
+16
+21 3
+22 3
+238 21
+232 5
+141 2
+23 2
+
+8D
+%o
+
+93
+-358
+
+100
+-221
+
+230
+
+-140
+-183
+-151
+
+-158
+23
+-123
+167
+
+1762
+488
+719
+915
+1008
+1344
+
+20
+ho
+
+515
+610
+
+474
+423
+
+517
+261
+271
+
+588
+700
+254
+374
+208
+584
+
+PEC
+
+%
+
+31
+43
+
+52
+52
+
+31
+
+29
+29
+
+28
+
+H,0 20
+gg" ugg"
+19 5
+18 5
+15 1
+22 1
+
+19
+3
+184 3
+153 4
+110 3
+149
+37
+15 2
+16 2
+238 21
+167 3
+141 2
+23 2
+
+PEC-corrected value
+
+38D
+%o
+
+93
+-358
+
+100
+-221
+
+230
+
+-140
+-183
+-151
+
+-158
+23
+
+1762
+488
+719
+915
+1008
+1344
+
+20
+
+515
+610
+
+474
+423
+
+517
+261
+271
+
+588
+700
+254
+374
+208
+584
+
+A cosmic ray exposure (CRE) age of 108 Ma was used for correction of spallation effects (Methods). The spots with water abundance less than 20Ng.g"" are not listed 8D values
+
+n. No post-entrapment crystallisation (PEC) correction.
+
+Article
+
+Extended Data Table 3 | Water abundance and hydrogen isotopes of apatite grains in CE6 basalts
+
+Sample information Background and IMF corrected value CRE-corrected value
+
+Filename Mount# Grain# H,0 20 8D 20 H,0 20 8D 20
+ugg’ ugg" %e ‘0 ugg! pg: % me
+HD0826-WGP05-G06_2 CE6CO2,WGP05 G06. 2055 24720270 2055 24 «71870
+HD0826-WGP05-G06_3 CE6CO2,WGP05 G06. 2032 «24 65972 2031 24 «657-72
+HD0826-WGP05-G06_4 CE6CO2,WGP05 G06. 18642370574 1864 23 702 «74
+HD0826-WGP05-G20_1 CE6CO2,WGP05 G20 1541 2178678 1840 21 782 «73
+HD0828-WGP06-G20_6 CE6CO2,WGP06 620 977 10S «956s 977 10 951 87
+HD0828-WGP06-G19_1 CE6CO2,WGP06 G19. 1403 14-2 72,—S«80 1403 14 «768-80
+HD0828-WGP06-G19_2 CE6CO2,WGP06 G19. 1320 14 896.78 1319 14 «89278
+HD0828-WGP06-G19_3 CE6CO2,WGP06 G19. 1030 15 «89084 1030 15 885 84
+HD0828-WGP06-G19_6 CE6CO2,WGP06 G19. 982 14S 88487 981 14 87987
+HD0830-WGP12-G56_1 CE6CO2,WGP12 G56. 3630 30 © 807-5 3529 30 806 65
+HD0830-WGP09-G28_1 CE6CO2,WGP09 628. 506 7984109 506 7 974 109
+HD0831-WGP14-G06_2 CE6CO2,WGP14 G06. 34602«~«<“ TT 1283 345 4 «963123
+HD0831-MGP06-G0S_1 CE6CO2,MGP06 G05 1662 14285475; 1662 1485175
+HD0831-MGP06-G0S_2 CE6CO2,MGP06 G05 2087 «18 «= 76972 2087 18 «767 «72
+HD0831-MGP06-G18_1 CE6CO2.MGP06 G18 1278 «= 12,—~=t—«834séBD 1277 1283082
+HD0831-MGP06-G18_2 CE6CO2.MGP06 G18 1577 43,—=—s 794199 1877 43 791 199
+
+avg. 1512 830 1511 826
+
+18D. 748 97 748 94
+
+A cosmic ray exposure (CRE) age of 108 Ma was used for correction of spallation effects (Methods).

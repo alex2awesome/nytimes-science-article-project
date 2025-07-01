@@ -1,0 +1,1816 @@
+Current Biology
+
+Web transmission properties vary with a spider’s
+past and current noise exposure
+
+Graphical abstract Authors
+
+Rural/loud webs retained more energy in Brandi J. Pessman, Eileen A. Hebets
+
+longer distance vibration transmission
+
+Urban/loud webs lost more energy in
+short distance vibration transmission
+
+Correspondence
+
+bjpessman@gmail.com (B.J.P.),
+ehebets2@unl.edu (E.A.H.)
+
+In brief
+
+Pessman and Hebets show that the
+funnel-weaving spider’s past and current
+exposure to environmental noise shapes
+web vibration transmission. Under loud
+noise, rural webs retained energy in
+longer-range vibrations, whereas urban
+webs attenuated short-range vibrations.
+This flexibility may enhance information
+reception in dynamic, noisy
+environments.
+
+=)
+
+o
+
+nm
+is}
+
+&
+is}
+&
+ts}
+
+ao
+<d
+D
+Sa
+Qc
+£2
+03
+BZ
+B= -30
+28
+Bs
+OE
+me}
+wo
+=
+
+Energy Loss through
+Web Transmission (A dB)
+wo
+oOo
+
+a
+fo)
+a
+fo)
+
+4 ;
+Q 250 500 750 1000
+Frequency (Hz)
+
+' '
+0 250 500 750 1000
+Frequency (Hz)
+
+Highlights
+e Rural/urban field-collected spiders built webs under quiet/
+loud vibratory playback
+
+e Urban/loud webs lost energy in short-range vibrations,
+damping persistent noise
+
+e Rural/loud webs retained energy in biologically relevant
+longer-range vibrations
+
+e Variation in web transmission may enhance sensory
+reception amid varying noise
+
+Pessman & Hebets, 2025, Current Biology 35, 1706-1715
+® April 21, 2025 © 2025 Elsevier Inc. All rights are reserved, including those for
+eazy text and data mining, Al training, and similar technologies.
+
+https://doi.org/10.1016/j.cub.2025.02.041 @e Cell?ress
+
+© Cellress Current Biology
+
+Web transmission properties vary with
+a spider’s past and current noise exposure
+
+Brandi J. Pessman’:?:+* and Eileen A. Hebets'>*
+
+1§chool of Biological Sciences, University of Nebraska, Lincoln, NE 68588, USA
+2X (formerly Twitter): @BrandiPessman
+
+8X (formerly Twitter): @hebets_lab
+
+4Lead contact
+
+*Correspondence: bjpessman@gmail.com (B.J.P.), ehebets2@unl.edu (E.A.H.)
+https://doi.org/10.1016/j.cub.2025.02.041
+
+SUMMARY
+
+Animals rely on the reception of accurate information for survival and reproduction. Environmental noise,
+especially from human activity, challenges information acquisition by disturbing sensory channels and mask-
+ing relevant cues. Investigations into how animals cope with noise have been heavily biased toward plasticity
+in information production, often overlooking flexibility in information reception. Studying internal sensory
+structures is challenging, but web-building spiders offer a unique opportunity to investigate external sensory
+surfaces—their webs. Here, we explored the potential of the funnel-weaving spider, Agelenopsis pennsylvan-
+ica, to influence information reception amid vibratory noise. During web construction, we exposed spiders to
+a 2 X 2 fully-crossed design: rural/urban collection sites and quiet/loud noise treatments, reflecting natural
+vibratory noise variation. On the resulting webs, we compared frequency-dependent energy loss between
+site/treatment groups as vibrations transmitted short and longer distances from an artificial stimulus to
+the spider’s hunting position. Under loud vibratory noise, rural webs retained more energy in longer-distance
+vibratory stimuli across a narrow frequency range (350-600 Hz) than all other groups, potentially to improve
+the reception of relevant prey and mate cues. Conversely, urban/loud webs lost more energy in short-dis-
+tance vibrations across a broader frequency range (300-1,000 Hz) than all other groups, likely to prevent sen-
+sory overload from constant, high-amplitude urban noise. Variable web transmission was related to spiders’
+prior (ancestral and/or developmental) and current noise exposure. Our study highlights the capacity of an-
+imals to influence information reception amid environmental noise and emphasizes the importance of a ho-
+listic approach to studying information flow in dynamic environments.
+
+INTRODUCTION animals adopt to mitigate the detrimental effects of environ-
+mental noise.
+
+Compared with predator-prey interactions, our understanding
+of animal communication in noise has a stronger conceptual
+framework, so we draw on this literature for examples. When
+noise drowns out signals and/or overlaps spectrally, animals
+may adjust signal timing or structure to improve the signal-to-
+
+The accurate reception of information— whether about the pres-
+ence of predators, prey, potential mates, or the environment—is
+critical for animals to make informed behavioral decisions." It is
+not surprising, then, that numerous studies across disparate
+taxa provide a strong foundation of understanding (both ultimate
+
+and proximate) regarding the transmission and reception of in-
+formation.” “ Whether in the context of communication? or pred-
+ator-prey interactions,°’ information serves to reduce a re-
+ceiver’s uncertainty about the source’s identity, condition,
+location, or intention, among others. Yet, environmental noise
+can interfere with effective information flow by distorting or
+masking signals or cues.*°
+
+Although natural noise has shaped animal behavior
+throughout evolutionary history,'° surges in human activity
+since the Industrial Revolution have introduced novel noise. In
+addition to being more intense and persistent than natural sour-
+ces,'' anthropogenic sources (e.g., traffic, industrial equip-
+ment, etc.) overlap spectrally with biologically relevant fre-
+quencies.® The emergence of these novel noise landscapes
+has incited a recent push to investigate the diverse strategies
+
+1706 Current Biology 35, 1706-1715, April 21, 2025 © 2025 Elsevier Inc. £
+
+noise ratio. For instance, some birds delay their dawn chorus un-
+til there is a reduction in aircraft noise'* or insect choruses, '°
+treehoppers pause signaling during periods of high wind noise, '“
+brown tree frogs increase the pitch of their songs to avoid over-
+lapping with traffic noise frequencies,'° and Australian lizards
+switch from continuous to intermittent tail flicking in windy con-
+ditions to improve signal visibility against a noisy visual back-
+ground.'° These examples emphasize the importance of identi-
+fying biologically relevant noise frequencies and_ highlight
+ways in which animals can preserve signal efficacy in noisy
+environments. '”
+
+Despite research focusing on how signalers enhance the pro-
+duction and transmission of information amid noise, the funda-
+mental question of how animals detect and discriminate informa-
+tion remains understudied.°"'® This research gap means that we
+
+All rights are reserved, including those for text and data mining, Al training, and similar technologies.
+
+Current Biology
+
+D
+
+z 900 700 800 600 300 200 1000 500 400 100
+
+© CelPress
+
+Figure 1. Collection and experimental setup
+of spider responses to pure tone frequencies
+(A and B) (A) Geographic locations where (B)
+Agelenopsis pennsylvanica spiders were collected
+in 2022 and 2023. Rural sites (R1 and R2) were
+private properties outside of Lincoln’s city limits
+(dashed white line), and urban sites were the Uni-
+versity of Nebraska-Lincoln’s city campus (U1) and
+a private property (U2). Rural, urban, and other
+areas are based on the planted/cultivated, devel-
+oped, and all other classes, respectively, from the
+2019 National Land Cover Database (https://www.
+mric.gov/data/legends/national-land-cover-data
+base-class-legend-and-description). (B) Agele-
+nopsis pennsylvanica construct funnel-shaped
+webs that consist of a sheet where vibratory in-
+formation is produced and a retreat (the narrow,
+tubular part of the web) where the spider sits and
+awaits incoming information. The left photo is
+
+He
+@
+3
+2
+2
+i
+<=
+
+Time
+
+15-seconds pure tone
+
+adapted from Pessman et al.2°
+
+(C) To test spiders’ responses to pure tone fre-
+quencies, we rested a linear resonant actuator
+(LRA) on the surface of each web built under
+ambient lab conditions. The LRA was connected to
+a laptop through a MixPre-6 interface.
+
+60-seconds silence
+
+(D) We played 15-s pure tone vibrations from 100 to 1,000 Hz in 100-Hz increments, with 60s of silence between each stimulus. We had 10 files, each with a different
+random order of frequencies and unique first frequency, which we randomly assigned to the spiders. We observed the spiders during each tone for attack behavior
+
+(defined as making contact with the LRA).
+
+know little about the putative flexibility of animal sensory sys-
+tems'° and likely stems from the challenges of studying sensory
+systems in naturally behaving animals.2° Nonetheless, identi-
+fying how noise impacts the reception of information and how
+animals might overcome it is crucial to understanding the full
+impact of anthropogenic noise on animal interactions and
+survival.
+
+This study explores the potential for animals to influence their
+reception of relevant information in the presence of noise. To do
+this, we focus on spiders and their webs—an external structure
+that functions as an extension of the spider’s internal sensory
+processing. With over 100 million years of evolution,”' spider
+webs are highly specialized sensory devices whose vibration
+transmission enables these architects to detect and capture
+prey, identify and assess mates, and sense and evade preda-
+tors.°?-°* Despite proposed hypotheses that spiders can manip-
+ulate how vibrations propagate across their webs by adjusting
+silk properties, web geometry, and active tensioning,°° webs
+have never been tested for their propensity to variably regulate
+vibration transmission. Here, we explore this capacity with
+respect to environmental vibratory noise.
+
+The funnel-weaving spider (or grass spider), Agelenopsis
+pennsylvanica,*° constructs funnel-shaped webs (Figure 1B)
+that lack sticky silk,°’ leaving spiders to rely on vibratory cues
+(e.g., frequency, attenuation, and direction) and their own speed
+to detect, locate, assess, and capture prey before escape.**
+Vibratory information (from prey, predators, mates, etc.) is intro-
+duced onto the web sheet and travels across its surface to the
+narrow, tubular part of the web funnel (hereafter, the retreat),
+where the spider resides and monitors the web for vibratory in-
+formation (Figure 1B). These spiders are found across urban-ru-
+ral gradients,*°-° likely across the genus’ North American range.
+Urban areas, where these spiders are especially abundant,”°
+
+exhibit daily vibratory noise levels that can reach up to 22 dB
+higher than rural areas.”° The frequency bandwidth of this envi-
+ronmental noise also overlaps with biologically relevant fre-
+quency ranges (<1 kHz),”° and the webs of A. pennsylvanica
+are inextricably connected with surfaces (e.g., bushes, trees,
+grass, rocks, and buildings) that propagate vibrations from
+noise-producing sources, such as traffic and harvesting equip-
+ment. Consequently, vibratory noise likely interferes with the
+ability of A. pennsylvanica to acquire critical vibratory information
+from their webs.°°
+
+Prior research documenting biologically relevant environ-
+mental noise for A. pennsylvanica®® led us to propose the
+following questions. (1) What range of frequencies within known
+environmental noise is relevant to A. pennsylvanica foraging? (2)
+Do vibrations travel differently across webs built by rural and ur-
+ban spiders under different vibratory noise treatments? If vibra-
+tory noise disrupts the accurate reception of vibratory informa-
+tion, then spiders may influence how information travels across
+the web to mitigate the effects of noise. This investigation of a
+spider’s web as an external sensory structure represents a
+gateway to assessing the internal mechanisms of information
+reception and its flexibility in environmental noise.
+
+RESULTS
+
+Spiders’ responses to pure tone frequencies
+
+To determine what range of frequencies within known environ-
+mental noise are relevant to A. pennsylvanica foraging, we as-
+sessed attack rates of rural and urban spiders to artificial fre-
+quency stimuli that overlap with field-recorded vibratory noise
+(<1 kHz). Under ambient laboratory conditions, we rested a linear
+resonant actuator (LRA) on webs built by spiders collected from
+rural (n = 95) and urban (n = 94) environments and provided pure
+
+Current Biology 35, 1706-1715, April 21, 2025 1707
+
+
+©@ CelPress
+
+® Rural ® Urban
+
+nd
+a
+
+o
+BR
+
+°
+a)
+
+S
+ip
+
+°
+a
+
+Proportion of spiders that attacked
+
+9
+oS
+fo)
+
+200 400 600
+
+Frequency (Hz)
+
+800 1000
+
+Figure 2. Results from spider responses to pure tone frequencies
+We tested the proportion of spiders that attacked within the frequency range
+of field-recorded vibratory noise (<1 kHz). We used a binomial generalized
+additive model to test variation in the probability of rural and urban
+A. pennsylvanica attacking pure tone frequencies from 100 to 1,000 Hz in
+100-Hz increments. The points and error ribbon represents the proportion of
+spiders that attacked at each frequency and the 95% confidence interval from
+the model. Some spiders had prior playback experience (see Table Si), but
+this was dropped from the model as it did not significantly affect model fit.
+Rural and urban spiders attacked all frequencies with approximately equal
+probability. When we controlled for habitation by testing only responses to the
+first frequency, we found similar results (see Figure S1).
+
+tone vibrations between 100 and 1,000 Hz in 100-Hz increments
+and in random order, ensuring that all frequencies vibrated at the
+same amplitude (Figures 1C and 1D). We observed whether spi-
+ders (not fed within the 24 h before trial) attacked the LRA during
+each 15-s tone, separated by 60 s of silence. For the analysis, we
+only included spiders that attacked at least one of the ten fre-
+quencies (rural = 58 out of 95, urban = 63 out of 94). Future
+research exploring potential differences in sensory capabilities,
+motivation, or boldness (among others) is necessary to under-
+stand why 36% of tested spiders did not respond. Collection
+sites (R1, R2, U1, and U2, Figure 1A), years (2022 and 2023),
+participation in previous experiments (i.e., microhabitat use or
+web construction under playback; see Table S1), and age were
+all dropped from the binomial generalized additive model as
+random effects, as their inclusion did not significantly improve
+model fit. The final model included frequency as a smoothed
+term varying by rural/urban. Although this model explained little
+of the variance (R? = 0.009), the inclusion of the smoothed term
+significantly improved the model fit compared with the (null)
+model with rural/urban removed (F = 2.578, p = 0.015, 4AIC =
+6.124). This suggests that the shape of the relationship between
+frequency and attack likelihood might differ between rural and
+urban spiders.
+
+However, rural (Figure 2, edf = 3.012, X? = 8.422, p =0.072) and
+urban (Figure 2, edf = 2.545, X? = 3.744, p = 0.202) spiders at-
+tacked all frequencies (100-1,000 Hz) with approximately equal
+probability, suggesting that spiders do not rely on a specific vibra-
+tory frequency range for prey detection but instead attack broadly
+across the range of noise. When we controlled for habituation (see
+Figure S1A) by testing only responses to the first frequency, we
+
+1708 Current Biology 35, 1706-1715, April 21, 2025
+
+Current Biology
+
+found similar results (Figure S1B; rural: edf = 1.236, xX? = 0.127,
+p = 0.911; urban: edf = 1.956, X* = 3.693, p = 0.208). Rural and
+urban spiders did not differ in average attack likelihood (Figure 2,
+df = 1204, T-ratio = 0.505, p = 0.6133).
+
+Noise effects on web vibration transmission
+
+To test whether vibrations travel differently across webs built by ru-
+ral and urban spiders under different vibratory noise treatments,
+we exposed rural and urban adult female A. pennsylvanica to quiet
+or loud vibratory noise playback for 4 days, during which they built
+new webs. We provided white-noise (<1 kHz) vibrations that
+differed in amplitude (signal-to-noise ratio 0-1,000 Hz; quiet =
+4.20 + 0.23 dB, loud = 31.96 + 0.32 dB) similar to differences re-
+corded in the field (~22 dB daily average range).”° Our artificial vi-
+brations were coupled to the web-building substrate (Figure S2)
+using a custom-built arena connected to a subwoofer (Figure 3A).
+After 4 days of noise exposure, we removed the arena from the
+subwoofer and measured vibratory energy loss (or attenuation/
+damping) through transmission across the newly constructed
+web (Figures 3B-3D). We introduced vibrations to the web sheet
+(Figure 1B) via an artificial vibration stimulus (white noise < 2 kHz
+from a mini shaker) and measured resultant vibrations with a laser
+vibrometer at the spider’s typical foraging position (the “retreat”, or
+narrow, tubular web section, see Figure 1B). We measured trans-
+verse wave transmission because prey impact is typically perpen-
+dicular to the web plane.°° Our spider groups (rural/quiet, rural/
+loud, urban/quiet, and urban/loud) did not differ in days since
+maturation (F356 = 0.425, p = 0.736) or body condition (Fa.s6 =
+0.551, p = 0.650). We tested 15 webs built by separate spiders
+(each constructing a single web) for each unique rural/urban,
+quiet/loud combination (i.e., a total of 60 independent webs).
+Short-distance vibration transmission
+
+To measure how vibrations produced close to a foraging spider
+transmit, we applied the vibration stimulus at three different po-
+sitions 3.5 cm from the opening of the web retreat, where the spi-
+der forages (Figure 1B, the position of all recordings). We ran
+three trials at each of the three positions and averaged across tri-
+als and positions (transmission was similar between positions;
+Figure S4). The generalized additive model testing the variation
+in energy loss across frequencies by the unique site/treatment
+groups (rural/quiet, rural/loud, urban/quiet, and urban/loud) ex-
+plained much of the variance (R? = 0.748) and was a significantly
+better fit than the (null) model with the groups removed (F = 1665,
+p < 0.001, 4AIC = 29,930.8). These results suggest that the
+shape of the relationship between frequency and energy loss dif-
+fers between site/treatment groups.
+
+To test for site/treatment-specific variation in vibratory stim-
+ulus energy loss, we explored patterns of energy loss in two
+distinct frequency ranges: (1) below 1,000 Hz (overlapping
+known noise frequencies) and (2) above 1,000 Hz (outside the
+range of known noise). Differences among all site/treatment
+groups were assessed through pairwise comparisons. Signifi-
+cant differences were further examined for non-overlapping
+95% confidence intervals, allowing us to evaluate how each
+group compared with others within these frequency ranges (Ta-
+ble 1; Figure 4A). Below 1,000 Hz, transmission of webs built by
+urban, but not rural, spiders differed by the treatment conditions
+(quiet versus loud web construction) (Table 1; Figure 4A). For
+short-distance vibrations, urban/loud webs lost more energy,
+
+Current Biology
+
+A Vibratory Playback Treatment
+
+Recorder Amplifier
+
+© CelPress
+
+Figure 3. Experimental setup of web vibra-
+tion transmission
+
+(A and B) (A) We placed 60 adult female rural and
+urban A. pennsylvanica under quiet or loud vibra-
+tory playback treatments (see Figure S2) pro-
+duced by a speaker in a custom-made arena
+(15 spiders per site/treatment group). During four
+nights of web construction, vibrations were intro-
+duced to the web directly via anchor, or attach-
+ment, points (Figure S7), and indirectly through
+airborne sound produced by the speakers. After
+four nights of web construction under playback
+
+Quiet or Loud (4 days)
+
+treatments, (B) we removed the speaker and used
+a laser vibrometer (purple) to record resultant vi-
+
+Recording on Web
+
+a
+‘0,
+%%
+
+No Playback
+(Speaker Removed)’
+
+Inband Power (dB re FS)
+
+a
+rt-Distanse
+moat
+
+© z
+Op, ©
+Ber-Dister
+
+brations at the opening of the web retreat from
+controlled white-noise vibrations produced by a
+mini shaker (yellow, stimulus) elsewhere on the
+web.
+
+(C) Although the laser vibrometer recorded from
+the same position on each web, we provided the
+stimulus at six positions on the web: three short
+distances from the stimulus to the retreat and
+three longer distances.
+
+(D) The shaker produced vibrations adjusted to
+have equal vibration amplitudes from 0.5 to
+2,000 Hz. The graph represents the amplitude (as
+inband power in decibels relative to the full scale,
+dB re FS) of a recording directly from the mini
+shaker (yellow, stimulus) and a trial recorded from
+the retreat after transmission through the web
+(purple) analyzed in 5.38-Hz bins. We calculated the
+energy lost as the vibrations traveled from the
+stimulus to the retreat (see Figure S3 for calcula-
+tions). The raw data are shown along with the line
+and error ribbon representing the fit and 95%
+confidence interval of a loess model.
+
+0 500
+
+or attenuated/damped, between about 300 and 1,000 Hz
+compared with other webs (see urban/loud; Table 1; Figure 4A).
+This increased energy loss close to the foraging position may
+unction to decrease the perception of environmental noise in
+this frequency range. Urban/quiet webs also damped vibrations
+in comparison with any rural web, particularly in the range of
+300-600 Hz (Table 1). Above 1,000 Hz, short-range web vibra-
+tions only differed between urban/loud and rural/quiet—urban/
+loud were damped compared with rural/quiet (Table 1;
+Figure 4A).
+
+Longer-distance vibration transmission
+
+We also applied vibratory stimuli at three different positions 7 cm
+rom the opening of the web retreat (Figure 1B). Again, the gener-
+alized additive model assessing attenuation across frequencies
+ior the site/treatment groups explained a considerable amount
+of the variance (R? = 0.753) and was a better fit than the (null)
+model with the groups removed (F = 1656.9, p < 0.001, AAIC =
+29,500.7). Above 1,000 Hz, webs built by urban/loud spiders
+were damped in comparison with any rural web (Table 1; Fig-
+ure 4B). At longer transmission distances, below 1,000 Hz, urban
+spider webs transmitted vibrations similarly between treatments
+(Table 1; Figure 4B), in contrast to their previously described
+apparent damping of 300-1,000Hz short-range vibrations.
+
+1000
+Frequency (Hz)
+
+Rural/loud webs, however, retained more
+energy, or amplified, in vibrations between
+about 350 and 600 Hz compared with
+webs built by all other groups (see rural/loud; Table 1; Figure 4B).
+Within each site/treatment group, we also found that longer-dis-
+tance vibrations lost more energy than short-distance vibrations
+across the entire measured frequency spectrum (Figure S5).
+Following vibration transmission tests, for each web we re-
+corded the wet mass of the total silk used and the dry mass
+following 48 h in a 50°C drying oven. Neither rural/urban, the
+noise treatment, nor their interaction significantly predicted the
+dry silk mass used per spider body mass, nor did rural/urban
+predict the percent silk moisture (Figure S6). However, there
+was a non-significant trend wherein webs built under loud condi-
+tions had higher moisture in their silk than webs built under quiet
+conditions, but this was driven primarily by an increase in silk
+moisture for rural/loud versus rural/quiet webs (Figure S6B).
+
+1500 2000
+
+DISCUSSION
+
+Our study provides evidence of significant flexibility in information
+acquisition from an external sensory structure—spider webs—in
+response to environmental noise: flexibility that is dependent on
+the spider’s collection location (rural/urban). We have shown pre-
+viously that natural vibratory noise predominantly occurs at fre-
+quencies below 1,000 Hz for A. pennsyivanica,°° which may
+
+Current Biology 35, 1706-1715, April 21, 2025 1709
+
+
+©@ CelPress
+
+Table 1. Results from comparing average energy loss between
+
+Transmission Above or below More energy More energy
+
+distance 1,000 Hz lost (damped) retained (amplified)
+Short range below urban/loud rural/quiet
+urban/loud rural/loud
+urban/loud urban/quiet
+urban/quiet rural/quiet
+urban/quiet rural/loud
+rural/quiet rural/loud
+above urban/loud rural/quiet
+urban/loud rural/loud
+urban/loud urban/quiet
+urban/quiet rural/quiet
+urban/quiet rural/loud
+rural/quiet rural/loud
+Longer range below rural/quiet rural/loud
+urban/quiet rural/loud
+urban/loud rural/loud
+urban/quiet rural/quiet
+urban/loud rural/quiet
+urban/loud urban/quiet
+above urban/loud rural/quiet
+urban/loud rural/loud
+urban/loud urban/quiet
+urban/quiet rural/quiet
+urban/loud rural/loud
+rural/quiet rural/loud
+
+Current Biology
+
+/treatment groups
+
+Non-overlapping
+
+frequency range (Hz) Statistics
+
+100-1,000 df =10854, T-ratio = 8.835, p < 0.001*
+250-1,000 df =10854, T-ratio = 10.479, p < 0.001*
+300-1,000 df =10854, T-ratio = 5.863, p < 0.001*
+100-700 df =10854, T-ratio = 2.983, p = 0.015"
+300-600 df =10854, T-ratio = 4.624, p < 0.001*
+N/A df =10854, T-ratio = 1.635, p = 0.359
+1,000-1,100, df =10809, T-ratio = 3.301, p = 0.005*
+1,500-1,700
+
+N/A af =10809, T-ratio = 1.526, p = 0.422
+N/A df =10809, T-ratio = 1.667, p = 0.341
+N/A df =10809, T-ratio = 1.647, p = 0.352
+N/A df =10809, T-ratio = 0.115, p = 0.999
+N/A df =10809, T-ratio = 1.736, p = 0.305
+300-600 df =10488, T-ratio = 4.167, p < 0.001*
+250-700 df =10488, T-ratio = 4.743, p < 0.001*
+350-900 df =10488, T-ratio = 5.901, p < 0.001*
+N/A df =10488, T-ratio = 0.577, p =0.939
+N/A df =10488, T-ratio = 1.735, p =0.306
+N/A df =10488, T-ratio = 1.157, p =0.654
+1,450-1,650 df =10546, T-ratio = 2.948, p = 0.017*
+1,350-1,600 df =10546, T-ratio = 3.347, p = 0.005*
+N/A df =10546, T-ratio = 1.261, p = 0.588
+N/A df =10546, T-ratio = 1.711, p = 0.318
+N/A df =10546, T-ratio = 2.103, p = 0.152
+N/A df =10546, T-ratio = 0.374, p = 0.982
+
+We used pairwise comparisons of estimated marginal means from the generalized additive model to compare average energy loss below 1,000 Hz
+(overlapping noise) and above 1,000 Hz (outside of noise range) between site/treatment groups. Frequency ranges where significantly differing pairs
+were distinct are the approximate ranges where 95% confidence intervals did not overlap. Placement of site/treatment group into energy lost/retained
+
+designation is ambiguous for non-significant pairs.
+Significant differences (p < 0.05) are indicated with an asterisk.
+
+pose a significant challenge to the reception of cues or signals
+produced by prey and mates. In this study, we first demonstrate
+that A. pennsylvanica exhibits predatory behavior across the
+entire spectrum of natural vibratory noise frequencies, confirming
+the relevance of this frequency range for their sensory ecology.
+Next, we provide empirical evidence suggesting that the spider’s
+exposure to environmental noise—both previous/ancestral expo-
+sure to noise in their natural habitat (rural versus urban) and their
+recent experience with noise during web construction (quiet
+versus loud playbacks)—influences how vibration frequencies
+transmit across their web’s surface. When constructed under
+loud conditions, webs of rural and urban spiders exhibited distinct
+differences in web vibration transmission in three key ways: (1) the
+breadth of the frequency range modified (narrow in rural/broad in
+urban), (2) whether energy was retained (rural) or lost (urban), and
+(3) the transmission distance affected (short in urban/longer in ru-
+ral). Rural/loud webs retained more energy (amplified) in a narrow
+frequency range (350-600 Hz) compared with all other groups
+(rural/quiet, urban/quiet, and urban/loud) during /onger-distance
+transmission. On the other hand, urban/loud webs /ost more en-
+ergy (attenuated and/or damped) in a broad frequency range
+
+1710 Current Biology 35, 1706-1715, April 21, 2025
+
+(300-1,000 Hz) compared with all other site/treatment groups
+when vibration stimuli were produced closer to the retreat. Inter-
+estingly, the frequency ranges of modified transmission aligned
+with the simulated noise frequencies produced by our experi-
+mental playback (Figure S2). These contrasting patterns between
+rural/loud and urban/loud treatments may help spiders balance
+prey detection and manage environmental noise, and _ this
+balancing act is dependent on the spider's collection site (rural/
+urban). Notably, it is also possible that rural/urban spiders are
+genetically distinct, in which case different responses to noise
+may not reflect developmental experience per se but may be
+genetically linked. Regardless of the reasons for the differences
+(developmental experience or genetic differences), the webs built
+by rural versus urban spiders under loud conditions showed clear
+distinctions in their transmission properties.
+
+Environmental noise can mask vital sensory information when
+both overlap in the same spectral frequencies. Because natural
+vibratory noise in the habitats of A. pennsylvanica occurs below
+1,000 Hz,”° we tested the predatory responses of rural and urban
+spiders within this range. Both groups broadly responded to
+pure tone vibrations across frequencies that align with vibrations
+
+
+Current Biology
+
+# Rural/Quiet = Urban/Quiet
+= Rural/Loud = Urban/Loud
+
+Site/Treatment
+
+Energy Loss through
+Web Transmission (A dB)
+fen)
+
+oO
+
+~300-1000 Hz
+
+-60 :
+0 500 1000 1500 2000
+Frequency (Hz)
+B ; ® Rural/Quiet © Urban/Quiet
+Site/Treatment | Rural/Loud § Urban/Loud
+10
+
+Energy Loss through
+Web Transmission (A dB)
+
+0 500
+
+1000
+Frequency (Hz)
+
+1500 2000
+
+Figure 4. Results from the web vibration transmission experiment
+
+We showed how vibrations propagated across the web’s surface from the
+stimulus to the web retreat over (A) short distances and (B) longer distances.
+We measured the energy loss, or attenuation, of stimulus vibrations
+(<2,000 Hz) as they traveled across webs of rural and urban spiders con-
+structed for four nights under quiet or loud vibratory noise treatments (15 webs
+each). Background lines are the calculated means across webs for each
+group, whereas lines and error ribbons show generalized additive model
+predictions with 95% confidence intervals. For each web, we averaged across
+trials and stimulus positions (see Figure S3 for calculations) for each trans-
+mission distance (9 trials each) because transmission was similar across po-
+sitions (Figure S4). The dashed line at 1,000 Hz separates frequencies over-
+lapping with field-recorded and playback treatment vibratory noise (<1 kHz)
+from those outside it (>1 kHz). We performed pairwise comparisons of the site/
+treatment groups using the estimated marginal means of energy loss below
+and above 1 kHz (Table 1) and then used non-overlapping 95% confidence
+
+© CelPress
+
+produced by a struggling juvenile cricket (~250-700 Hz, per-
+sonal observation) and prey more generally.°'°* Thus, elevated
+noise levels within this frequency range are likely to mask impor-
+tant information. Given the temporal and spatial variability of ru-
+ral and urban noise levels,7° spiders in more variable habitats
+may generalize their attention to a wider frequency range to
+cope with challenges from information masking. Our findings
+of frequency-independent attacks support the idea that variable
+noise conditions may favor generalized responses to vibratory
+information, conforming to prior studies of other animals that
+demonstrate generalist strategies that allow foragers to be flex-
+ible in rapidly changing conditions,*° particularly in urban areas
+(e.g., in moths” and in birds®’). Finally, the frequencies that initi-
+ated attacks in our first experiment coincided with frequency-
+specific modifications of rural/urban web vibration transmission
+under loud noise, suggesting a predatory advantage of
+enhancing salient cues amid environmental noise. We note that
+there were limited differences in energy loss outside the range
+of noise (>1,000 Hz, Figure 4; Table 1).
+
+In general, signals and cues produced further (versus closer)
+from the foraging spider are more likely to be masked by noise
+because vibratory information loses more energy as transmis-
+sion distance increases. Despite this, vibrations that traveled
+longer distances on rural/loud webs arrived at the spider’s
+foraging retreat with more energy in a narrow, but extremely rele-
+vant, frequency range than other site/treatment groups at this
+distance, effectively amplifying and retaining high transmission
+efficacy of the pertinent information. This frequency-specific
+change to the transmission of vibratory stimuli presumably in-
+creases the spider’s capacity for detecting relevant signals/
+cues under noisy conditions. Similar tuning has been demon-
+strated in the internal sensory systems of spiders, as electro-
+physiological recordings from an important vibration receptor
+on spider legs (the metatarsal lyriform organ) have exhibited
+heightened sensitivities to frequencies consistent with prey vi-
+brations (increasing sensitivity up to 1,000 Hz)*° and potentially
+to predator cues (up to 5,000 Hz).°’ Our results support the
+idea that webs act as extensions of the spider’s sensory sys-
+tem®® and can be adaptatively tuned.
+
+If the narrow range of energy retention observed in rural/loud
+webs is highly relevant for prey capture, one might ask why we
+did not see more attacks of rural spiders to this frequency range.
+Though there was a trend in this direction (Figure 2), there was
+also more than 30% of spiders that did not attack. It is likely
+that additional cues (e.g., visual) may be important in initiating at-
+tacks, and future work should explore attack probabilities of nat-
+ural prey at higher resolution to get a finer-scale understanding of
+the relationship between vibratory cues and attack probabilities.
+Finally, we note that vibratory conspecific communication also
+
+intervals to determine the specific frequency ranges where site/treatment pairs
+differed. Above 1,000 Hz, only urban/loud webs exhibited damping compared
+with rural webs (only rural/quiet at short range). (A) Short-distance vibrations
+on urban/loud webs lost more energy (attenuated/damped) across a broad
+frequency range (300-1,000 Hz) compared with all other groups. (B) Rural
+webs constructed under loud noise retained more energy (amplified) in longer-
+distance vibrations in a narrow frequency range (350-600 Hz) compared with
+all other groups. Longer-distance vibrations always lost more energy than
+short-distance vibrations (Figure S5).
+
+Current Biology 35, 1706-1715, April 21, 2025 1711
+
+
+©@ CelPress
+
+occurs during courtship (~100-600 Hz, personal observation),
+raising the possibility that manipulations of web vibratory trans-
+mission may function in more than just prey detection and
+foraging.
+
+Unlike rural environments that have lower and less-predictable
+noise levels, spiders in urban environments experience chronic
+exposure to heightened levels of vibratory noise.?°°° Such
+persistent, louder noise could lead to sensitivity impairments
+over time. Age-related hearing loss has only recently been exam-
+ined for arthropods, “°"' and noise-related hearing loss has only
+been explored in the tympanal ear of the desert locust.“? We hy-
+pothesize that long-term exposure to noise might negatively
+impact arthropod hearing and that urban spiders use their
+webs to mitigate environmental sensory overload by reducing
+broad-band noise. Support for this hypothesis is evidenced by
+the dramatic and broad reduction in energy transmitted (and
+thus, signal-to-noise ratio), specifically within the documented
+range of urban noise across urban webs built under loud condi-
+tions. In further support, noise-dependent web damping only
+occurred for vibrations produced near the spider’s retreat, sug-
+gesting that the urban spider produced a buffer zone immedi-
+ately around its foraging position. Although a close buffer zone
+may reduce persistent broad-band noise, it may simultaneously
+reduce the signal-to-noise ratio, making it more challenging for
+urban spiders to react to prey at close distances. Future foraging
+studies can explore such potential sensory trade-offs as well as
+putative foraging strategies to overcome them (e.g., urban spi-
+ders may focus foraging reactions on longer-distance stimuli).
+
+Although we did not observe the same vibratory damping
+(300-1 ,000 Hz) in longer-distance vibrations as seen in short-dis-
+tance, longer-distance vibrations in urban/loud webs did show
+greater energy loss than short-distance vibrations. We suspect
+that distinct transmission properties across different regions of
+a single web—i.e., near the retreat versus at the edges— may ac-
+count for discrepancies across distances. In addition, the
+observed damping of vibrations between 300 and 1,000 Hz
+near the retreat of urban/loud webs may serve to reduce vibra-
+tions from airborne noise introduced near the foraging spider.
+Although vibratory noise is likely introduced to the web via the
+anchor points connecting it to the substrate, airborne noise
+can also transfer vibrations directly to any part of the web.*°
+Our playback treatments during web construction produced
+different levels of airborne noise (quiet = 56.78 + 1.40 dB,
+loud = 67.80 + 1.06 dB) that resembled natural levels in rural
+and urban habitats (60.7-74.3 dB).“* Additional studies exploring
+spatial patterns of frequency transmission paired with behavioral
+studies are now needed to assess where and how transmission
+differences translate into foraging (or mating) efficiency, as wel
+as how airborne and substrate-borne noise interact and propa-
+gate as vibrations on the web.
+
+We also acknowledge that interpreting the biological signifi-
+cance of our artificial stimulus is challenging, as the introduced
+vibrations could be viewed either as noise traveling through the
+web or as relevant signals and cues. The difficulty arises
+because observed energy loss could reflect a reduction in both
+noise and relevant signals, whereas, ideally, webs would func-
+tion to increase the signal-to-noise ratio, characterized by noise
+reduction and signal amplification. Future empirical playback
+studies and theoretical models should test how noise and
+
+1712 Current Biology 35, 1706-1715, April 21, 2025
+
+Current Biology
+
+relevant signals/cues interact as they transmit simultaneously
+across webs with different transmission properties.
+
+The extent to which previous experience with noise shapes
+real-time plastic behavioral responses is understudied, particu-
+larly in arthropods. Evidence from Lampe et al.“° suggests a role
+for developmental plasticity in response to noise, as grasshoppers
+exhibited adjustments to adult signal frequency (Hz) based on
+noise exposure during development. Further, there is likely acom-
+plex interplay between previous experience with noise and plastic
+responses to current noise conditions“° because variable noise
+environments tend to persist into adulthood. In our study, we
+could not distinguish between developmental plasticity, maternal
+effects, and/or genetic differentiation as underlying the observed
+differences between rural and urban spiders. Although gene
+flow between rural and urban populations is likely due to the
+ballooning dispersal mode“’ of A. pennsylvanica (personal obser-
+vation), genetic differentiation or maternal effects may still be at
+play. To further elucidate these potential mechanisms, future
+research should rear F2 generations of rural and urban spiders
+in quiet or loud vibratory treatments.
+
+We identified potential material or structural differences that
+may underlie the differential propagation of vibratory informa-
+tion, though further investigation is necessary to explore these
+and other mechanisms in detail. Variations in silk stiffness
+(modulus) and tension (pre-stress) affect the amplitude- and fre-
+quency-filtering capacities of webs.°°“° Factors such as the silk
+length,*° connectivity of strands,°' mesh size,°° and number of
+attachments with the substrate°’ contribute to the web’s struc-
+ture and distinct vibratory transmission properties. For example,
+Gomes et al. found a correlation between Larinioides patagiatus
+web structure and environmental noise in the field, but suggest
+that prey abundance may mediate this effect.°* However, a pre-
+vious laboratory study on Araneus diadematus found no adjust-
+ments to web geometry when anchor points were attached to
+moving substrates,*° suggesting that this ability may be spe-
+cies-specific or that the silk properties, rather than web geome-
+try, may potentially drive web transmission differences. Although
+we found no differences in dry silk mass (Figure S6A), webs con-
+structed under loud conditions showed a trend toward higher silk
+moisture than those built under quiet conditions (Figure S6B),
+though this was largely driven by increased silk moisture for ru-
+ral/loud versus rural/quiet webs. This may suggest a potential
+role of supercontraction—a unique property of spider silk where
+added moisture leads silk to shrink up to 50%,°°—though
+whether spiders have control over silk supercontraction is un-
+known. Anecdotally, we also observed that webs built under
+loud conditions often had larger anchor points (i.e., places where
+the web attached to the substrate; Figure S7), which appeared to
+more strongly resist detachment during silk collection. Although
+quantifying these anchor point characteristics was not feasible
+for the present study, we hypothesize that thicker, stronger an-
+chor points may damp substrate-borne noise before it is intro-
+duced to the web’s surface by influencing the web’s geometry
+or silk properties, such as tension and stiffness. Future experi-
+ments are necessary to directly assess the functional signifi-
+cance of these observed differences in anchor points.
+
+This study has unveiled the extraordinary potential of web-
+building spiders to create a structure, the web, which can alter
+the spider’s perception of information when environmental noise
+
+
+Current Biology
+
+is present. Our findings demonstrate that the web functions as a
+pre-processer or filter of information before perception by the
+spider. Our results provide empirical support for Miller and Mor-
+timer’s hypothesis’ that spiders exhibit morphological compu-
+tation by manipulating the vibratory environment of their webs
+to preemptively mitigate the effects of noise before information
+reaches the central nervous system (CNS). If webs can pre-pro-
+cess information, they may alleviate the processing demands
+when noise masks or overwhelms the system.°° For a complete
+understanding of how animals may, or may not, cope with envi-
+ronmental noise, we must include how information is received
+and processed, an angle that is too often overlooked. The accu-
+rate reception of information is necessary for survival and repro-
+duction, facilitating precise identification, evaluation, and locali-
+zation of prey, threats, and mates. To date, only a few systems
+have been explored with respect to how animals might manipu-
+late their sensory environment for increased information acquisi-
+tion. The ground burrows of Eupsophus frogs can amplify
+incoming (in addition to outgoing) signals and cues from other
+frogs and nocturnal owls; however, it is unclear whether these
+amplifications are intentional or a by-product of using the burrow
+as a refuge.°° Similarly, cavity-nesting black-capped chickadees
+excavate tree-cavity nests in the direction of extra-pair partners
+to improve signal detection during the dawn chorus.”
+
+We unveil the first evidence that a spider that relies on its self-
+made web for vibratory information acquisition can control its vi-
+bration transmission in response to differing levels of vibratory
+noise. The plastic changes in this extended phenotype highlight
+inter-individual variation in the receiver's ability to cope with bio-
+logically relevant noise. Moreover, a history of noise exposure,
+either during development or across generations, appears to
+further influence noise-related web modifications. With the rise
+of intense and rapid changes to animals’ sensory landscapes
+brought on by anthropogenic noise, we advocate for future
+research to adopt a more holistic approach that is inclusive of in-
+formation reception, hidden sensory channels like the vibratory
+channel, and previous exposure. We anticipate that this research
+will open doors for further investigation into the flexibility of re-
+ceivers’ sensory systems.
+
+RESOURCE AVAILABILITY
+
+Lead contact
+Further information requests should be directed to and will be fulfilled by the
+lead contact, Brandi Pessman (bjpessman@gmail.com).
+
+Materials availability
+This study did not generate new unique reagents.
+
+Data and code availability
+
+e All data are accessible at https://github.com/brandipessman/vibration_
+transmission.
+
+e All code used in this study are archived on Zenodo (https://doi.org/10.
+5281/zenodo. 14866876).
+
+e Any additional information required to reanalyze the data reported in this
+paper is available from the lead contact, Brandi Pessman (bjpessman@
+gmail.com), upon request.
+
+ACKNOWLEDGMENTS
+
+We would like to thank members of the Hebets, Shizuka, Keesey, and DeLong
+labs (animal behavior group) for their thoughtful feedback on an earlier draft of
+
+©@ CelPress
+
+this manuscript. Thank you to Dr. Kristi Montooth and Dr. Sabrina Russo for
+letting us use their microbalance and drying oven to dry and weigh silk. We
+would also like to thank Dr. John DeLong for his advice on the statistical anal-
+ysis. We also thank Dr. Rowan McGinley for teaching us how to calibrate the
+recording system. We are grateful for B.J.P.’s committee for helping with the
+vision of the project. We owe many thanks to the property owners who allowed
+us to collect spiders on their properties. We are incredibly grateful to our four
+reviewers for their insightful feedback, which greatly enhanced this article.
+Funding was provided by the National Science Foundation’s Graduate
+Research Fellowship awarded to B.J.P. (award number: 2020299575).
+
+AUTHOR CONTRIBUTIONS
+
+B.J.P. and E.A.H. conceptualized and designed the study. B.J.P. performed
+the experiments and conducted data analysis under the supervision of
+E.A.H. Both authors contributed to the writing and editing of the manuscript.
+
+DECLARATION OF INTERESTS
+
+The authors declare no competing interests.
+
+STAR*METHODS
+
+Detailed methods are provided in the online version of this paper and include
+the following:
+
+@ KEY RESOURCES TABLE
+@ EXPERIMENTAL MODEL AND STUDY PARTICIPANT DETAILS
+@ METHOD DETAILS
+o Spiders’ Responses to Pure Tone Frequencies
+o Noise Effects on Web Vibration Transmission
+o Vibratory Playback Treatments During Four Nights of Web Con-
+struction
+o Measuring Web Vibration Transmission
+@ QUANTIFICATION AND STATISTICAL ANALYSIS
+o Spiders’ Responses to Pure Tone Frequencies
+o Noise Effects on Web Vibration Transmission
+
+SUPPLEMENTAL INFORMATION
+
+Supplemental information can be found online at https://doi.org/10.1016/j.
+cub.2025.02.041.
+
+Received: December 9, 2024
+Revised: January 28, 2025
+Accepted: February 18, 2025
+Published: March 14, 2025
+
+REFERENCES
+
+1. Endler, J.A. (1993). Some general comments on the evolution and design
+of animal communication systems. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+340, 215-2285. https://doi.org/10.1098/rstb.1993.0060.
+
+2. Goodale, E., and Magrath, R.D. (2024). Species diversity and interspecific
+information flow. Biol. Rev. Camb. Philos. Soc. 99, 999-1014. https://doi.
+org/10.1111/brv.13055.
+
+3. Guilford, T., and Dawkins, M.S. (1991). Receiver psychology and the evo-
+lution of animal signals. Anim. Behav. 42, 1-14. https://doi.org/10.1016/
+$0003-3472(05)80600-1.
+
+4. Hebets, E.A., and Papaj, D.R. (2005). Complex signal function: developing
+a framework of testable hypotheses. Behav. Ecol. Sociobiol. 57, 197-214.
+https://doi.org/10.1007/s00265-004-0865-7.
+
+5. Guilford, T., and Dawkins, M.S. (1993). Receiver psychology and the
+design of animal signals. Trends Neurosci. 16, 430-436. https://doi.org/
+10.1016/0166-2236(93)90068-W.
+
+Current Biology 35, 1706-1715, April 21, 2025 1713
+
+
+© CelPress
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+. Page, R.A., and Bernal, X.E. (2020). The challenge of detecting prey:
+
+Private and social information use in predatory bats. Funct. Ecol. 34,
+344-363. https://doi.org/10.1111/1365-2435.13439.
+
+. Virant-Doberlet, M., Kuhelj, A., Polajnar, J., and Sturm, R. (2019).
+
+Predator-prey interactions and eavesdropping in vibrational communica-
+tion networks. Front. Ecol. Evol. 7. https://doi.org/10.3389/fevo.2019.
+00203.
+
+. , H. Brumm, ed. (2018). 2 (Springer), pp. 187-227. https://doi.org/10.1007/
+
+978-3-642-41494-7.
+
+. Endler, J.A. (1992). Signals, signal conditions, and the direction of evolu-
+
+tion. Am. Nat. 139, $125-S153. https://doi.org/10.1086/285308.
+
+Gomes, D.G.E., Francis, C.D., and Barber, J.R. (2021). Using the past to
+understand the present: Coping with natural and anthropogenic noise.
+BioScience 71, 223-234. https://doi.org/10.1093/biosci/biaa161.
+
+Kight, C.R., and Swaddle, J.P. (2011). How and why environmental noise
+impacts animals: an integrative, mechanistic review. Ecol. Lett. 14, 1052-
+1061. https://doi.org/10.1111/j.1461-0248.2011.01664.x.
+
+Gil, D., Honarmand, M., Pascual, J., Pérez-Mena, E., and Macias Garcia,
+C. (2015). Birds living near airports advance their dawn chorus and reduce
+overlap with aircraft noise. Behav. Ecol. 26, 435-443. https://doi.org/10.
+1093/beheco/aru207.
+
+Stanley, C.Q., Walter, M.H., Venkatraman, M.X., and Wilkinson, G.S.
+(2016). Insect noise avoidance in the dawn chorus of Neotropical birds.
+Anim. Behav. 112, 255-265. https://doi.org/10.1016/j.anbehav.2015.
+12.003.
+
+McNett, G.D., Luan, L.H., and Cocroft, R.B. (2010). Wind-induced noise al-
+ters signaler and receiver behavior in vibrational communication. Behav.
+Ecol. Sociobiol. 64, 2043-2051. https://doi.org/10.1007/s00265-010-
+1018-9.
+
+Higham, V., Deal, N.D.S., Chan, Y.K., Chanin, C., Davine, E., Gibbings, G.,
+Keating, R., Kennedy, M., Reilly, N., Symons, T., et al. (2021). Traffic noise
+drives an immediate increase in call pitch in an urban frog. J. Zool. 313,
+307-315. https://doi.org/10.1111/jz0.12866.
+
+Peters, R.A., Hemmi, J.M., and Zeil, J. (2007). Signaling against the wind:
+Modifying motion-signal structure in response to increased noise. Curr.
+Biol. 17, 1231-1234. https://doi.org/10.1016/j.cub.2007.06.035.
+
+Wiley, R.H. (2013). Signal detection, noise, and the evolution of communi-
+cation. In Animal Communication and Noise Animal Signals and
+Communication, H. Brumm, ed. (Springer), pp. 7-30. https://doi.org/10.
+1007/978-3-642-41494-7_2.
+
+Rowe, C. (1999). Receiver psychology and the evolution of multicompo-
+nent signals. Anim. Behav. 58, 921-931. https://doi.org/10.1006/anbe.
+1999.1242.
+
+Ronald, K.L., Fernandez-Juricic, E., and Lucas, J.R. (2012). Taking the
+sensory approach: how individual differences in sensory perception can
+influence mate choice. Anim. Behav. 84, 1283-1294. https://doi.org/10.
+1016/j.anbehav.2012.09.015.
+
+Miller, C.T., and Bee, M.A. (2012). Receiver psychology turns 20: Is it time
+for a broader approach? Anim. Behav. 83, 331-343. https://doi.org/10.
+1016/j.anbehav.2011.11.025.
+
+Pefialver, E., Grimaldi, D.A., and Delclos, X. (2006). Early Cretaceous spi-
+der web with its prey. Science 312, 1761. https://doi.org/10.1126/science.
+1126628.
+
+Eberhard, W.G. (1990). Function and phylogeny of spider webs. Annu.
+Rev. Ecol. Syst. 21, 341-372. https://doi.org/10.1146/annurev.es.21.
+110190.002013.
+
+Eberhard, W.G. (2020). Spider Webs: Behavior, Function, and Evolution
+(University of Chicago Press). https://doi.org/10.7208/chicago/97802
+26534749.001.0001.
+
+Mortimer, B. (2019). A spider’s vibration landscape: Adaptations to pro-
+mote vibrational information transfer in orb webs. Integr. Comp. Biol. 59,
+1636-1645. https://doi.org/10.1093/icb/icz043.
+
+1714 Current Biology 35, 1706-1715, April 21, 2025
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+Current Biology
+
+Mortimer, B., Soler, A., Siviour, C.R., Zaera, R., and Vollrath, F. (2016).
+Tuning the instrument: Sonic properties in the spider’s web. J. R. Soc.
+Interface 13, 20160341. https://doi.org/10.1098/rsif.2016.0341.
+
+Koch, C.L. (1843). Die Arachniden (C. H. Zeh’sche Buchhandlung),
+pp. 37-142. https://doi.org/10.5962/bh1.title.43744.
+
+Singer, F., and Riechert, S.E. (1995). Mating System and Mating Success
+of the Desert Spider Agelenopsis aperta. Behav. Ecol. Sociobiol. 36,
+313-322. https://doi.org/10.1007/BF00167792.
+
+Pessman, B.J., Hays, M., Agpawa, E., and Hebets, E.A. (2023).
+Urbanization affects web abundance and aggregation of a funnel-weaving
+spider, Agelenopsis pennsylvanica (Agelenidae). Urban Ecosyst. 26,
+1275-1292. https://doi.org/10.1007/s11252-023-01379-z.
+
+Pessman, B.J., McGinley, R.H., and Hebets, E.A. (2024). Spatial and tem-
+poral variation in ambient vibratory noise and its impact potential on a
+common urban arthropod. Entomol. Exp. Applicata 172, 1196-1216.
+https://doi.org/10.1111/eea.13487.
+
+Otto, A.W., Elias, D.O., and Hatton, R.L. (2018). Modeling transverse vibra-
+tion in spider webs using frequency-based dynamic substructuring. In
+Dynamics of Coupled Structures 4 Conference Proceedings of the
+Society for Experimental Mechanics Series, A. Linderholt, M.S. Allen,
+R.L. Mayes, and D. Rixen, eds. (Springer International Publishing),
+pp. 143-155. https://doi.org/10.1007/978-3-319-74654-8 12.
+
+Landolfa, M.A., and Barth, F.G. (1996). Vibrations in the orb web of the spi-
+der Nephila clavipes: cues for discrimination and orientation. J. Comp.
+Physiol. A 179, 493-508. https://doi.org/10.1007/BF00192316.
+
+Masters, W.M. (1984). Vibrations in the orbwebs of Nuctenea sclopetaria
+(Araneidae): Il. Prey and wind signals and the spider’s response threshold.
+Behav. Ecol. Sociobiol. 15, 217-223. https://doi.org/10.1007/BF00292978.
+
+Ouyang, J.Q., Isaksson, C., Schmidt, C., Hutton, P., Bonier, F., and
+Dominoni, D. (2018). A new framework for urban ecology: An integration
+of proximate and ultimate responses to anthropogenic change. Integr.
+Comp. Biol. 58, 915-928. https://doi.org/10.1093/icb/icy110.
+
+Franzén, M., Betzholtz, P.-E., Pettersson, L.B., and Forsman, A. (2020).
+Urban moth communities suggest that life in the city favours thermophilic
+multi-dimensional generalists. Proc. Biol. Sci. 287, 20193014. https://doi.
+org/10.1098/rspb.2019.3014.
+
+Callaghan, C.T., Major, R.E., Wilshire, J.H., Martin, J.M., Kingsford, R.T.,
+and Cornwell, W.K. (2019). Generalists are the most urban-tolerant of
+birds: a phylogenetically controlled analysis of ecological and life history
+traits using a novel continuous measure of bird responses to urbanization.
+Oikos 128, 845-858. https://doi.org/10.1111/oik.06158.
+
+Barth, F.G., and Geethabali. (1982). Spider vibration receptors: Threshold
+curves of individual slits in the metatarsal lyriform organ. J. Comp. Physiol.
+148, 175-185. https://doi.org/10.1007/BF00619124.
+
+Stafstrom, J.A., Menda, G., Nitzany, E.I., Hebets, E.A., and Hoy, R.R.
+(2020). Ogre-faced, net-casting spiders use auditory cues to detect
+airborne prey. Curr. Biol. 30, 5033-5039.e3. htips://doi.org/10.1016/j.
+cub.2020.09.048.
+
+Japyassu, H.F., and Laland, K.N. (2017). Extended spider cognition. Anim.
+Cogn. 20, 375-395. https://doi.org/10.1007/s10071-017-1069-7.
+
+Barber, J.R., Crooks, K.R., and Fristrup, K.M. (2010). The costs of chronic
+noise exposure for terrestrial organisms. Trends Ecol. Evol. 25, 180-189.
+https://doi.org/10.1016/j.tree.2009.08.002.
+
+Keder, A., Tardieu, C., Malong, L., Filia, A.. Kashkenbayeva, A., Newton,
+F., Georgiades, M., Gale, J.E., Lovett, M., Jarman, A.P., et al. (2020).
+Homeostatic maintenance and age-related functional decline in the
+Drosophila ear. Sci. Rep. 10, 7431. https://doi.org/10.1038/s41598-020-
+64498-z.
+
+Warren, B., and Eberl, D. (2024). What can insects teach us about hearing
+loss? J. Physiol. 602, 297-316. https://doi.org/10.1113/JP281281.
+Blockley, A., Ogle, D., Woodrow, C., Montealegre-Z, F., and Warren, B.
+(2022). Physiological changes throughout an insect ear due to age and
+noise - A longitudinal study. iScience 25, 104746. https://doi.org/10.
+1016/j.isci.2022.104746.
+
+Current Biology
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+Caldwell, M.S. (2014). Interactions between airborne sound and substrate vi-
+bration in animal communication. In Studying Vibrational Communication
+Animal Signals and Communication, R.B. Cocroft, M. Gogala, P.S.M. Hill,
+and A. Wessel, eds. (Springer), pp. 65-92. https://doi.org/10.1007/978-3-
+662-43607-3_6.
+
+Dowling, J.L., Luther, D.A., and Marra, P.P. (2012). Comparative effects of
+urban development and anthropogenic noise on bird songs. Behav. Ecol.
+23, 201-209. https://doi.org/10.1093/beheco/arr1 76.
+
+Lampe, U., Reinhold, K., and Schmoll, T. (2014). How grasshoppers
+respond to road noise: Developmental plasticity and population differenti-
+ation in acoustic signalling. Funct. Ecol. 28, 660-668. https://doi.org/10.
+1111/1365-2435.12215.
+
+Gallego-Abenza, M., Mathevon, N., and Wheatcroft, D. (2020). Experience
+modulates an insect’s response to anthropogenic noise. Behav. Ecol. 37,
+90-96. https://doi.org/10.1093/beheco/arz159.
+
+Bell, J.R., Bohan, D.A., Shaw, E.M., and Weyman, G.S. (2005). Ballooning
+dispersal using silk: World fauna, phylogenies, genetics and models. Bull.
+Entomol. Res. 95, 69-114. hitps://doi.org/10.1079/BER2004350.
+Mortimer, B., Gordon, S.D., Holland, C., Siviour, C.R., Vollrath, F., and
+Windmill, J.F.C. (2014). The speed of sound in silk: Linking material perfor-
+mance to biological function. Adv. Mater. 26, 5179-5183. https://doi.org/
+10.1002/adma.201401027.
+
+Jyoti, J., Kumar, A., Lakhani, P., Kumar, N., and Bhushan, B. (2019).
+Structural properties and their influence on the prey retention in the spider
+web. Philos. Trans. A Math. Phys. Eng. Sci. 377, 20180271. https://doi.
+org/10.1098/rsta.2018.0271.
+
+Watanabe, T. (2000). Web tuning of an orb-web spider, Octonoba syboti-
+des, regulates prey-catching behaviour. Proc. Biol. Sci. 267, 565-569.
+https://doi.org/10.1098/rspb.2000.1038.
+
+Wu, C.-H., and Elias, D.O. (2014). Vibratory noise in anthropogenic habi-
+tats and its effect on prey detection in a web-building spider. Anim.
+Behav. 90, 47-56. https://doi.org/10.1016/j.anbehav.2014.01.006.
+Gomes, D.G.E., Hesselberg, T., and Barber, J.R. (2021). Phantom river
+noise alters orb-weaving spider abundance, web size and prey capture.
+Funct. Ecol. 35, 717-726. https://doi.org/10.1111/1365-2435.13739.
+Mulder, T., Wilkins, L., Mortimer, B., and Vollrath, F. (2021). Dynamic
+environments do not appear to constrain spider web building behav-
+iour. Naturwissenschaften 108, 20. https://doi.org/10.1007/s00114-
+021-01725-1.
+
+Miller, T.E., and Mortimer, B. (2020). Control vs. constraint: Understanding
+the mechanisms of vibration transmission during material-bound informa-
+tion transfer. Front. Ecol. Evol. 8, 587846. https://doi.org/10.3389/fevo.
+2020.587846.
+
+Miller, V.C., and Hoffmann, M. (2017). What Is morphological computa-
+tion? On how the body contributes to cognition and control. Artif. Life
+23, 1-24. https://doi.org/10.1162/ARTL_a_00219.
+
+Mufoz, M.I., and Penna, M. (2016). Extended amplification of acoustic sig-
+nals by amphibian burrows. J. Comp. Physiol. A Neuroethol. Sens. Neural
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+© CelPress
+
+Behav. Physiol. 202, 473-487. https://doi.org/10.1007/s00359-016-
+1093-0.
+Mennill, D.J., and Ratcliffe, L.M. (2004). Nest cavity orientation in black-
+
+capped chickadees Poecile atricapillus: do the acoustic properties of cav-
+ities influence sound reception in the nest and extra-pair matings? J. Avian
+Biol. 35, 477-482. https://doi.org/10.1111/j.0908-8857.2004.03351.x.
+
+Abramoff, M.D., Magalhaes, P.J., and Ram, S.J. (2004). Image processing
+with ImageJ. Biophotonics Int. 17, 36-42.
+
+K. Lisa Yang Center for Conservation Bioacoustics at the Cornell Lab of
+Ornithology. (2024). Raven Pro: Interactive Sound Analysis Software.
+Version 1.6.5. https://www.ravensoundsoftware.com/.
+
+Audacity Team. (2022). Audacity. Version 3.4.0. https://www.audacityteam.
+org/blog/audacity-3-4/.
+
+R Core Team (2022). R: A Language and Environment for Statistical
+Computing. Version 4.2.2 (R Foundation for Statistical Computing).
+
+RStudio Team (2023). RStudio: Integrated Development Environment for
+R. Version 2023.09.0+463 (RStudio, PBC).
+
+Wood, S.N. (2020). Inference and computation with generalized additive
+models and their extensions. Test 29, 307-339. https://doi.org/10.1007/
+s11749-020-00711-5.
+
+Fox, J., and Weisberg, S. (2019). An {R} Companion to Applied Regression
+Third (Sage).
+
+Gohel, D., and Skintzos, P. (2023). Using the flextable R package. https://
+cran.r-project.org/web/packages/flextable/index.html.
+
+Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L.D., Francois,
+R., Grolemund, G., Hayes, A., Henry, L., Hester, J., et al. (2019). Welcome
+to the tidyverse. J. Open Source Softw. 4, 1686. https://doi.org/10.21105/
+joss.01686.
+
+Lenth, R.V. (2022). Emmeans: Estimated Marginal Means, Aka Least-
+Squares Means. Version 1.8.2. https://cran.r-project.org/web/packages/
+emmeans/emmeans.pdf.
+
+Michael, S.C.J., Appel, H.A., and Cocroft, R.B. (2019). Methods for repli-
+cating leaf vibrations induced by insect herbivores. In Plant Innate
+Immunity: Methods and Protocols, , W. Gassmann, ed. (Springer),
+pp. 141-157. https://doi.org/10.1007/978-1-4939-9458-8_15.
+
+Ringler, M., Szipl, G., Hédl, W., Khil, L., Kofler, B., Lonauer, M., Provin, C.,
+and Ringler, E. (2017). Acoustic ranging in poison frogs—it is not about
+signal amplitude alone. Behav. Ecol. Sociobiol. 71, 114. https://doi.org/
+10.1007/s00265-017-2340-2.
+
+Kundu, P., Choi, N., Rundus, A.S., Santer, R.D., and Hebets, E.A. (2022).
+Uncovering ‘hidden’ signals: Previously presumed visual signals likely
+generate air particle movement. Front. Ecol. Evol. 10, 939133. https://
+doi.org/10.3389/fevo.2022.939133.
+
+Jakob, E.M., Marshall, S.D., and Uetz, G.W. (1996). Estimating fitness: A
+comparison of body condition indices. Oikos 77, 61-67. https://doi.org/
+10.2307/3545585.
+
+Current Biology 35, 1706-1715, April 21, 2025 1715
+
+
+©@ CelPress
+
+STAR* METHODS
+
+KEY RESOURCES TABLE
+
+REAGENT or RESOURCE SOURCE
+
+Current Biology
+
+IDENTIFIER
+
+Deposited data
+
+Raw and analyzed data This paper
+
+Experimental models: Organisms/strains
+
+Agelenopsis pennsylvanica
+
+Software and algorithms
+
+ImageJ Abramoff et al.°°
+
+Raven Pro K. Lisa Yang Center for Conservation
+Bioacoustics at the Cornell Lab
+of Ornithology®?
+
+Audacity Audacity Team”?
+
+R R Core Team”
+
+RStudio RStudio Team”?
+
+R package ‘mgcv’ Wood”?
+
+Fox and Weisberg®*
+Gohel and Skintzos°°
+Wickham et al.°°
+
+R package ‘emmeans’ Lenth®”
+
+R package ‘car’
+R package ‘flextable’
+R package ‘tidyverse’
+
+1,98
+
+Calibration of the Interface Michael et al
+
+Signal-to-Noise Ratio Calculations Ringler et al.°°
+
+GitHub: https://github.com/brandipessman/Vibration_
+Transmission; Zenodo: https://doi.org/10.5281/zenodo.14866876
+
+Field-caught; Lancaster County, Nebraska Stored in collections at the University
+
+of Nebraska-Lincoln
+
+https://imagej.net/ij/
+https://www.ravensoundsoftware.com/
+
+https://www.audacityteam.org/
+https://www.R-project.org/
+https://www.rstudio.com/
+https://cran.r-project.org/package=mgcv
+https://CRAN.R-project.org/package=car
+https://cran.r-project.org/package=flextable
+https://CRAN.R-project.org/package=tidyverse
+https://CRAN.R-project.org/package=emmeans
+https://doi.org/10.1007/978-1-4939-9458-8_15
+https://doi.org/10.1007/s00265-017-2340-2
+
+EXPERIMENTAL MODEL AND STUDY PARTICIPANT DETAILS
+
+We collected data for these experiments across two years: 2022 and 2023. In 2022, we collected 129 juvenile female Agelenopsis
+pennsylvanica in their penultimate instar from four sites — two rural (Figure 1A; 32 from R1 and 33 from R2) and two urban (Figure 1A;
+39 from U1 and 25 from U2) August 4-10. In 2023, we collected 60 juvenile female A. pennsylvanica in their penultimate instar from one
+rural and one urban site (80 each, R1 and U1) August 1-3. In both years, we housed spiders individually in 8.3 x 8.3 x 8.3 cm opaque
+containers suspended over a tub of water with chicken wire mesh to receive ad libitum water through a cotton wick provided through
+a hole in the bottom of the container. We fed the spiders two 1/8-inch crickets twice a week and checked for molts every other day.
+The room maintained a temperature of 25°C with a 12:12 hour light:dark cycle starting at 07:00. Spiders matured between mid-
+August and early-September.
+
+METHOD DETAILS
+
+Spiders’ Responses to Pure Tone Frequencies
+To determine what range of frequencies within known environmental noise (< 1 kHz)°” are relevant to A. pennsylvanica foraging, we
+measured spiders’ responses to pure tone frequencies below 1000 Hz. We used a 10-mm Linear Resonant Actuator (LRA) to deliver
+pure tone vibrations onto each web through contact with the web’s surface (Figure 1C). We produced pure tone frequencies in Au-
+dacity® (v. 3.4.0) for 100 to 1000 Hz in 100 Hz increments. When generating the tones, we set the amplitude (with options 0 for silence
+to 1 for maximum amplitude without clipping) for each frequency to 0.5 except for 100 Hz, which we set with an amplitude of 1. We did
+this because 100 Hz vibrated at quieter amplitudes than the other frequencies as measured by a Polytec Portable Digital Vibrometer
+(Model 100), and we wanted all frequencies to vibrate at the same amplitude. To calibrate the relative amplitudes of the input (vibr-
+ometer) and output (LRA) through our audio interface (MixPre-6), we calibrated the interface input gain (20 dB with an output volume
+of 90) using an analog oscilloscope (Hameg Instruments, Model: HM303-6) and determined a particle velocity of 1.5 mm/s at 500 Hz
+following the methods of Michael et al.°° We did not filter the playback because the peak frequencies from these tests matched the
+intended frequencies.
+
+We produced ten playback files where the 15-second pure tone frequencies were in a different random order in each file and sepa-
+rated by 60 seconds of silence (Figure 1D). We randomly selected from 10 uniquely ordered playback files for each spider but ensured
+
+e1 Current Biology 35, 1706-1715.e1-e4, April 21, 2025
+
+Current Biology ©@ CellPress
+
+equal distribution of the ten files between groups. Each of the 10 playback files began with a unique frequency of the 10 possible
+frequencies, allowing us to perform an additional test of the responses to only the first frequency to control for habituation (see Fig-
+ure S1). As spiders typically built and rested in a retreat in a corner of the square container, we lowered the LRA to just touch the web
+surface between the center of the web and the opposite corner of the container, about 7 cm from the spider. The same observer ran
+all trials to ensure equal forces were applied to each web at the point of contact with the LRA. We observed whether each spider
+attacked the LRA (defined as making contact with the LRA) within the time that the pure tone played on the web. For analysis, we
+included only the spiders that attacked at least one of the ten pure tone frequencies, which brought our sample size to 45 rural spiders
+in 2022 (out of 65), 41 urban spiders in 2022 (out of 64), 13 rural spiders in 2023 (out of 30), and 22 urban spiders in 2023 (out of 30).
+Many spiders participated in these trials after participating in an additional playback study (see Table S1 about participation in pre-
+vious experiments). The observer was blind to the spider’s collection site and any previous participation in experiments (Table S1).
+
+Noise Effects on Web Vibration Transmission
+
+We wanted to test whether vibrations travel differently across webs built by rural and urban A. pennsylvanica under distinct vibratory
+noise treatments. We used the 60 female A. pennsylvanica spiders collected in 2023 and conducted this experiment before testing
+their response to different pure tone frequencies described above.
+
+Vibratory Playback Treatments During Four Nights of Web Construction
+We randomly assigned adult rural and urban spiders to construct webs under one of two vibratory playback treatments: quiet or loud.
+To provide a controlled vibratory environment, we crafted an arena (Figure 3A) using an 8-inch diameter subwoofer (Skar Audio,
+Model: FSX8-8) with the cone removed to eliminate disturbance in the near-field. ’° We connected an 8-inch diameter embroidering
+loop to the speaker using a wooden skewer scaffold, secured by mounting putty and hot glue (Figure 3A). To provide a substrate for
+the spider to construct its web and allow an observer to easily view and photograph the web, we cut black photography velvet to fit
+tightly in the embroidering loop. Arenas were housed in 18-gallon plastic, opaque storage bins with holes cut in the lid for light to enter
+and to reduce visual and acoustic disturbance. The tubs also rested on acoustic foam to reduce vibratory disturbances. We con-
+nected the speaker to a four-channel stereo microamp (Behringer, Model HA400) with a custom double alligator clip-to-3.5 mm ste-
+reo cable (Figure 3A). The microamp was connected to a digital recorder (Tascam TEAC Corporation, Model DR-05X) which played
+low-frequency white noise as vibrations through the speaker. We built six arenas in total to simultaneously run six trials at a time.
+For the vibratory playback file, we created the white noise in Audacity” (v. 3.4.0) using a low pass filter with a cutoff of 1000 Hz and
+a6 dB per octave roll-off to mimic ambient vibratory noise in the field, which was concentrated below 1000 Hz.7° The microamp had
+10 amplitude settings, which could be individually adjusted for each of the four channels. We used settings 1 (quiet treatment) and 8
+(loud treatment) to produce vibrations at the center of the black velvet (signal-to-noise ratio 0-1000 Hz; quiet = 4.20 + 0.23 dB, loud =
+31.96 + 0.32 dB) that varied similarly to field recordings of rural and urban sites by amplitude (~22 dB daily average range)*° and
+shape of frequency profiles (Figure S2). We note that the lab playback was recorded using a laser vibrometer, while field recordings
+were collected using a contact microphone,”° so comparisons of amplitudes (apart from range comparisons) between the field and
+lab recordings are not possible. We also measured airborne sound levels at the center of the arena using a handheld sound level
+meter (Cadrim; frequency range: 31.5-4000 Hz; resolution: 0.1 dB).
+Mature female A. pennsylvanica constructed webs under either quiet or loud conditions for four consecutive nights between
+September 5 and October 17, 2023. We chose four days as we observed a plateau in silk addition around the fourth day, though
+Agelenopsis spiders continue adding silk beyond the fourth day. Future research should therefore examine web transmission across
+different days of web construction. For each unique combination of rural/urban and treatment (rural/quiet; rural/loud; urban/quiet;
+urban/loud), our sample size was 15 webs built by different females. We randomly assigned each spider to one of the six arenas
+and ensured an even distribution of site/treatment groups across the six arenas. The temperature and light cycle during playback
+were similar to the previously mentioned lab conditions. Spiders were not fed or provided water during these four days but were
+fed two 1/8-inch crickets within 24 hours of their introduction to the arena. Since age influenced how this species used a microhabitat
+that varied in vibratory noise levels in a previous study,”° we reduced variation in spider age as much as possible. We weighed and
+photographed spiders with a size standard prior to their introduction to the playback. With these photographs, we measured the spi-
+der’s body condition’' by calculating the residuals of the linear relationship between the log-transformed body mass and cephalo-
+thorax width measured in ImageJ.°° We added the spider to the arena in a collection vial (Figure 3, fastened in place using Velcro) to
+encourage retreat construction in the vial. We wrapped the embroidering loop with a six-cm-high six-mil mylar using Velcro to prevent
+escape and coated the mylar in Vaseline to prevent silk attachment to the mylar. We covered the top with cling wrap to further prevent
+escape. At the end of each trial, the velvet was replaced with new, and the collection vial was washed with dish soap.
+
+Measuring Web Vibration Transmission
+Immediately following four nights of web construction, we removed the speaker from the arena and rested the arena on a granite slab
+that sat on top of two squares of acoustic foam (Figure 3B). In doing so, no vibratory playback occurred during recording, and
+ambient vibrations were damped as much as possible. We attached a laser vibrometer (Polytec PDV-100) to a tripod, each leg of
+which also rested on granite and acoustic foam. We set the laser vibrometer to record from the opening of the retreat, as that is
+the spider’s typical foraging position where it rests its legs to receive incoming vibratory information from the web sheet. We recorded
+from a small (2 mm x 2 mm) piece of white copier paper that we rested on the web using a low-pass of 22 kHz, no high-pass, and a
+
+Current Biology 35, 1706-1715.e1-e4, April 21, 2025 e2
+
+
+© CellPress Current Biology
+
+velocity of 5 mm/s/V. The laser vibrometer had a frequency range from 0.5 to 22 kHz. We recorded from the same location for all trials
+and for each spider (purple in Figure 3C).
+
+To produce controlled vibrations on the web (hereafter, stimulus), we used a mini shaker (Briel & Kjaer, Model: 4810) with a #10
+32-2 inch round head machine screw. We powered the shaker (without amplification) with a power amplifier (Briel & Kjeer,
+Model:2718). The shaker was attached to a moveable arm (Manfrotto, Model 244, with camera bracket and clamp) using a four-
+inch worm gear clamp. Since A. pennsylvanica webs are not sticky, the shaker could be moved to different locations on the web
+without damaging the web with the head of the screw resting on the web surface (Figure 3B). We created the stimulus file by first
+producing a file of white noise between 0 and 2000 Hz. We chose this range because the vibratory playback was concentrated below
+1000 Hz, and we wanted to know whether vibratory frequencies above the range of noise differed in transmission between groups.
+We then calibrated the surface of the shaker’s tip to vibrate all frequencies 0.5-2000 Hz at approximately equal amplitude (Figure 3D)
+using an analog oscilloscope (Hameg Instruments, Model: HM303-6) and MixPre-6 interface, following the methodology of Michael
+et al.°° The input gain of the MixPre-6 interface was calibrated to 28 dB and the output volume was set to 100. We determined that the
+particle velocity of the surface of the shaker was 2.2 mm/s at 300 Hz.
+
+We produced a one-second stimulus of calibrated and filtered white noise at six different positions on each web, thus varying the
+
+distance that vibrations traveled to the retreat: three close (3.5 cm) to the retreat (hereafter short-distance transmission) and three far
+(7 cm) from the retreat (hereafter longer-distance transmission) (Figure 3C). We repeated the one-second vibratory stimulus three
+times at each position on the web, repositioning the shaker between each trial. As a result, we measured vibration transmission
+18 times on each web (three trials at six positions). Simultaneously with the vibration stimulus from the shaker, we used Audacity®°
+to record the resulting vibrations after transmission across the web with the laser vibrometer. Thus, any recorded deviations (purple
+ine, Figure 3D) from the frequency profile of the shaker stimulus (yellow line, Figure 3D), would tell us the energy lost across different
+requencies as they traveled across the web. We added one second of silence to the beginning of the stimulus file to record ambient
+vibrations.
+To investigate vibration energy dynamics in a relatively fine-scaled, frequency-dependent manner, we used Raven Pro’® (v. 1.6.5)
+to measure the inband power (FFT length 8192, Hann window, 50% overlap, 0.186 s time resolution, 5.38 Hz frequency grid spacing)
+in 5.38 Hz bins, because this was the smallest frequency bin size for this time-frequency resolution. We took these measurements
+rom 0 to 2000 Hz (the last bin was 4.02 Hz from 1995.98 to 2000 Hz) for 0.5 seconds of ambient vibrations before the stimulus
+(‘ambient’) and during vibrations from the stimulus (‘test’) (Figures SSA and S3B). All recordings were processed as a waveform
+‘ormat with a 16-bit depth and a sampling rate of 44.1 kHz.
+
+To remove background noise (i.e., calculate the signal-to-noise-ratio) for each recording and determine the energy loss relative to
+the vibrations introduced by the stimulus, we followed the calculations outlined by Ringler et al.,°° with additional details provided in
+Figure S3. The calculations involved converting from the logarithmic (decibel, dB) scale to linear units. To remove any equipment or
+room noise, we used the ‘ambient’ and ‘test’ 0.5-second segments from the same recording to calculate the signal-to-noise ratio of
+each trial (Figure S3F). Similarly, we recorded directly from the surface of the stimulus using the vibrometer to measure the energy
+being introduced to the web at the point of contact and calculated the signal-to-noise ratio from 0.5-second ambient and test seg-
+ments of this recording (Figure S3E).
+
+While it would have been ideal to record the stimulus directly at the point of contact for each recording, this was not feasible
+because the shaker needed to be perpendicular to the web, and the base of the shaker would block the laser. To help account
+for any slight variation in masses on the web, we averaged the nine trials of short-distance transmission and the nine trials of
+longer-distance transmission from the retreat of each web because vibration transmission was similar across positions of similar
+transmission distances (Figure S4). We computed these averages using the linear scale of the signal-to-noise ratio to avoid the math-
+ematical distortion of averaging logarithmic values. After averaging the linear values, we converted all signal-to-noise values back to
+the more familiar logarithmic (dB) scale. Last, because the signal-to-noise ratio resulted in a stimulus that lacked a flat response
+across the frequency range (Figures 3D and S3E, yellow line) we subtracted the signal-to-noise ratio of the stimulus from each re-
+corded vibration trial at each frequency bin. This new metric measures the energy loss (or attenuation, in dB) of the recorded signal
+as the vibrations transmitted across the web from the point of production by the stimulus (now, 0 dB energy loss).
+
+Upon removing the arena from the speaker, the spider retreated to the back of the retreat and did not move during the recordings.
+Preliminary trials where the spider was removed did not show a difference in the frequency profile of the web, suggesting that the
+spider’s mass in this location had negligible effects on the overall vibration dynamics.
+
+QUANTIFICATION AND STATISTICAL ANALYSIS
+
+Spiders’ Responses to Pure Tone Frequencies
+
+To test whether rural or urban spiders exhibited differences in the range of frequencies they attacked (a range within known environ-
+mental noise that is relevant to A. pennsylvanica foraging), we used a binomial generalized additive model (attacked = 1, did not
+attack = 0) with frequency as a smoothed term varying by rural/urban. In the global model, we included collection site (Figure 1A,
+R1, R2, U1, or U2), year (2022 or 2023), age, and previous lab treatment experience (none, microhabitat use, quiet, or loud, see
+Table S1) as random effects. Although some spiders had prior vibratory experience in previous experiments, we do not believe
+this influenced the results, as it was dropped from the model for lack of improving model fit (see results: spider responses to pure
+tone frequencies). Moreover, all webs in this experiment were constructed under the same ambient lab conditions since our web
+
+e3 Current Biology 35, 1706-1715.e1-e4, April 21, 2025
+
+Current Biology ©@ CellPress
+
+transmission experiment shows that webs are significantly impacted by the vibratory conditions during web construction (see
+Figure 4). However, further research is needed to understand how the duration of noise exposure and time elapsed since such expo-
+sure affects behaviors like foraging. We used a basic dimension (k) of 10, which diagnostic tests suggested was an adequate value.
+We used backward selection by dropping non-significant terms one-by-one. To determine if the variables in the final model played a
+meaningful role in explaining spider attack behavior, we tested the final model against the null model using an ANOVA with a Wald
+Chi-Square statistic and compared the Akaike Information Criterion (AIC) values. We repeated this analysis on the order of fre-
+quencies presented (to test for habituation), and responses to the first frequency only (to control for habituation). To test whether
+overall attack probabilities differed between rural and urban spiders, we used pairwise comparisons of estimated marginal means.
+
+Noise Effects on Web Vibration Transmission
+
+To first test for differences in age and body condition, we performed an ANOVA with a Wald Chi-Square statistic for the interaction
+between rural/urban and treatment. To look for differences in energy loss of different frequencies as they travel across webs built by
+rural and urban spiders and under quiet or loud vibratory treatments, we used a generalized additive model (GAM) with a smoothed
+term across frequencies by unique rural/urban x treatment groups (rural/quiet; rural/loud; urban/quiet; urban/loud). We used a single
+variable for rural/urban x treatment so that we could test for differences between the four groups, and because GAMs do not handle
+interactions within smoothed terms. We used a basic dimension (k) of 10 for the smooth term. While increasing k improved model fit
+due to the noisiness of the raw data, it did not change the results. We performed separate analyses for short-distance versus longer-
+distance vibration transmission from the stimulus with a sample size of 15 webs per rural/urban x treatment group. To determine if the
+variables in the final model played a significant role in explaining energy lost during web transmission, we compared this model to the
+null model (the model lacking any predictor values) using an ANOVA with a Wald Chi-Square statistic and using AIC values. To
+compare average energy loss between site/treatment groups in relevant frequency ranges, we performed pairwise comparisons
+of the estimated marginal means from generalized additive models. Specifically, we performed separate analyses for frequencies
+below 1000 Hz (overlapping with known noise) and above 1000 Hz (outside the range of known noise). For significant pairwise dif-
+ferences (based on Tukey-adjusted P-values), we examined non-overlapping 95% confidence intervals to identify the specific fre-
+quency ranges where energy loss varied between pairs.
+
+We also tested the properties of the silk (total silk mass and percent moisture) of the webs built during vibratory noise playback
+following recording web vibration transmission, and we provided these findings in supplemental material (see Figure S6).
+
+All statistical analyses and visualizations were performed using R®' (v. 4.2.2) in RStudio®° (v. 2023.09.0+463). We used the mgev
+package’ to perform generalized additive models, the emmeans package’’ to perform pairwise comparisons, and the tidyverse
+package’° to graph the model predictions. We used the car package” to perform ANOVA tests. The tables were produced using
+the flextable package°° or Microsoft Word. All data and code are accessible at https://github.com/brandipessman/vibration_
+transmission.
+
+Current Biology 35, 1706-1715.e1-e4, April 21, 2025 e4
+
